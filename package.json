@@ -1,0 +1,21 @@
+{
+  "name": "wityCMS-Doc-En",
+  "version": "0.0.1",
+  "description": "WityCMS is an open source software a content management system. It is built using the PHP technology. Easy to use, the software allows the website building (from a dozen to a hundred pages). Generally, our tool is used for corporate websites, promoting websites for a product, team or organization. That's where we shine. WityCMS also edit blogs websites or article based on editorial content, etc.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/e-books/wityCMS-Doc-En.git"
+  },
+  "author": "Creatiwity.net",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-gitbook": "0.4.2",
+    "grunt-gh-pages": "0.9.1",
+    "grunt-contrib-clean": "~0.5.0"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1"
+  }
+}
