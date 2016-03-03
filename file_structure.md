@@ -15,55 +15,20 @@ This text file holds the basic details about your theme. For example:
 * Author URI: https://creatiwity.net
 * Version: 1.1.0
 
+## WTemplate
 
-### WConfig.php
-Wconfig loads all configuration files, manages all configuration values.
+### WTemplate.php
 
-### Wcontroller.php
-WController is the base class that will be inherited by all the applications.
+WTemplate is the template engine used by wityCMS.
 
-### WDatabase.php
-WDatabase manages all database interaction.
+### WTemplateCompiler.php
 
-### WDate.php
-WDate manages date using the user's custom timezone.
+WTemplateCompiler compiles the nodes used in the templates parsed ba WTemplate.
 
-### WExport.php
-WExport helps to export data.
+### WTemplateFile.php
 
-### WHelper.php
-WHelpers automatically instantiates for you small libraries.
+WTemplateFiles is the template file manager.
 
-### WLang.php
-WLang manages everything about languages.
+### WTemplateParser.php
 
-### WMain.pho
-Wmain is the main class that wity launches at start-up.
-
-### WNote.php
-WNote manages all notes : stores, displaus...
-
-### WRequest.php
-WRequest manages all input variables.
-
-### WResponse.php
-WResponse compiles the final render of wityCMS that will be sent to the browser.
-
-### WRetriever.php
-WRetriver is the component to get the model or the view of an action from any wityCMS's application.
-
-### WRoute
-WRoute calculates the route given in the URL to find out the right application to execute.
-
-### WSession.php
-WSession manages all session variables and anti flood system.
-
-### WSystem.php
-Wsystem keeps the session, template and databse instances as singletons.
-
-### WTools.php
-WTools contains some tiny helpful functions.
-
-### WView.php
-WView handles application's Views.
-
+WTemplateParser is the part of WTemplate.
