@@ -10,7 +10,9 @@ In the top left of this list, a tab to create a new page. Click on "Add a page".
 
 ![](01-browser-pages-list.png)
 
-## Create a page
+## Create or edit your page
+
+When you click in “adding a page”, a form appears on the screen, this is where you can create your new page and its details.
 
 ![](02-browser-pages-create.png)
 
