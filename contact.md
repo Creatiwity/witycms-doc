@@ -13,6 +13,5 @@ Lorem ipsum ...
 ## Contact config 
 
 ![](03-img-contact-config.png)
-
 Lorem Ipsum...
 
