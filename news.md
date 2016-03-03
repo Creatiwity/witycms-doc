@@ -10,13 +10,13 @@ Using news is interesting to create and manage your site's news, key announcemen
 
 News application will allow you to add single news to your website from the backend, the frontend with a text editor (CKEditor V2.0). ([CKEditor documentation](http://docs.ckeditor.com/)).
 
-
+![](01-img-articles.png)
 
 This list contains all the items created and gives you the title, author, category it belongs, its state of publication, the number of times it has been seen, the modification date and a rapid button action to go to editing or deleting the article. In the top right of this list, a button invites you to create a new article. Click on **"Add news"**.
 
 ## Create and edit news
 
-![](Img/Applications/News/02-img-articles-create.png)
+![](02-img-articles-create.png)
 
 ### Editing:
 
@@ -56,7 +56,7 @@ To overcome this drawback, wityCMS offers the ability to create categories in wh
 
 To create a new category, click on the "category" tab. WityCMS lists the already existing categories. In this list, only editing or deleting a category is available. You must click on the button "add categories" to create a new one.
 
-![](Img/Applications/News/03-img-articles-category.png)
+![](03-img-articles-category.png)
 
 * **Name**:
 * **Shortname**:
