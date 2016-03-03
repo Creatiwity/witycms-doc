@@ -34,7 +34,7 @@ By default, the site will contain the language specified during installation. Bu
 
 ![](03-img-settings-add-language.png)
 
-To add the language you will need to carefully fill the fields indicated in ensuring respect although you ISO 639 (standard list of languages), ISO 3166 size (standard list of countries) - http://www.localeplanet.com/icu/.
+To add a new language you will need to carefully fill the forms indicated in ensuring respect although you ISO 639 (standard list of languages), ISO 3166 size (standard list of countries) - http://www.localeplanet.com/icu/.
 
 * **Name***:  Name
 * **Iso***: Iso
