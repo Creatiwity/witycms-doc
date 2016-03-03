@@ -1,6 +1,8 @@
 # Introduction
 
-Theming in wityCMS is easy; all you need is some basic knowledge of HTML, CSS, and PHP. With our functions, it’s a breeze making a theme.
+This CMS uses its own templating system, named [WTemplate](https://github.com/Creatiwity/WTemplate), developed as [a separate GitHub project](https://github.com/Creatiwity/WTemplate) but included here as a submodule.
+
+Theming in wityCMS is easy; all you need is some basic knowledge of HTML, CSS, and PHP. With our functions, it’s easy making a theme.
 
 ## Getting started
 
