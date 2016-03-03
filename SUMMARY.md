@@ -14,7 +14,6 @@
    * [Settings](settings.md)
    * [News](news.md)
    * [Pages](pages.md)
-   * [Slideshow](slideshow.md/Slideshow)
    * [Teams](teams.md)
    * [Users](users.md)
    * [Contact](contact.md)
