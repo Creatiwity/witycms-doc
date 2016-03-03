@@ -1,6 +1,5 @@
 # Installation
 
-
 ## Download wityCMS
 
 You will now install wityCMS from its source files. 
