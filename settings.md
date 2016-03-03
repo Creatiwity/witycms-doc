@@ -12,7 +12,7 @@ General it’s the first configuration you done during the installation steps.
 * **Site name**: just give a name at your website who define your activity
 * **Administrator Email**: generally, it is better to give the address of the webmaster in charge of the website.
 
-SEO section allows you to edit the elements that will be used when site appears in different Google searches. You can leave blank the fields below, but it is strongly advised to complete them correctly if you want to appear clearly on Google results.
+SEO section allows you to edit the elements that will affect the visibility of a website or a web page in a search engine's, when site appears in different Google searches. You can leave blank the fields below, but it is strongly advised to complete them correctly if you want to appear clearly on results.
 
 * **Site Title**: Title who define your activity
 * **Description for SEO**: a short description of your activity (less than 125 chars).
