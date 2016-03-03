@@ -25,11 +25,11 @@
    * [Custom template](custom_template.md)
 * Expert
    * [Technical overview](technical_overview.md)
+   * WCore
    * [Creat apps](creat_apps.md)
    * More
        * [Helpers (php)](helpers_php.md)
        * [Librairies (js)](librairies_js.md)
-   * WCore
 * Appendices
    * [CKEditor](ckeditor.md)
    * [Bootstrap](bootstrap.md)
