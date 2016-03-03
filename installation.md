@@ -11,7 +11,7 @@ With your FTP program (eg Filezilla), send to your server all the contents of th
 
 Folder structure:
 
-![](Img/getting_started/01-witycms-folders.png)
+![](01-witycms-folders.png)
 
 ## Webservers configuration
 
@@ -36,7 +36,7 @@ Once the files have been installed on your FTP server from the FileZilla softwar
 
 ### General
 
-![](Img/Installer/01-General.png)
+![](01-General.png)
 
 * **Site name***: Specify the name you want to give to your website.
 * **Base URL***: inquire with the URL where the file name in which you * export the .ZIP. By default, this field is pre-filled.
@@ -46,7 +46,7 @@ Once the files have been installed on your FTP server from the FileZilla softwar
 
 ### Application
 
-![](Img/Installer/02-Application.png)
+![](02-Application.png)
 
 * **Home application***: The Home application is the first application executed by wityCMS and that will be displayed when users connect to the root page of your website. For instance, if you want to create a blog, we advise you to select the News application.
 
@@ -56,7 +56,7 @@ Once the files have been installed on your FTP server from the FileZilla softwar
 
 WityCMS needs a MySQL database to run which is available on most of the web servers. Fill in the credentials provided by your hosting company in the form.
 
-![](Img/Installer/03-Database.png)
+![](03-Database.png)
 
 * **Server***: localhost
 * **Port**: 3306
@@ -74,7 +74,7 @@ The following fields will allow you create your user account. This account will 
 
 Once you click on the "Launch install" button, wityCMS will install and you will be able connect to the administration panel.
 
-![](Img/Installer/04-Admin_account.png)
+![](04-Admin_account.png)
 
 * **Nickname***:
 * **Password***:
@@ -87,7 +87,7 @@ Once you click on the "Launch install" button, wityCMS will install and you will
 
 Congratulation, the installation of wityCMS is completed! Please, make sure the directory /installer/ is deleted from your server.
 
-![](Img/Installer/05-Admin_account.png)
+![](05-Admin_account.png)
 
 You can either connect to your home page, or the administration panel with the two button :
 * **Home**: you are redirected on the front-end app you choose during the second installation step
