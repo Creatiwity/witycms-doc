@@ -52,8 +52,18 @@ WResponse compiles the final render of wityCMS that will be sent to the browser.
 ### WRetriever.php
 WRetriver is the component to get the model or the view of an action from any wityCMS's application.
 
-###WRoute
+### WRoute
 WRoute calculates the route given in the URL to find out the right application to execute.
 
 ### WSession.php
-WSession 
+WSession manages all session variables and anti flood system.
+
+### WSystem.php
+Wsystem keeps the session, template and databse instances as singletons.
+
+### WTools.php
+WTools contains some tiny helpful functions.
+
+### WView.php
+WView handles application's Views.
+
