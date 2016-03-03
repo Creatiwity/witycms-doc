@@ -22,7 +22,7 @@
 * Themes
    * [Introduction](introduction.md)
    * [File Structure](file_structure.md)
-   * Custom template
+   * [Custom template](custom_template.md)
 * Expert
    * [Technical overview](technical_overview.md)
    * [Creat apps](creat_apps.md)
