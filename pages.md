@@ -33,7 +33,7 @@ On the side you will find the schedule information in your article:
 * **root page**: 
 * **Image**: The image field is used to select the picture of your page (using like header etc.)
 
-### Referencing:
+### SEO:
 
 * **Tag title**:
 * **Tag description**:
