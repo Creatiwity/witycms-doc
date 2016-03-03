@@ -10,7 +10,6 @@ Unpack the archive to any folder on your computer and note the location.
 With your FTP program (eg Filezilla), send to your server all the contents of the folder, keeping exactly the same structure (of folders and files). This may be at the root of your web space or in a subfolder if you wish (for example if you are hosting multiple websites under one domain name).
 
 Folder structure:
-
 ![](01-witycms-folders.png)
 
 ## Webservers configuration
