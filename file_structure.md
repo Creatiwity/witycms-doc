@@ -7,11 +7,14 @@ If you don’t have these files, your theme won’t work properly, or just won�
 
 ### about.txt
 This text file holds the basic details about your theme. For example:
-Theme name: Default
-Description: This is the default, shiny theme for Anchor CMS.
-Author name: Visual Idiot
-Author site: http://visualidiot.com
-License: http://licence."...".com
+
+* Theme Name: Grafx
+* Theme URI: https://creatiwity.net
+* Description: Theme for wityCMS
+* Author: Creatiwity
+* Author URI: https://creatiwity.net
+* Version: 1.1.0
+
 
 ### 405.404.php
 When a post, page or article is not found, this template will be used.
@@ -38,6 +41,3 @@ The very first part of your theme. Included at the very start of every template,
 
 ### footer.php
 The opposite to header.php; included at the end of every template, and is normally used to close the document and insert any tracking/analytics code, or external JavaScript.
-
-### search.php
-This template shows the results for a user’s search. Used in conjunction with the loop to show the search results.
