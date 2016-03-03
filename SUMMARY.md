@@ -21,7 +21,7 @@
    * [Newsletter](newsletter.md)
 * Themes
    * [Introduction](introduction.md)
-   * File Structure
+   * [File Structure](file_structure.md)
    * Custom template
 * Expert
    * [Technical overview](technical_overview.md)
