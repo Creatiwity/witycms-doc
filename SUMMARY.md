@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * Overview
    * [CMS](cms.md)
-   * [Strenghts](strenghts.md)
+   * [Strenghts](strenghts.md/Strenghts)
    * [Compatibility](compatibility.md)
 * Getting started
    * [Installation](installation.md)
@@ -14,7 +14,7 @@
    * [Settings](settings.md)
    * [News](news.md)
    * [Pages](pages.md)
-   * [Slideshow](slidshow.md) 
+   * [Slideshow](slidshow.md)
    * [Teams](teams.md)
    * [Users](users.md)
    * [Contact](contact.md)
