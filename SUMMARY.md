@@ -20,7 +20,7 @@
    * [Contact](contact.md)
    * [Newsletter](newsletter.md)
 * Themes
-   * Introduction
+   * [Introduction](introduction.md)
    * File Structure
    * Custom template
 * Expert
