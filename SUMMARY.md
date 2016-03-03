@@ -22,6 +22,7 @@
 * Themes
    * Introduction
    * File Structure
+   * Custom template
 * Expert
    * [Technical overview](technical_overview.md)
    * [Creat apps](creat_apps.md)
