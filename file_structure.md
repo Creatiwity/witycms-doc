@@ -19,9 +19,17 @@ This text file holds the basic details about your theme. For example:
 
 ### Img
 
+* style.css
+* index.html
+
 ### Lang
 
+* en.xml
+* fr.xml
+
 ### Templates
+
+* index.html
 
 ## WTemplate
 
