@@ -4,7 +4,7 @@ The management of user and group provides the ability to manage the access to th
 
 ## Users List
 
-![](Img/Applications/Users/01-users-list.png)
+![](01-users-list.png)
 
 Lorem ipsum...
 
@@ -12,7 +12,7 @@ Lorem ipsum...
 
 To create a new user, click on the "add user" button. A new form appears on the screen, this is where you can create your new user and edit his profile.
 
-![](Img/Applications/Users/02-users-addedit.png)
+![](02-users-addedit.png)
 
 *  **Id**: 
 *  **Password**: 
@@ -40,19 +40,19 @@ You can select and deselect all what is exactly the same things to attribute rig
 
 User membership in groups: Allows you to assign users to groups.
 
-![](Img/Applications/Users/03-users-group.png)
+![](03-users-group.png)
 
 ### Add a new group
 
 Allows you to add new groups of users to attach it to switch to the rights management. By default, there are two right groups: Administrator and non-Administrator.
 
-![](Img/Applications/Users/04-users-addgroup.png)
+![](04-users-addgroup.png)
 
 ## Configuration
 
 Setting permissions and group access levels:
 
-![](Img/Applications/Users/05-users-settings.png)
+![](05-users-settings.png)
 
 
 
