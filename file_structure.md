@@ -15,6 +15,14 @@ This text file holds the basic details about your theme. For example:
 * Author URI: https://creatiwity.net
 * Version: 1.1.0
 
+### Style.css
+
+### Img
+
+### Lang
+
+### Templates
+
 ## WTemplate
 
 ### WTemplate.php
