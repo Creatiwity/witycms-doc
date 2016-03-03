@@ -8,11 +8,11 @@ This list contains all created pages and gives you their name as it appears in t
 
 In the top left of this list, a tab to create a new page. Click on "Add a page".
 
-![](Img/Applications/Pages/01-browser-pages-list.png)
+![](01-browser-pages-list.png)
 
 ## Create a page
 
-![](Img/Applications/Pages/02-browser-pages-create.png)
+![](02-browser-pages-create.png)
 
 ### Editing:
 
