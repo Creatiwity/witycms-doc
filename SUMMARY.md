@@ -14,11 +14,11 @@
    * [Settings](settings.md)
    * [News](news.md)
    * [Pages](pages.md)
+   * Slideshow
    * [Teams](teams.md)
    * [Users](users.md)
    * [Contact](contact.md)
    * [Newsletter](newsletter.md)
-   * [Slideshow](slideshow.md)
 * Themes
 * Expert
    * [Technical overview](technical_overview.md)
