@@ -21,9 +21,14 @@ A SQL server with a database available like:
 * MySQL 5.5 (recommended)
 * MariaDB 5.5 & 10
 
+## FTP
+A **FTP client**, like [FileZilla](https://filezilla-project.org/), to upload the files;
+
+* Download the latest version of **wityCMS**: [zip](https://github.com/Creatiwity/wityCMS/archive/0.5.0.zip). 
 ## Browsers
 
 The compatibility of the wityCMS administration is compatible with all major browsers on the market:
+
 * Firefox
 * Chrome
 * IE7 + (IE6 is not supported)
