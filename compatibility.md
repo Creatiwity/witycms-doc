@@ -15,6 +15,8 @@ The installation of wityCMS requires a PHP environment with minimal version of P
 
 ## MySQL 4.1
 
+A SQL server with a database available like:
+
 * MySQL 4.1+
 * MySQL 5.5 (recommended)
 * MariaDB 5.5 & 10
