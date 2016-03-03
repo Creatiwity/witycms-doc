@@ -10,4 +10,4 @@ Once you have finished installing your website you will access to him at the add
 
 The home page of your site is the page that you mentioned at the second stage of the installer, which is usually the application "news".
 
-![](Img/01-witytemplate.png)
+![](01-witytemplate.png)
