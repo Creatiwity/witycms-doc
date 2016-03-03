@@ -18,7 +18,7 @@
    * [Users](users.md)
    * [Contact](contact.md)
    * [Newsletter](newsletter.md)
-   * Slideshow
+   * [Slideshow](slideshow.md)
 * Themes
 * Expert
    * [Technical overview](technical_overview.md)
