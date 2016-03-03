@@ -34,7 +34,6 @@ Launch another browser (or tab) and enter the local address: http: // ... / phpM
 Once the files have been installed on your FTP server from the FileZilla software. Start your browser, type the URL of the file where you put the files, for example: "http://www.votresite.com" if it is at the root of your FTP. This will redirect you to the installation wizard. It only remains for you to follow the 4 steps wityCMS facilities. You can not complete the installation once the 4 steps validated by clicking the button "Launch install".
 
 ### General
-
 ![](01-General.png)
 
 * **Site name***: Specify the name you want to give to your website.
@@ -44,7 +43,6 @@ Once the files have been installed on your FTP server from the FileZilla softwar
 * **Time zone ***: By default, the "Time Zone" is always (UTC + 01: 00) Paris.
 
 ### Application
-
 ![](02-Application.png)
 
 * **Home application***: The Home application is the first application executed by wityCMS and that will be displayed when users connect to the root page of your website. For instance, if you want to create a blog, we advise you to select the News application.
