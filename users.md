@@ -4,13 +4,12 @@ The management of user and group provides the ability to manage the access to th
 
 ## Users List
 
+Lorem ipsum...
 ![](user-01.png)
 
-Lorem ipsum...
+## Add a user
 
-## Add and edit user
-
-To create a new user, click on the "add user" button. A new form appears on the screen, this is where you can create your new user and edit his profile.
+To create a new user, click on the "**add user**" button. A new form appears on the screen, this is where you can create your new user and edit his profile.
 
 ![](user-02.png)
 
