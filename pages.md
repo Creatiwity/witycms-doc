@@ -54,7 +54,7 @@ Open the folder containing sources of your website.
 
 ![](pages-04.png)
 
-5. Open it with an text editor (like [Sublime Text](https://www.sublimetext.com/))
+5. Open it with an text editor (like [**Sublime Text**](https://www.sublimetext.com/))
 6. Add the name of your new page like this
 ```
 <ul class="nav navbar-nav">
