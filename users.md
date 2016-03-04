@@ -1,5 +1,5 @@
 # Users
----
+
 The management of user and group provides the ability to manage the access to the administration, according to the group permissions, certain menus or submenus will be unavailable.
 
 ## Users List
