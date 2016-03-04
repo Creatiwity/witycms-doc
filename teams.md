@@ -11,9 +11,9 @@ This list contains all members created on your website. This list gives you thei
 By default the members of your team are ordered with the ID. But if you want you can easly reorder it ...
 ![](team-03.png)
 
-## Add and edit member
+## Add a member
 
-You can add new profile member easily to create your team.
+When you click on “**Add a member**”, you are redirected to a new page, here is where you can create your new member profil.
 
 ![](team-02.png)
 
