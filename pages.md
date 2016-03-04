@@ -44,4 +44,6 @@ Meta tags, Title and Link are html tag inserted in the ```<head >``` section of 
 
 ## Index your page
 
-To index your page correctly on your website you need to open 
+To index your page correctly on your website you need to open FileZila and connect you to your FTP. 
+
+
