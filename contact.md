@@ -14,6 +14,7 @@ Lorem ipsum ...
 ![](contact-02.jpg)
 ## Configuration 
 
-![](contact-03.jpg)
 Lorem Ipsum...
+![](contact-03.jpg)
+
 
