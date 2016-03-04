@@ -4,23 +4,28 @@ We will present the official application developed by wityCMS team and offered a
 
 Settings application will allow you to configure the general elements of your website. You will find the items you have filled during the installation of wityCMS.
 
-## Configuration
+## Configure
 
 ![](settings-01.png)
+### General
 
 General it’s the first configuration you done during the installation steps. 
-* **Site name**: just give a name at your website who define your activity
-* **Administrator Email**: generally, it is better to give the address of the webmaster in charge of the website.
+* **Website's name**: just give a name at your website who define your activity
+* **Administrator's Email**: generally, it is better to give the address of the webmaster in charge of the website.
+
+### SEO
 
 SEO section allows you to edit the elements that will affect the visibility of a website or a web page in a search engine's, when site appears in different Google searches. You can leave blank the fields below, but it is strongly advised to complete them correctly if you want to appear clearly on results.
 
-* **Site Title**: Title who define your activity
-* **Description for SEO**: a short description of your activity (less than 125 chars).
+* **Title**: Website title who define your activity
+* **Description (about 125 symbols)**: a short description of your activity (don't exceed 125 chars).
+
+### Icons
 
 It is also in this section of the website you can edit the icon that will identify your website. More often is the brand logo of your company or something represent the content of your website.
 
 * **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
-* **Site Icon (32x32 px)**:
+* **Site's Icon (32x32 px)**:
 
 ## Languages
 
