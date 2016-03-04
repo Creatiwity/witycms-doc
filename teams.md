@@ -23,8 +23,8 @@ When you click on “**Add a member**”, you are redirected to a new page, here
 * **Email**:
 * **LinkedIn**:
 * **Twitter**:
-* **Main picture**:
-* **Hovering picture**:
+* **Image**:
+* **Hovering Image**:
  
 
  
