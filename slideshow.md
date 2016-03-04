@@ -10,12 +10,15 @@ In the top left of this list, a tab prompts you to create a new slide.
 Click on "**Add a slide**".
 
 ![](slideshow-01.png)
+## Add a slide
 
-## Create and Edit slide
-
-When you click on “add a slide”, a new form appears on the screen, this is where you can create your new slide.
+When you click on “**Add a slide**”, you are redirected to a new page, here is where you can create your new slide.
 
 ![](slideshow-02.png)
+
+* **Title***:
+* **Legend**
+
 ## Configuration
 
 The configuration tab at the top left of the admin wityCMS, allows you to configure your slider. You can automatic playback, configure pause time and the transition time.
