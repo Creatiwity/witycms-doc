@@ -31,5 +31,5 @@ The configuration tab at the top left of the admin wityCMS, allows you to config
 
 When you decide to enable slides autoplaying you can edit this two parameter : 
 
-* **Pause time between two slides (ms)**: 
-* **Transition time between two slides (ms)**: 
+* **Pause time between two slides (ms)**: the default value is 4000
+* **Transition time between two slides (ms)**: the default value is 500
