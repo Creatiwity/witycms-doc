@@ -11,15 +11,17 @@ Using news is interesting to create and manage your site's news, key announcemen
 News application will allow you to add single news to your website from the backend, the frontend with a text editor (CKEditor V2.0). ([CKEditor documentation](http://docs.ckeditor.com/)).
 
 ## List
-![](01-img-articles.png)
+![](news-01.png)
 
 This list contains all the items created and gives you the title, author, category it belongs, its state of publication, the number of times it has been seen, the modification date and a rapid button action to go to editing or deleting the article. In the top right of this list, a button invites you to create a new article. Click on **"Add news"**.
 
 ## Create and edit news
 
-![](02-img-articles-create.png)
+![](news-02.png)
 
 ### Editing:
+
+![](news-03.png)
 
 After clicking the button "Add news" in the upper right of the wityCMS admin. You arrive on creating page of your article.
 
@@ -52,15 +54,17 @@ If you mentioned categories in the basic site data, this is where you can indica
 
 ## Categories
 
+![](news-04.png)
 You can have many news and their subjects totally different, so its difficult for readers to navigate and to have quick access to the information.
 To overcome this drawback, wityCMS offers the ability to create categories in which you can store your news according to their content.
 
 To create a new category, click on the "category" tab. WityCMS lists the already existing categories. In this list, only editing or deleting a category is available. You must click on the button "add categories" to create a new one.
 
-![](03-img-articles-category.png)
+![](news-05.png)
 
-* **Name**:
-* **Shortname**:
-* **Parent**:
-* **Actions**:
+* **Name**: Geek
+* **Shortname**: geek
+* **Parent**: Game
+* **Actions**: Create
 
+![](news-06.png)
