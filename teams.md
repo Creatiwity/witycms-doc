@@ -1,6 +1,6 @@
 # Teams
 
-Team application offers the possibility to create profile with personal information. 
+Team application offers the possibility to create some profiles with personal information about your team. 
 
 ## List
 
