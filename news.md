@@ -41,7 +41,7 @@ On the side you will find the schedule information in your article:
 
 ### Categories:
 
-If you mentioned categories in the basic site data, this is where you can indicate it to categorize your articles. (will you described how are managed categories).
+If you mentioned categories in the basic site data, this is where you can indicate it to categorize your news.
 
 ### SEO:
 
