@@ -3,9 +3,9 @@
 ## List
 Lorem Ipsum...
 
-![](01-Newsletter-list.png)
+![](newsletter-01.png)
 
 ## Export
 Lorem Ipsum...
 
-![](01-Newsletter-list-export.png)
+![](newsletter-02.png)
