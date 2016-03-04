@@ -47,7 +47,7 @@ To add a new language you will need to carefully fill the forms indicated in ens
 * **Code***: Code
 * **Date** (short format): %d%m%Y
 * **Date** (long format): %d/%m/%Y %H:%M
-* **Activated**: Yes / No
-* **Use by default**: Yes / No
+* **Enabled**: Yes / No
+* **Use as default**: Yes / No
 
 When you finish, you just need to "**submit**" and your modification will be saved.
