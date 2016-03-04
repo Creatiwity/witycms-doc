@@ -61,7 +61,8 @@ You can have many news and their subjects totally different, so its difficult fo
 To overcome this drawback, wityCMS offers the ability to create categories in which you can store your news according to their content.
 
 To create a new category, click on "Categories" tab.
-WityCMS lists the already existing categories. In this list, only editing or deleting a category is available.
+This list contains all the categories created and gives you the name, shortname, parent page.
+In this list, only editing or deleting a category is available.
 
 ![](news-04.png)
 You must click on the button "add categories" to create a new one.
