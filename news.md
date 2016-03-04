@@ -68,3 +68,6 @@ To create a new category, click on the "category" tab. WityCMS lists the already
 * **Actions**: Create
 
 ![](news-06.png)
+![](news-07.png)
+![](news-08.png)
+![](news-09.png)
