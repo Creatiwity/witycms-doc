@@ -44,6 +44,43 @@ Meta tags, Title and Link are html tag inserted in the ```<head >``` section of 
 
 ## Index your page
 
-To index your page correctly on your website you need to open FileZila and connect you to your FTP. 
+To index your page correctly on your website, you need to open your FTP client. 
+Open the folder containing sources of your website.
+
+1. themes folder
+2. name of your theme (here **grafx**) 
+3. templates
+4. Download the index.html 
+
+![](pages-04.png)
+
+5. Open it with text editor (like sublime text)
+6. Add the name of your new page like this
+
+```
+					<div class="collapse navbar-collapse">
+						<ul class="nav navbar-nav">
+							<li><a href="/"><span>{lang Home}</span><br />
+								<em>{lang starting page}</em></a></li>
+							<li><a href="/about"><span>{lang About}</span><br />
+								<em>{lang the company}</em></a></li>
+							<li><a href="/services"><span>{lang Services}</span><br />
+								<em>{lang our skills}</em></a></li>
+							<li><a href="/portfolio"><span>{lang Portfolio}</span><br />
+								<em>{lang our works}</em></a></li>
+							<li><a href="/news"><span>{lang Blog}</span><br />
+								<em>{lang latest posts}</em></a></li>
+							<li><a href="/contact"><span>{lang Contact}</span><br />
+								<em>{lang send us an email}</em></a></li>
+						</ul>
+
+						<form class="navbar-form navbar-right" role="search" action="/search" method="get">
+							<div class="form-group">
+								<input type="text" name="query" class="form-control" placeholder="{lang Search the website}" size="30" />
+							</div>
+							<button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+						</form>
+					</div><!-- /.navbar-collapse -->
+```
 
 
