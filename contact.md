@@ -4,7 +4,6 @@ Lorem ipsum...
 
 ## List
 ![](contact-01.jpg)
-
 Lorem ipsum ...
 
 ## Reading pop-up
