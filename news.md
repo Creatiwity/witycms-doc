@@ -74,8 +74,12 @@ You must click on the button "add categories" to create a new one.
 * **Parent**: Game
 * **Actions**: Create
 
-An alert view inform you "the category **Geek** was successfully created".
+A notification inform you "the category **Geek** was successfully created".
 ![](news-06.png)
+You can also delete a categories when you want with the action button. 
 ![](news-07.png)
+To confirm deletion, a pop-up appear asing you "Do you really want to delete this category?".
+If you are certain clic on "**Delete**" if not clic on "**Cancer**".
 ![](news-08.png)
+A notification appear to inform that the category is successfully deleted.
 ![](news-09.png)
