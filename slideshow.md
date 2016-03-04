@@ -17,7 +17,9 @@ When you click on “**Add a slide**”, you are redirected to a new page, here 
 ![](slideshow-02.png)
 
 * **Title***:
-* **Legend**
+* **Legend**:
+* **URL**:
+* **Image** (PNG or JPEG)*:
 
 ## Configuration
 
