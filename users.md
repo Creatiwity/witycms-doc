@@ -56,7 +56,7 @@ Setting permissions and group access levels:
 
 * Enable user account validation by an admin
 * At registration, send email to confirm the email address
-* Keed deleted and refused accounts in the database disabling them
+* Keep deleted and refused accounts in the database disabling them
 * Open registration
 * Send a user account summary by mail
 
