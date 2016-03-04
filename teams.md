@@ -24,7 +24,7 @@ When you click on “**Add a member**”, you are redirected to a new page, here
 * **LinkedIn**:
 * **Twitter**:
 * **Main picture**:
-* **Hover picture**:
+* **Hovering picture**:
  
 
  
