@@ -74,6 +74,7 @@ You must click on the button "add categories" to create a new one.
 * **Parent**: Game
 * **Actions**: Create
 
+An alert view inform you "the category **Geek** was successfully created".
 ![](news-06.png)
 ![](news-07.png)
 ![](news-08.png)
