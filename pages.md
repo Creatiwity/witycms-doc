@@ -18,7 +18,7 @@ After you click at the green button "**Add a page**" in the upper right of the w
 ![](pages-03.png)
 
 * **Title***: Start by indicating the title of your page (less is better).
-* **URL**: you will be automatically generated URL in relation to the title you have just entered. You can if you want change this URL.
+* **URL***: you will be automatically generated URL in relation to the title you have just entered. You can if you want change this URL.
 * **Content**: This is where it all happens. Thanks to **[CKEditor](http://docs.ckeditor.com/)** you will be able to write, layout your page and add pictures/videos as desired.
 
 ### Details:
