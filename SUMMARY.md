@@ -30,8 +30,8 @@
    * More
        * [Helpers (php)](helpers_php.md)
        * [Librairies (js)](librairies_js.md)
+* Contribution
 * Appendices
    * [CKEditor](ckeditor.md)
    * [Bootstrap](bootstrap.md)
-* Contribution
 
