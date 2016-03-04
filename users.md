@@ -38,6 +38,7 @@ You can select and deselect all what is exactly the same things to attribute rig
 ## Group of users
 
 User membership in groups: Allows you to assign users to groups.
+You can see the number of users assign to the groups.
 
 ![](user-03.png)
 
