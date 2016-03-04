@@ -13,14 +13,14 @@ To create a new user, click on the "**add user**" button. A new form appears on 
 
 ![](user-02.png)
 
-*  **Id**: 
+*  **Nickname**: 
 *  **Password**: 
 *  **Password (confirmation)**:
 *  **Email***:
 *  **First name**:
-*  **Name**:
+*  **last name**:
 *  **Group**:
-*  **Access right**: Simple user / Suprem Admin / Custom right access
+*  **User Rights**: Regular user / Supreme Admin / Custom rights access
 
 ### Right access table
 
