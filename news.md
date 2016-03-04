@@ -33,10 +33,11 @@ After clicking the button "Add a news" in the upper right of the wityCMS admin. 
 
 On the side you will find the schedule information in your article:
 
-* **Published**: yes / no (this will allow you to write an article without disclosing it on the canvas immediately).
-* **Publication time***: it’s automatically filled when you creating your article. However, you can edit yourself the time of the publication as desired.
-* **Author**: you can mention the author of the article; the default author name is the name of default account with which you are connected.
-* **Image**: The image field is used to select the picture of your article on your topic (using like header/ news preview etc.)
+* **Published**: yes / no (this will allow you to write an news without disclosing it on the canvas).
+* **Date of publication***: it’s automatically filled when you creating your article. However, you can edit yourself the time of the publication as desired.
+*  **Hour of publication***: it’s automatically filled when you creating your article. However, you can edit yourself the time of the publication as desired.
+* **Author**: you can mention the author of the article; the default author used, is the name of default account with which you are connected.
+* **Image**: You can load a main image for your article (using like header / news preview etc. That depend of the used template).
 
 ### Categories:
 
