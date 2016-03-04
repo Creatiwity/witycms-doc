@@ -23,19 +23,21 @@ After you click at the green button "**Add a page**" in the upper right of the w
 
 ### Details:
 
-On the side you will find the schedule information in your article:
+On the side you will find the schedule information in your page:
 
-* **Publication time***: it’s automatically filled when you creating your article. However, you can edit yourself the time of the publication as desired.
-* **Author**: you can mention the author of the article; the default author name is the name of default account with which you are connected.
-* **root page**: 
-* **Image**: The image field is used to select the picture of your page (using like header etc.)
+* **Author**: you can mention the author of the article; the default author used, is the name of default account with which you are connected.
+*  **Subtitle**: 
+* **Mother page**: 
+* **Image**: You can load a main image for your page (using like header / news preview etc. That depend of the used template).
 
 ### SEO:
 
-* **Tag title**:
-* **Tag description**:
+Meta tags, Title and Link are html tag inserted in the ```<head >``` section of a web page (before the ```<body>``` ). They help provide guid to the search engines , social networks and other systems to categorize the news content using metadata. The information in these tags are not visible on the screen, but appear in the source code of the page.
 
-### Validate your page:
+* **Meta title**: 
+* ** Meta description**:
+
+### Submit your page:
 
 * **Submit**:
 * **Cancel**:
