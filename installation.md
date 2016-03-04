@@ -9,7 +9,7 @@ Unpack the archive to any folder on your computer and note the location.
 With your FTP program (eg Filezilla), send to your server all the contents of the folder, keeping exactly the same structure (of folders and files). This may be at the root of your web space or in a subfolder if you wish (for example if you are hosting multiple websites under one domain name).
 
 Folder structure:
-![](01-witycms-folders.png)
+![](folders-01.png)
 
 ## Webservers configuration
 
@@ -33,7 +33,7 @@ Launch another browser (or tab) and enter the local address: http: // ... / phpM
 Once the files have been installed on your FTP server from the FileZilla software. Start your browser, type the URL of the file where you put the files, for example: "http://www.votresite.com" if it is at the root of your FTP. This will redirect you to the installation wizard. It only remains for you to follow the 4 steps wityCMS facilities. You can not complete the installation once the 4 steps validated by clicking the button "Launch install".
 
 ### General
-![](01-General.png)
+![](installer-01.png)
 
 * **Site name***: Specify the name you want to give to your website.
 * **Base URL***: inquire with the URL where the file name in which you * export the .ZIP. By default, this field is pre-filled.
@@ -42,7 +42,7 @@ Once the files have been installed on your FTP server from the FileZilla softwar
 * **Time zone ***: By default, the "Time Zone" is always (UTC + 01: 00) Paris.
 
 ### Application
-![](02-Application.png)
+![](installer-02.png)
 
 * **Home application***: The Home application is the first application executed by wityCMS and that will be displayed when users connect to the root page of your website. For instance, if you want to create a blog, we advise you to select the News application.
 
@@ -52,7 +52,7 @@ Once the files have been installed on your FTP server from the FileZilla softwar
 
 WityCMS needs a MySQL database to run which is available on most of the web servers. Fill in the credentials provided by your hosting company in the form.
 
-![](03-Database.png)
+![](installer-03.png)
 
 * **Server***: localhost
 * **Port**: 3306
@@ -70,7 +70,7 @@ The following fields will allow you create your user account. This account will 
 
 Once you click on the "Launch install" button, wityCMS will install and you will be able connect to the administration panel.
 
-![](04-Admin_account.png)
+![](installer-04.png)
 
 * **Nickname***:
 * **Password***:
@@ -83,7 +83,7 @@ Once you click on the "Launch install" button, wityCMS will install and you will
 
 Congratulation, the installation of wityCMS is completed! Please, make sure the directory /installer/ is deleted from your server.
 
-![](05-Admin_account.png)
+![](installer-05.png)
 
 You can either connect to your home page, or the administration panel with the two button :
 * **Home**: you are redirected on the front-end app you choose during the second installation step
