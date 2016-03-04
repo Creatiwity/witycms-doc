@@ -27,6 +27,9 @@ The configuration tab at the top left of the admin wityCMS, allows you to config
 
 ![](slideshow-03.png)
 
-* **Enable slides autoplaying**:
-* **Pause time between two slides (ms)**:
-* **Transition time between two slides (ms)**:
+* **Enable slides autoplaying**: If you want to make you website more dynamic, you can enable the slides autoplaying. 
+
+When you decide to enable slides autoplaying you can edit this two parameter : 
+
+* **Pause time between two slides (ms)**: 
+* **Transition time between two slides (ms)**: 
