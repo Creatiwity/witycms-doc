@@ -20,16 +20,14 @@ This list contains all the news created and gives you the title, author, categor
 Rapid action button "**Edit**" permit to edit or delete the news. 
 To add new content Click on **"Add a news"**.
 ![](news-02.png)
-
 ### Editing:
 
+After clicking the button "Add a news" in the upper right of the wityCMS admin. You arrive on "Add a news" page.
 ![](news-03.png)
 
-After clicking the button "Add news" in the upper right of the wityCMS admin. You arrive on creating page of your article.
-
-* **Title***: Start by indicating the title of your article (it must not exceed 140 chars).
-* **URL**: you will be automatically generated URL in relation to the title you have just entered. You can if you want to change this URL.
-* **Content**: This is where it all happens. Thanks to **[CKEditor](http://docs.ckeditor.com/)** you will be able to write, layout your article and add pictures/videos as desired.
+* * **Title***: Start by indicating the title of your news (it must not exceed 140 chars).
+* **UR***: you will be automatically generated URL in relation to the title you have just entered. You can if you want change this URL.
+* **Content**: This is where it all happens. Thanks to **[CKEditor](http://docs.ckeditor.com/)** you will be able to write, layout your news and add some pictures and videos as desired.
 
 ### Details:
 
