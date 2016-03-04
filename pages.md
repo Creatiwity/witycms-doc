@@ -11,13 +11,11 @@ The action button allows you to edit or delete its contents (according to permis
 ![](pages-02.png)
 ## Create or edit your page
 
-When you click in “**Add a page**” in top right to the list, a new page form appears on the screen, this is where you can create your new page and its details.
+After you click at the green button "**Add a page**" in the upper right of the wityCMS admin. You arrive on Add a page, this is where you can create your new page and its details.
 
 ### Editing:
 
 ![](pages-03.png)
-
-After clicking the button "Add a page" in the upper right of the wityCMS admin. You arrive on creating page of your page.
 
 * **Title***: Start by indicating the title of your page (less is better).
 * **URL**: you will be automatically generated URL in relation to the title you have just entered. You can if you want change this URL.
