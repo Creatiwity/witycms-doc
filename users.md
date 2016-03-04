@@ -54,6 +54,6 @@ Setting permissions and group access levels:
 
 ![](user-05.png)
 
-
+* Enable 
 
 
