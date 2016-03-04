@@ -1,5 +1,7 @@
 # Teams
 
+
+
 Team application offers the possibility to create profile with personal information. 
 
 ## List
