@@ -6,7 +6,7 @@ Settings application will allow you to configure the general elements of your we
 
 ## Configuration
 
-![](01-img-config.png)
+![](settings-01.png)
 
 General it’s the first configuration you done during the installation steps. 
 * **Site name**: just give a name at your website who define your activity
@@ -24,7 +24,7 @@ It is also in this section of the website you can edit the icon that will identi
 
 ## Languages
 
-![](02-img-settings-language.png)
+![](settings-02.png)
 
 As you indicated earlier, wityCMS is software for multilingual content editing. You have the opportunity here to tell the system the new language added that will automatically update the other modules of the site.
 
@@ -32,7 +32,7 @@ By default, the site will contain the language specified during installation. Bu
 
 ## Add a language
 
-![](03-img-settings-add-language.png)
+![](settings-03.png)
 
 To add a new language you will need to carefully fill the forms indicated in ensuring respect although you ISO 639 (standard list of languages), ISO 3166 size (standard list of countries) - http://www.localeplanet.com/icu/.
 
