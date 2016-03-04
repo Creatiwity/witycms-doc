@@ -4,9 +4,11 @@ Team application offers the possibility to create some profiles with personal in
 
 ## List
 
-
+This list contains all members created on your website. This list gives you their Name as it appears on your website, the position, the order (you can manage it), date of creation, and an action button allows you to change or delete its contents (according to permissions granted by your administrator).
 ![](team-01.png)
 ### Order
+
+
 ![](team-03.png)
 
 ## Add and edit member
