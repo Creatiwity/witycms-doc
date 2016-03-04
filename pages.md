@@ -8,15 +8,17 @@ This list contains all created pages and gives you their name as it appears in t
 
 In the top left of this list, a tab to create a new page. Click on "Add a page".
 
-![](01-browser-pages-list.png)
+![](pages-01.png)
 
 ## Create or edit your page
 
 When you click in “adding a page”, a form appears on the screen, this is where you can create your new page and its details.
 
-![](02-browser-pages-create.png)
+![](pages-02.png)
 
 ### Editing:
+
+![](pages-03.png)
 
 After clicking the button "Add a page" in the upper right of the wityCMS admin. You arrive on creating page of your page.
 
@@ -45,4 +47,4 @@ On the side you will find the schedule information in your article:
 
 ## Index your page
 
-To index your page correctly on your site you need: 
+To index your page correctly on your website you need: 
