@@ -26,8 +26,8 @@ After you click at the green button "**Add a page**" in the upper right of the w
 On the side you will find the information in your page:
 
 * **Author**: you can mention the author of the page; the default author used, is the name of default account with which you are connected.
-*  **Subtitle**: 
-* **Mother page**: 
+* **Subtitle**: 
+* **Mother page**: If you want to link a page to an other like a subpage. You can attribute a mother page.
 * **Image**: You can load a main image for your page (using like header / news preview etc. That depend of the used template).
 
 ### SEO:
@@ -44,4 +44,4 @@ Meta tags, Title and Link are html tag inserted in the ```<head >``` section of 
 
 ## Index your page
 
-To index your page correctly on your website you need: 
+To index your page correctly on your website you need to open 
