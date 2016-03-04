@@ -57,11 +57,14 @@ Meta tags, Title and Link are html tag inserted in the ```<head >``` section of 
 
 ## Categories
 
-![](news-04.png)
 You can have many news and their subjects totally different, so its difficult for readers to navigate and to have quick access to the information.
 To overcome this drawback, wityCMS offers the ability to create categories in which you can store your news according to their content.
 
-To create a new category, click on the "category" tab. WityCMS lists the already existing categories. In this list, only editing or deleting a category is available. You must click on the button "add categories" to create a new one.
+To create a new category, click on "Categories" tab.
+WityCMS lists the already existing categories. In this list, only editing or deleting a category is available.
+
+![](news-04.png)
+You must click on the button "add categories" to create a new one.
 
 ![](news-05.png)
 
