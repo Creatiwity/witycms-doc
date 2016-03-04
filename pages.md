@@ -1,20 +1,17 @@
 # Pages
 
-This is the essential type of content in wityCMS. If you want to make a website, the pages are here for. To focus minds, a page in wityCMS is the base of your website. Each page created for the admin interface is actually a web page. This page is static and a link is automatically inserted into your menu or sub-menu.
+This is the essential type of content in wityCMS. If you want to make a website, the pages are here for. To focus minds, a page in wityCMS is the base of your website. Each page created for the admin interface is actually a web page. This page is static and a link is automatically insert into your menu or sub-menu.
 
 ## Pages list
 
-This list contains all created pages and gives you their name as it appears in the menu of your Website, the author of the page, if the page is active (displayed) or not, creation date, and the number of person who views this page. And an action button allows you to edit or delete its contents (according to permissions granted by your administrator).
-
-In the top left of this list, a tab to create a new page. Click on "Add a page".
+This list contains all created pages and gives you their "title" as it appears in the menu of your Website, the "author" of the page, the number of person who "views" this page and the date last modification. 
 
 ![](pages-01.png)
-
+The action button allows you to edit or delete its contents (according to permissions granted by your administrator).
+![](pages-02.png)
 ## Create or edit your page
 
-When you click in “adding a page”, a form appears on the screen, this is where you can create your new page and its details.
-
-![](pages-02.png)
+When you click in “**Add a page**” in top right to the list, a new page form appears on the screen, this is where you can create your new page and its details.
 
 ### Editing:
 
