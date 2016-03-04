@@ -2,9 +2,10 @@
 
 Team application offers the possibility to create profile with personal information. 
 
-![](team-01.png)
 ## List
 
+![](team-01.png)
+### Order
 ![](team-03.png)
 
 ## Add and edit member
