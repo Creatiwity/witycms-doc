@@ -5,7 +5,7 @@ Once you have finished installing your website you will access to administration
 * Identifier: 
 * Password:
 
-NB: it’s same nickname and password you fill during the fourth installation step “admin account”. 
+NB: it’s same nickname and password you fill during the fourth installation step “admin account”.
 
 ![](connect-01.png)
 
