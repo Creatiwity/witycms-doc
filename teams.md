@@ -8,7 +8,7 @@ This list contains all members created on your website. This list gives you thei
 ![](team-01.png)
 ### Order
 
-
+By default the members of your team are ordered with the ID. But if you want you can easly reorder it ...
 ![](team-03.png)
 
 ## Add and edit member
