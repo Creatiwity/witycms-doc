@@ -26,14 +26,14 @@ To create a new user, click on the "**add user**" button. A new form appears on 
 
 You can select and deselect all what is exactly the same things to attribute right like "Suprem Admin or Simple User".
 
-* **Contact**:
-* **News**:
-* **Newsletter**:
-* **Page**:
-* **Settings**:
-* **Slideshow**:
-* **Team**:
-* **User**:
+* **Contact**: Admin 
+* **News**: Writer / Category_manager / Moderator
+* **Newsletter**: Admin
+* **Page**: Admin / Writer / Moderator
+* **Settings**: Admin
+* **Slideshow**: Admin
+* **Team**: Admin
+* **User**: Admin / Add / Edit / Delete / Group_manager / Config
 
 ## Group of users
 
