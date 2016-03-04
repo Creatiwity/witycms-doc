@@ -9,7 +9,8 @@ Settings application will allow you to configure the general elements of your we
 ![](settings-01.png)
 ### General
 
-General it’s the first configuration you done during the installation steps. 
+General it’s the first configuration you done during the installation steps.
+
 * **Website's name**: just give a name at your website who define your activity
 * **Administrator's Email**: generally, it is better to give the address of the webmaster in charge of the website.
 
