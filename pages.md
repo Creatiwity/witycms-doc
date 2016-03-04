@@ -56,7 +56,6 @@ Open the folder containing sources of your website.
 
 5. Open it with text editor (like sublime text)
 6. Add the name of your new page like this
-
 ```
 <ul class="nav navbar-nav">
     <li><a href="/"><span>{lang Home}</span><br />
