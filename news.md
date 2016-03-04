@@ -50,7 +50,7 @@ Meta tags, Title and Link are html tag inserted in the ```<head >``` section of 
 * **Meta title**: 
 * ** Meta description**:
 
-### Validate your news:
+### Submit your news:
 
 * **Submit**:
 * **Cancel**:
