@@ -4,19 +4,21 @@ News are managed by the News application. Categories can be used to categorize y
 
 To differentiate news to page, let's just say that application news has only one CMS page with multiple news after each other (like a blog). This solution offers a dynamic side that does not have the Pages, inversely, the information is not sustainable on the screen, a new item is automatically placed above the last, shifting the presentation of your page. News are slightly more complex hierarchy that pages.
 
-Finally the news may be subject to rules of publication, date of publication, date of withdrawal. It doesn’t exist for the pages.
+Finally the news may be subject to rules of publication, date of publication, text modification etc.
 
-Using news is interesting to create and manage your site's news, key announcements. If you think you create an RSS feed, these are the items that will be used. Interesting for those who want to subscribe to the latest news from your website ...
+Using news application is interesting to create and manage your site's news, key announcements. If you think you create an RSS feed, these are the items that will be used. Interesting for those who want to subscribe to the latest news from your website ...
 
-News application will allow you to add single news to your website from the backend, the frontend with a text editor (CKEditor V2.0). ([CKEditor documentation](http://docs.ckeditor.com/)).
+News application will allow you to add single news to your website from the back-end to front-end with a text editor (CKEditor V2.0). ([CKEditor documentation](http://docs.ckeditor.com/)).
 
 ## List
 ![](news-01.png)
+This list contains all the news created and gives you the title, author, category it belongs, its state of publication, the number of times it has been seen, the last modification date.
 
-This list contains all the items created and gives you the title, author, category it belongs, its state of publication, the number of times it has been seen, the modification date and a rapid button action to go to editing or deleting the article. In the top right of this list, a button invites you to create a new article. Click on **"Add news"**.
 
 ## Create and edit news
 
+Rapid action button "**Edit**" permit to edit or delete the news. 
+To add new content Click on **"Add a news"**.
 ![](news-02.png)
 
 ### Editing:
