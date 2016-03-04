@@ -30,13 +30,13 @@ After clicking the button "Add a news" in the upper right of the wityCMS admin. 
 
 ### Details:
 
-On the side you will find the schedule information in your article:
+On the side you will find the schedule information in your news:
 
 * **Published**: yes / no (this will allow you to write an news without disclosing it on the canvas).
-* **Date of publication***: it’s automatically filled when you creating your article. However, you can edit yourself the time of the publication as desired.
-*  **Hour of publication***: it’s automatically filled when you creating your article. However, you can edit yourself the time of the publication as desired.
-* **Author**: you can mention the author of the article; the default author used, is the name of default account with which you are connected.
-* **Image**: You can load a main image for your article (using like header / news preview etc. That depend of the used template).
+* **Date of publication***: it’s automatically filled when you creating your news. However, you can edit yourself the time of the publication as desired.
+*  **Hour of publication***: it’s automatically filled when you creating your news. However, you can edit yourself the time of the publication as desired.
+* **Author**: you can mention the author of the news; the default author used, is the name of default account with which you are connected.
+* **Image**: You can load a main image for your news (using like header / news preview etc. That depend of the used template).
 
 ### Categories:
 
