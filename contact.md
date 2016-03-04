@@ -3,15 +3,16 @@
 Lorem ipsum...
 
 ## List
-![](01-img-contact.png)
+![](contact-01.jpg)
+
 Lorem ipsum ...
 
 ## Reading pop-up
 
-![](02-img-contact-config.png)
+![](contact-02.jpg)
 
 ## Contact config 
 
-![](03-img-contact-config.png)
+![](contact-03.jpg)
 Lorem Ipsum...
 
