@@ -47,14 +47,14 @@ Meta tags, Title and Link are html tag inserted in the ```<head >``` section of 
 To index your page correctly on your website, you need to open your FTP client. 
 Open the folder containing sources of your website.
 
-1. themes folder
-2. name of your theme (here **grafx**) 
-3. templates
-4. Download the index.html 
+1. "**Themes**" folder
+2. Name of your theme (here **grafx**) 
+3. **Templates**
+4. Download the **index.html** 
 
 ![](pages-04.png)
 
-5. Open it with text editor (like sublime text)
+5. Open it with an text editor (like [Sublime Text](https://www.sublimetext.com/))
 6. Add the name of your new page like this
 ```
 <ul class="nav navbar-nav">
