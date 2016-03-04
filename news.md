@@ -14,7 +14,6 @@ News application will allow you to add single news to your website from the back
 ![](news-01.png)
 This list contains all the news created and gives you the title, author, category it belongs, its state of publication, the number of times it has been seen, the last modification date.
 
-
 ## Create and edit news
 
 Rapid action button "**Edit**" permit to edit or delete the news. 
