@@ -9,7 +9,10 @@ TOPO sur les apps... lorem ipsum
 
 ### Conatct
 
-You need to creat in 
+You need to create a new folder :
+1. "template_name"
+2. 
+
 
 ### News
 
