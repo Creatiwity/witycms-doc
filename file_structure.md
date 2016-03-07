@@ -5,4 +5,15 @@ wityCMS has a fairly loose file structure — you can have as many files and fol
 ## Required theme files
 If you don’t have these files, your theme won’t work properly, or just won’t show up at all. It’s vital you have these files.
 
+* **admin-bootstrap**:
+* **grafx**:
+* **index.html**:
+* **system**:
 ![](02-witycms-folders-theme.png)
+### css
+
+### img 
+
+### lang 
+
+### templates
