@@ -60,5 +60,5 @@ TOPO sur les apps... lorem ipsum
 
 1. "template_name"
 2. "templates"
-3. "contact"
+3. "user"
 4. Create you file **register.html** // **password_lost.html** // **connexion_form.html** // **reset_password.html**
