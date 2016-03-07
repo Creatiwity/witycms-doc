@@ -17,14 +17,14 @@ When you click on “**Add a member**”, you are redirected to a new page, here
 
 ![](team-02.png)
 
-* **Name**:
-* **Position**:
-* **Description**:
-* **Email**:
-* **LinkedIn**:
-* **Twitter**:
-* **Image**:
-* **Hovering Image**:
+* **Name**: More often this form is fill with the First Name and the last name
+* **Position**: Fill with the member position in your organisation
+* **Description**:This field is actually not use in the front page. It's just here for the SEO.
+* **Email**: member email's
+* **LinkedIn**: LinkedIn member page
+* **Twitter**: Twitter member page
+* **Image**: First image you see in the front page
+* **Hovering Image**: Image you see when the moose is hovering the image.
  
 
  
