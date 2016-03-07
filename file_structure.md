@@ -11,10 +11,15 @@ If you don’t have these files, your theme won’t work properly, or just won�
 * **system**:
 ![](02-witycms-folders-theme.png)
 ### css
-The css folder contain the css style who define the main rule  
+
+The CSS file will allow to apply different styles HTML element.
+They allow you to define any style property as the border , background color, typeface, the space between letters, etc. 
+Through this method, all pages that reference the external style sheet will inherit all definitions.
 
 
 ### img 
+
+
 
 ### lang 
 
