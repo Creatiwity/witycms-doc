@@ -3,7 +3,7 @@
 WTemplate is the template engine used by WityCMS.
 If you want to modify the theme you need to respect all the restriction imposed by WTemplate. 
 
-
+For each application page you want to customize you need to create a new file with this specification : 
 
 ##Applications theme
 TOPO sur les apps... lorem ipsum
