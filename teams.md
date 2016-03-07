@@ -13,7 +13,7 @@ By default the members of your team are ordered with the ID. But if you want you
 
 ## Add a member
 
-When you click on “**Add a member**”, you are redirected to a new page, here is where you can create your new member profil.
+When you click on “**Add a member**”, you are redirect to a new page, here is where you can create your new member profil.
 
 ![](team-02.png)
 
