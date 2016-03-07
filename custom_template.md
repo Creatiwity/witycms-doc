@@ -66,6 +66,10 @@ TOPO sur les apps... lorem ipsum
 
 ## Font
 
+The Google Fonts API will generate the necessary browser-specific CSS to use the fonts. All you need to do is add the font name to your CSS styles. For example:
+
+```font-family: 'Open Sans', sans-serif;```
+
 Here's an example. Copy and paste the following HTML into a file:
 
 ```
