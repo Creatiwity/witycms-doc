@@ -11,6 +11,8 @@ If you don’t have these files, your theme won’t work properly, or just won�
 * **system**:
 ![](02-witycms-folders-theme.png)
 ### css
+The css folder contain the css style who define the main rule  
+
 
 ### img 
 
