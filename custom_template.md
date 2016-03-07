@@ -66,3 +66,20 @@ TOPO sur les apps... lorem ipsum
 
 ## Font
 
+Here's an example. Copy and paste the following HTML into a file:
+
+```
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine">
+    <style>
+      body {
+        font-family: 'Tangerine', serif;
+        font-size: 48px;
+      }
+    </style>
+  </head>
+</html>
+```
+
+## Onepage theme 
