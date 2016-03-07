@@ -19,13 +19,13 @@ NB: it’s same nickname and password you fill during the fourth installation st
 ![](post-news-02.png)
 
 3.  Submit your news
-
+You are notify that "The news Lorem Ipsum was successfully created"
 ![](post-news-03.png)
 
-4.  Congratulation you have add a news for your website, let's see it on the front. Clic on your "Site name" tab (here it's: Preview)
+4.  Congratulation you added a news for your website, let's see it on the front. Clic on your "**Site name**" tab (here it's: **Preview**)
 
 ![](post-news-04.png)
-Congratulation now you can edit all your website using the same process. 
+Let's go ! Now you can edit all your website using the same process. 
 
 
 
