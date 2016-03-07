@@ -8,19 +8,21 @@ For each application page you want to customize you need to create a new file wi
 ##Applications theme
 TOPO sur les apps... lorem ipsum
 
+By default each app have a theme but if you want to overwrite to process like this : 
+
 ### Conatct
 
 1. "template_name"
 2. "templates"
 3. "contact"
-4. Create you file **form.html**
+4. Create your file **form.html**
 
 ### News
 
 1. "template_name"
 2. "templates"
 3. "news"
-4. Create you file **listing.html**
+4. Create your file **listing.html**
 
 ### Newsletter
 
@@ -41,28 +43,28 @@ TOPO sur les apps... lorem ipsum
 1. "template_name"
 2. "templates"
 3. "search"
-4. Create you file **form.html**
+4. Create your file **form.html**
 
 ### Slideshow
 
 1. "template_name"
 2. "templates"
 3. "slideshow"
-4. Create you file **block.html**
+4. Create your file **block.html**
 
 ### Team
 
 1. "template_name"
 2. "templates"
 3. "team"
-4. Create you file **members.html**
+4. Create your file **members.html**
 
 ### User
 
 1. "template_name"
 2. "templates"
 3. "user"
-4. Create you file **register.html** // **password_lost.html** // **connexion_form.html** // **reset_password.html**
+4. Create your files **register.html** // **password_lost.html** // **connexion_form.html** // **reset_password.html**
 
 ## Font
 
