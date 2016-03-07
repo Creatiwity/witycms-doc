@@ -13,16 +13,18 @@ NB: it’s same nickname and password you fill during the fourth installation st
 
 1. when you are connect, click on the "**New**" tab
 
-![](news-01.png)
+![](post-news-01.png)
 
 2. Click on the green button "**Add A news**" and start to write your first content for your website  
-
-![](news-03.png)
+![](post-news-02.png)
 
 3.  Submit your news
 
+![](post-news-03.png)
 
 4.  Congratulation you have add a news for your website, let's see it on the front. Clic on your "Site name" tab (here it's: Preview)
+
+![](post-news-04.png)
 
 5. Congratulation now you can edit all your website using the same process. 
 
