@@ -18,3 +18,7 @@ NB: it’s same nickname and password you fill during the fourth installation st
 2. Click on the green button "**Add A news**" and start to write your first content for your website  
 
 ![](news-03.png)
+
+3.  Submit your news
+
+
