@@ -70,12 +70,12 @@ By default each app have a theme but if you want to overwrite to process like th
 
 The Google Fonts API will generate the necessary browser-specific CSS to use the fonts. All you need to do is add the font name to your CSS styles. For example:
 
-```font-family: 'Open Sans', sans-serif;```
+```font-family: 'Open Sans', sans-serif;
+```
 
 Here's an example. Copy and paste the following HTML into a file:
 
-```
-<html>
+```<html>
   <head>
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine">
     <style>
@@ -88,4 +88,4 @@ Here's an example. Copy and paste the following HTML into a file:
 </html>
 ```
 
-## Onepage theme 
+## Onepage
