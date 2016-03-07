@@ -25,8 +25,7 @@ NB: it’s same nickname and password you fill during the fourth installation st
 4.  Congratulation you have add a news for your website, let's see it on the front. Clic on your "Site name" tab (here it's: Preview)
 
 ![](post-news-04.png)
-
-5. Congratulation now you can edit all your website using the same process. 
+Congratulation now you can edit all your website using the same process. 
 
 
 
