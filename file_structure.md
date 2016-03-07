@@ -12,15 +12,18 @@ If you don’t have these files, your theme won’t work properly, or just won�
 ![](02-witycms-folders-theme.png)
 ### css
 
-The CSS file will allow to apply different styles HTML element.
-They allow you to define any style property as the border , background color, typeface, the space between letters, etc. 
+The "**CSS**" file will allow to apply different styles HTML element.
+They allow you to define any style property as the border , background color, typeface, the space between letters, etc.
 Through this method, all pages that reference the external style sheet will inherit all definitions.
-
 
 ### img 
 
-
+The "**img**" file contain all the asset  you need to custom your theme like the logo, etc. 
 
 ### lang 
 
+The "**Lang**" file contain all the translation you need to switch you theme between different languages. 
+
 ### templates
+
+The "**templates** file contain all the html index you need for the different theme page of your website. 
