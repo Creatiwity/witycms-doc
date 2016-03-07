@@ -5,9 +5,11 @@ If you want to modify the theme you need to respect all the restriction imposed 
 Let's go App by App.
 
 ##Applications theme
-
+TOPO sur les apps... lorem ipsum
 
 ### Conatct
+
+
 
 ### News
 
