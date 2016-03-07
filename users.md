@@ -45,7 +45,6 @@ You can see the number of users assign to the groups.
 ### Add a new group
 
 Allows you to add new groups of users to attach it to switch to the rights management. By default, there are two right groups: Administrator and non-Administrator.
-
 ![](user-04.png)
 
 ## Configuration
