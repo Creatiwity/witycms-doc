@@ -26,4 +26,4 @@ The "**Lang**" file contain all the translation you need to switch you theme bet
 
 ### templates
 
-The "**templates** file contain all the html index you need for the different theme page of your website. 
+The "**templates** file contain all the html index you need for the different theme page of your website.
