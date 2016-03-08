@@ -52,7 +52,7 @@ They help to provide "*guide*" for the search engines, social networks and other
 
 ## Index your page
 
-To index your page to your "*navbar*" (navigation bar / menu), you need to open your FTP client (e.g: FileZilla). 
+To index your page to your "*navbar*" (navigation bar / menu), you need to open your FTP client (e.g: [FileZilla](https://filezilla-project.org)). 
 
 Open the folder containing website sources:
 
@@ -64,7 +64,7 @@ Open the folder containing website sources:
 ![](pages-04.png)
 
 5. Open it with an text editor (e.g: [**Sublime Text**](https://www.sublimetext.com/))
-6. Add the name of your new page like this
+6. Edit your navbar-nav adding your new page like this
 ```
 <ul class="nav navbar-nav">
     <li><a href="/"><span>{lang Home}</span><br />
