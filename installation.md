@@ -48,7 +48,7 @@ This will redirect you to the installation wizard. At this stage, only remains t
 
 * **Home application***: The Home application is the first application executed by wityCMS. It will be displayed when a visitor connect to the root page of your website. For instance, if you want to create a blog, we advise you to select the "**News**" application.
 
-* **Main admin application***: The main admin application is the first application loaded when you connect to the administration. We advise you to select the application you will use most of the time (user or news for instance).
+* **Main admin application***: The main admin application is the first application loaded when you connect to the administration. We advise you to select the application you will mainly use (**user** or **news** for instance).
 
 ### Database
 
