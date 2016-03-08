@@ -4,7 +4,12 @@ The "**Users**" application provides the ability to manage account for each pers
 
 ## Users List
 
-This list contains all registered users. This list gives you their "**ID**", the "**Nickname**" use to login with the website, the "**Group**" it belongs,the date to the last connection and the actions button to edit or remove the user.
+This list contains all registered users. It gives you a rapid view of: 
+
+* **ID**
+* **Nickname**: use to log in 
+* **Group**: it belongs
+* **Last connection**
 ![](user-01.png)
 At the right you have "**Search**" application who permit you to make a fast search when you need to find a user. 
 
