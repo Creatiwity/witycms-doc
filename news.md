@@ -34,17 +34,17 @@ After clicking the button "Add a news" in the upper right of the back-office. Yo
 
 * **Title***: Start by indicating the news title *(it cannot exceed 140 characters)*.
 * **URL***: The URL will be automatically generated with the information you filled in the title form. If you want, you can change this URL.
-* **Content**: Thanks to **[CKEditor](http://docs.ckeditor.com/)** you are able to write, layout your news and add some pictures and videos as desired.
+* **Content**: with **[CKEditor](http://docs.ckeditor.com/)** you are able to write, layout your news and add some pictures and videos as you wish.
 
 ### Details:
 
-On the side, you find the details information about your current news:
+On the right side, you notce the details about your current news:
 
-* **Published**: yes / no (this allow you to write a news without to publish it on your website).
-* **Date of publication***: it is automatically filled when you publishing your news. Moreover, you can edit yourself the date of publication as desired.
-*  **Hour of publication***: it is automatically filled when you publishing your news. Moreover, you can edit yourself the time of publication as desired.
-* **Author**: by default the author is the name of the account with which you are log in. Moreover, you can edit yourself the author as desired.
-* **Image**: You can upload a main image for your news (use like header / news preview etc., that depends of your template).
+* **Published**: yes / no (this enable you to write news without publishing it on your website).
+* **Date of publication***: it is automatically filled in when you publish your news. You can also edit the date of publication.
+*  **Hour of publication***: it is automatically filled in when you publish your news. You can edit the time of publication.
+* **Author**: by default the author is the name of the account with which you are logged in. You can edit the author.
+* **Image**: You can upload a main image(use like header / news preview etc., depending on your template).
 
 ### Categories:
 
