@@ -1,6 +1,6 @@
 # Teams
 
-The "**Team**" application allows you the possibility to create some profiles with personal information about your team. 
+The "**Team**" application allows you to create profiles members for your team. 
 
 ## List
 
