@@ -1,8 +1,6 @@
 # News
 
-News are managed by the News application. Categories can be used to categorize your articles.
-
-To differentiate news to page, let's just say that application news has only one CMS page with multiple news after each other (like a blog). This solution offers a dynamic side that does not have the Pages, inversely, the information is not sustainable on the screen, a new item is automatically placed above the last, shifting the presentation of your page. News are slightly more complex hierarchy that pages.
+To differentiate "**News**" to "**Pages**", let's just say that application news has only one CMS page with multiple news after each other (like a blog). This solution offers a dynamic side that does not have the Pages, inversely, the information is not sustainable on the screen, a new item is automatically placed above the last, shifting the presentation of your page. News are slightly more complex hierarchy that pages.
 
 Finally the news may be subject to rules of publication, date of publication, text modification etc.
 
