@@ -25,8 +25,8 @@ After clicking the button "**Add a page**" in the upper right of the back-office
 ![](pages-03.png)
 
 * **Title***: Start by indicating the title of your page (less is better).
-* **URL***: you will be automatically generated URL in relation to the title you have just entered. You can if you want change this URL.
-* **Content**: This is where it all happens. Thanks to **[CKEditor](http://docs.ckeditor.com/)** you will be able to write, layout your page and add pictures/videos as desired.
+* **URL***: The URL will be automatically generated with the information you fill in the title form. If you want, you can change this URL.
+* **Content**: Thanks to **[CKEditor](http://docs.ckeditor.com/)** you are able to write, layout your news and add some pictures and videos as desired.
 
 ### Details:
 
