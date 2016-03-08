@@ -2,11 +2,10 @@
 
 ## List
 
-The "**Newsletter**" application will allow to manage and collect emails send by the website contact form.
+The "**Newsletter**" application will allow to manage and collect emails of subscribers who to get the latest news about your site.
 
 ![](newsletter-01.png)
 
 ## Export
-Lorem Ipsum...
-
+You can extract this list in a .csv format directly. And use it for your mailling.
 ![](newsletter-02.png)
