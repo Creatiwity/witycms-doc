@@ -31,15 +31,15 @@ When you finish, you just need to "**submit**" and your modification will be sav
 ## Languages
 
 ![](settings-02.png)
-wityCMS is software for multilingual content editing. 
-In this section,you can add new languages and define which is the default language.
+wityCMS is multilingual software for content editing. 
+In this section, you can add new languages and define which one is the default language.
 
-Click on the button "**Add a language**" to start the configuration of a new language.
+Click on the button "**Add a language**" to set up a new language.
 
 ## Add a language
 
 ![](settings-03.png)
-Respect the [ISO 639 and ISO 3166](http://www.localeplanet.com/icu/) to configure your new language.
+Please, respect the [ISO 639 and ISO 3166](http://www.localeplanet.com/icu/) to configure your new language.
 
 * **Name***:  Name
 * **Iso***: Iso
@@ -50,4 +50,4 @@ Respect the [ISO 639 and ISO 3166](http://www.localeplanet.com/icu/) to configur
 * **Use as default**: Yes / No
 
 To confirm you new language click on the button "**submit**".
-Now, you can translate all your content in the language you just add.
+Now, you can translate all your content in the language you just added.
