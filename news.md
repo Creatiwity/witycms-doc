@@ -12,7 +12,14 @@ Using "**News**" application is interesting to create and manage your site's new
 
 ## List
 ![](news-01.png)
-This list contains all the news created and gives you the title, author, category it belongs, its state of publication, the number of times it has been seen, the last modification date.
+The list contains all the news created on your website. It gives you a rapid view of: 
+
+* The title 
+* Author
+* Category it belongs
+* State of publication
+* The number of views
+* The last modification date
 
 ## Create and edit news
 
