@@ -58,11 +58,11 @@ Define the rule of user registration.
 
 ![](user-05.png)
 
-* Enable user account validation by an admin: user account is not automatic, an admin need to validate account one by one before to validate. 
-* At registration, send email to confirm the email address:
-* Keep deleted and refused accounts in the database disabling them: 
-* Open registration:
-* Send a user account summary by mail:
+* **Enable user account validation by an admin**: user account is not automatic, an admin need to validate account one by one before to validate. 
+* **At registration, send email to confirm the email address**: an email is automatically send to confirm the email address before creating an account. 
+* **Keep deleted and refused accounts in the database disabling them**: the database keep in memory all account created even whose deleted.
+* **Open registration**: people who are on the website can create an account.
+* **Send a user account summary by mail**: give a repository subscription to the user who just create an account. 
 
 
 
