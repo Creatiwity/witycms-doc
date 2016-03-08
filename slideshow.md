@@ -12,8 +12,7 @@ The list contains all the slides created on your website. It gives you a rapid v
 * Position
 * Last modification
 
-In the top left of this list, a tab prompts you to create a new slide. 
-Click on "**Add a slide**".
+The action button "**Edit**" allow you to *edit* or *delete* a page (according to permissions granted by your administrator).
 
 ![](slideshow-01.png)
 ## Add a slide
