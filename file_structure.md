@@ -9,4 +9,5 @@ If you don’t have these files, your theme won’t work properly, or just won�
 * **img**: The "**img**" file contain all the asset  you need to custom your theme like the logo, etc.
 * **lang**: The "**Lang**" file contain all the translation you need to switch you theme between different languages.
 * **templates**:The "**templates** file contain all the html index you need for the different theme page of your website.
+* 
 ![](02-witycms-folders-theme.png)
