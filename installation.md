@@ -52,7 +52,7 @@ This will redirect you to the installation wizard. At this stage, only remains t
 
 ### Database
 
-WityCMS needs a MySQL database to run which is available on most of the web servers. Fill in the credentials provided by your hosting company in the form.
+wityCMS needs a MySQL database to run which is available on most of the web servers. Fill in the credentials provided by your hosting company in the form.
 
 ![](installer-03.png)
 
