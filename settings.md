@@ -14,7 +14,7 @@ The "**Settings**" application will allow you to configure general settings of y
 
 ### SEO
 
-This section allows you to edit the elements that will affect the visibility of your website or a web page in search engines (when the website appears in different Google searches). You can leave blank the fields below, but it is strongly advised to complete them correctly if you want to appear clearly on results.
+This section allows you to edit the elements that will affect the visibility of your website or a web page in search engines (when the website appears in different Google searches). You can leave the fields below blank. But if you want to be found efficiently on search engines, it is strongly recommended to complete the fields correctly.
 
 * **Title**: Website title who define your activity
 * **Description (about 125 symbols)**: a short description of your activity (don't exceed 125 chars).
