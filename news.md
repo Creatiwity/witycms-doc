@@ -75,10 +75,10 @@ You must click on the green button "**Add a category**" to create a new category
 
 ![](news-05.png)
 
-* **Name**: Geek
-* **Shortname**: geek
-* **Parent**: Game
-* **Actions**: Create
+* **Name**: fill with the name of your category (e.g: Geek)
+* **Shortname**: specify a "shortname" if you want (e.g: geek)
+* **Parent**: specify if it is a sub category (e.g: Game)
+* **Actions**: *create* or *abandon*
 
 A notification inform you "the category **Geek** was successfully created".
 ![](news-06.png)
