@@ -2,7 +2,7 @@
 
 ## List
 
-The "**Newsletter**" application will allow to manage and collect emails of subscribers who to get the latest news about your site.
+The "**Newsletter**" application will allow you to manage and collect emails of subscribers who to get the latest news about your site.
 
 ![](newsletter-01.png)
 
