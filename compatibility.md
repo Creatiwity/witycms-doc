@@ -15,14 +15,14 @@ The installation of wityCMS requires a PHP environment with minimal version of P
 
 ## MySQL 4.1
 
-A SQL server with a database available like:
+A SQL server with a database available is required, sush as:
 
 * MySQL 4.1+
 * MySQL 5.5 (recommended)
 * MariaDB 5.5 & 10
 
 ## FTP
-A **FTP client**, like [FileZilla](https://filezilla-project.org/), to upload the files;
+A **FTP client**, such as [FileZilla](https://filezilla-project.org/), is required to upload the files;
 
 * Download the latest version of **wityCMS**: [zip](https://github.com/Creatiwity/wityCMS/archive/0.5.0.zip). 
 ## Browsers
