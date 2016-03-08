@@ -64,7 +64,7 @@ Open the folder containing website sources:
 ![](pages-04.png)
 
 5. Open it with an text editor (e.g: [**Sublime Text**](https://www.sublimetext.com/))
-6. Index your page in the class "navbar-nav" 
+6. Index your page in the class "*navbar-nav*" 
 ```
 <ul class="nav navbar-nav">
     <li><a href="/"><span>{lang Home}</span><br />
