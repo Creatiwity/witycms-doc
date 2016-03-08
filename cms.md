@@ -12,4 +12,4 @@ This manual was created for guiding you in your first steps with wityCMS.  We st
 
 Please feel free to leave us your comments using the contact form on the website and subscribe to our newsletter to get the latest news about wityCMS. 
 
-If you need assistance as you go through the questions, you can contact us on www.creatiwity.net/contact or 
+If you need assistance as you go through the questions, you can contact us on [Creatiwity](www.creatiwity.net/contact) or [GitHub](https://github.com/Creatiwity/wityCMS).
