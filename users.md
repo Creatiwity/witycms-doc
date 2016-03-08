@@ -45,10 +45,7 @@ For each app, you can select or deselect an access right to define a particular 
 
 ## Groups
 
-User application allows you to create groups to define specific permission to assign user right. By default, there are two right groups: 
-
-* Regular user
-* Supreme Admin
+User application allows you to create groups to define specific permission to assign user right.
 
 
 ![](user-03.png)
@@ -61,11 +58,11 @@ Setting permissions and group access levels:
 
 ![](user-05.png)
 
-* **Enable user account validation by an admin:**
-* **At registration, send email to confirm the email address:**
-* **Keep deleted and refused accounts in the database disabling them:** 
-* **Open registration:**
-* **Send a user account summary by mail:**
+* Enable user account validation by an admin:
+* At registration, send email to confirm the email address:
+* Keep deleted and refused accounts in the database disabling them: 
+* Open registration:
+* Send a user account summary by mail:
 
 
 
