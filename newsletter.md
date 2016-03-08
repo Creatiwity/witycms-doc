@@ -1,7 +1,8 @@
 # Newsletter
 
 ## List
-Lorem Ipsum...
+
+The "**Newsletter**" application will allow to manage and collect emails send by the website contact form.
 
 ![](newsletter-01.png)
 
