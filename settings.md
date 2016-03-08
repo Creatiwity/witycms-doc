@@ -50,4 +50,4 @@ Respect the [ISO 639 and ISO 3166](http://www.localeplanet.com/icu/) to configur
 * **Use as default**: Yes / No
 
 To confirm you new language click on the button "**submit**".
-Now, you can translate all you content.
+Now, you can translate all your content in the language you just add.
