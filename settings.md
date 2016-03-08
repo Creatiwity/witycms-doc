@@ -26,8 +26,8 @@ You can edit the icon that will identify your website. More often is the brand l
 * **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
 * **Site's Icon (32x32 px)**:
 
-
 When you finish, you just need to "**submit**" and your modification will be saved. 
+
 ## Languages
 
 ![](settings-02.png)
