@@ -14,7 +14,7 @@ The list contains all the pages created on your website. It gives you a rapid vi
 ![](pages-01.png)
 The action button "**Edit**" allow you to *edit* or *delete* a page (according to permissions granted by your administrator).
 ![](pages-02.png)
-## Create or edit your page
+## Create or edit page
 
 After you click at the green button "**Add a page**" in the upper right of the wityCMS admin. You arrive on Add a page, this is where you can create your new page and its details.
 
