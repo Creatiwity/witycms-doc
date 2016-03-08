@@ -86,5 +86,3 @@ Here's an example. Copy and paste the following HTML into a file:
   </head>
 </html>
 ```
-
-## Onepage
