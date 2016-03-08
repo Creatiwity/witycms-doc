@@ -12,9 +12,9 @@ By default, the installer will try to detect if you have *Apache* and "*mod_rewr
 
 ## Language
 
-WityCMS supports Multilanguage mode, meaning that you can use wityCMS in several languages and edit content in multiple languages also. To change the language, change the variable during the installation of wityCMS to set the default language. You can add as many languages as you want for your content.
+WityCMS supports multilingual mode, meaning that you can use and edit  wityCMS in several languages. To change the language, change the field during the installation of wityCMS. It will set the default language. You can add as many languages as you want for your content.
 
-However, for translations of the system, there are two translations available, you can see all the translations on the GitHub page of wityCMS, but here's a short list of available languages:
+However, the system translation, there are two lang available :
 
 * **English (en_GB)**
 * **French (en_US)**
