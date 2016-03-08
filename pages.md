@@ -1,6 +1,6 @@
 # Pages
 
-This is the essential type of content in wityCMS. If you want to make a website, the pages are here for. To focus minds, a page in wityCMS is the base of your website. Each page created for the admin interface is actually a web page. This page is static and a link is automatically insert into your menu or sub-menu.
+This is the essential application of wityCMS. If you want to make a website with lot of pages, the application "**Pages**" are here for. To focus minds, a page is the base of your website. Each page created with the back-office is a web page.
 
 ## Pages list
 
