@@ -48,7 +48,7 @@ On the side, you find the details information about your current news:
 
 ### Categories:
 
-Categories in the basic site data, this is where you can indicate it to categorize your news.
+Categories permit to classify your news according to their content. This part is explain lower.  
 
 ### SEO:
 
