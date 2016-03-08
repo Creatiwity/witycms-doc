@@ -25,12 +25,13 @@ A database is a collection of data organized and required for the operation of a
 
 When the application needs to use its database, it then queries the database manager (such as: *MySQL*, *MariaDB*) which will perform helpful actions in the database (add, modify or delete data, etc.). This program is optimized to effectively large volumes of data.
 
-You will use phpMyAdmin to create and configure the wityCMS database.
-Launch another browser (or tab) and enter the local address: http: // ... / phpMyAdmin
+You will use *phpMyAdmin* to create and set up wityCMS's database.
+Open another tab and enter the "local" address: http: // ... / phpMyAdmin
 
-## wityCMS install
+## wityCMS installation
 
-Once the files have been installed on your FTP server from the FileZilla software. Start your browser, type the URL of the file where you put the files, for example: "http://www.votresite.com" if it is at the root of your FTP. This will redirect you to the installation wizard. It only remains for you to follow the 4 steps wityCMS facilities. You can not complete the installation once the 4 steps validated by clicking the button "Launch install".
+Once the files are installed on your FTP server from the ***FileZilla***. You can open your browser, type the URL of the file where you saved files, for example: "http://www.nameofyourwebsite.com" if it is at the root of your FTP.
+This will redirect you to the installation wizard. At this stage, only remains to follow the 4 steps to install wityCMS. You can only complete the installation once the 4 steps are done and validated by clicking the button "**Launch install**".
 
 ### General
 ![](installer-01.png)
