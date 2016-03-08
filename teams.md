@@ -16,7 +16,7 @@ The action button "**Edit**" allow you to *edit* or *delete* a page (according t
 ![](team-01.png)
 ### Order
 
-By default the members of your team are ordered with the ID. But if you want you can easly reorder it ...
+By default the members of your team are ordered by ID. But if you want you can reorder it. You just need to drag and drop a selected line before an other.
 ![](team-03.png)
 
 ## Add a member
