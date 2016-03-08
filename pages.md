@@ -52,7 +52,7 @@ They help to provide "*guide*" for the search engines, social networks and other
 
 ## Index your page
 
-To index your page correctly on your website, you need to open your FTP client. 
+To index your page to your "*navigation_menu*", you need to open your FTP client. 
 Open the folder containing sources of your website.
 
 1. "**Themes**" folder
