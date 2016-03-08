@@ -1,6 +1,6 @@
 # Contact
 
-Lorem ipsum...
+The "**contact**" application will allow to manage and receive emails send by the website contact form.
 
 ## List
 
