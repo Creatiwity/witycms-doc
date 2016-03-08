@@ -52,17 +52,18 @@ They help to provide "*guide*" for the search engines, social networks and other
 
 ## Index your page
 
-To index your page to your "*navigation_menu*", you need to open your FTP client. 
-Open the folder containing sources of your website.
+To index your page to your "*navbar*" (navigation bar / menu), you need to open your FTP client (e.g: FileZilla). 
+
+Open the folder containing website sources:
 
 1. "**Themes**" folder
-2. Name of your theme (here **grafx**) 
+2. Name of your theme (here "***grafx***") 
 3. **Templates**
 4. Download the **index.html** 
 
 ![](pages-04.png)
 
-5. Open it with an text editor (like [**Sublime Text**](https://www.sublimetext.com/))
+5. Open it with an text editor (e.g: [**Sublime Text**](https://www.sublimetext.com/))
 6. Add the name of your new page like this
 ```
 <ul class="nav navbar-nav">
