@@ -1,6 +1,6 @@
 # Users
 
-The "**Users**" application provides the ability to manage account for each person who register to the website according to the group permissions, certain menus or submenus will be unavailable.
+The "**Users**" application provides the ability to manage account for each person who register to the website (according to permissions granted by your administrator).
 
 ## Users List
 
