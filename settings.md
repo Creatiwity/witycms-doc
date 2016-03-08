@@ -21,7 +21,7 @@ This section allows edit the elements that will affect the visibility of a websi
 
 ### Icons
 
-It is also in this section of the website you can edit the icon that will identify your website. More often is the brand logo of your company or something represent the content of your website.
+You can edit the icon that will identify your website. More often is the brand logo of your company, blog or something has a signification with your website.
 
 * **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
 * **Site's Icon (32x32 px)**:
