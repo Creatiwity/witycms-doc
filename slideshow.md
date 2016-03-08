@@ -28,7 +28,7 @@ Click on the green button “**Add a slide**”, on the top right of the back-of
 
 ## Configuration
 
-The configuration tab at the top left of the admin wityCMS, allows you to configure your slider. You can automatic playback, configure pause time and the transition time.
+"**Configuration**" tabs, allows you to configure your slider.
 
 ![](slideshow-03.png)
 
