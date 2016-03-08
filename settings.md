@@ -31,9 +31,10 @@ When you finish, you just need to "**submit**" and your modification will be sav
 ## Languages
 
 ![](settings-02.png)
-As you indicated earlier, wityCMS is software for multilingual content editing. You have the opportunity here to tell the system the new language added that will automatically update the other modules of the site.
+wityCMS is software for multilingual content editing. 
+In this section,you can add new languages and define which is the default language.
 
-By default, the site will contain the language specified during installation. But you can click the button to "**Add a language**" to start the configuration.
+Click on the button "**Add a language**" to start the configuration of a new language.
 
 ## Add a language
 
