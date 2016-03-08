@@ -1,6 +1,6 @@
 # Pages
 
-This is the essential application of wityCMS. If you want to make a website with lot of pages, the application "**Pages**" are here for. To focus minds, a page is the base of your website. Each page created with the back-office is a web page.
+This is the essential application of wityCMS. If you want to make a website with lot of pages, the application "**Pages**" are here for. Each page created with the back-office is a web page.
 
 ## Pages list
 
