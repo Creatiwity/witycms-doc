@@ -13,11 +13,11 @@ Folder structure:
 
 ## Web Server configuration
 
-Apache server with PHP5.3+, mod_rewrite enabled and .htaccess files allowed.
+Apache server with *PHP5.3+*, mod_rewrite enabled and *.htaccess* files allowed.
 
 ## Database install
 
-Depending on your host, create a blank database or make sure to create it. You can use a program like "phpMyAdmin" or the admin panel of your account.
+Depending on your host, you will need to create a blank database or be sure to create one. You can use a program like "*phpMyAdmin*" or the admin panel of your account.
 
 Some hosts only allow you a single database. You must then use that database (to connect it use your login and your password). Just be sure to use a prefix for tables that separate the wityCMS tables from other tables that you may use in the same database.
 
