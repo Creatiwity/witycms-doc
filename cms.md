@@ -8,7 +8,8 @@ wityCMS has everything you need to satisfy beginners users who would like to cre
 
 You are a professional web developer or a technician? You will also be seduced by wityCMS if you want to have a complete a control over the layout or if you want an easy to use CMS with extensible tools. In this case, wityCMS is made for you. Moreover, wityCMS allows the creation of a search engine optimization(SEO) with a semantically structured website. It has an excellent platform adapted to all sorts of projects - from simple blogs to platforms sophisticated websites (such as www.quantel-medical.com). The limits of wityCMS only depend on the imagination of developers and designers to create themes, extensions, and content.
 
-Our intention in this documentation is to cover the installation of wityCMS. Trying each time to send to users and technical professionals who want to use our tool and contribute to its emergence.
+This manual was created for guiding you in your first steps with wityCMS.  We strive to provide an accurate, understandable and user friendly documentation. Your feedback are highly appreciated and will help us to improve our ability to serve you.
 
-We really need your help to make accurate documentation, user-friendly and understandable. If for some reason you need help for the install, migration or upgrade. So feel free to leave us your comments using the contact form on the website and subscribe to our newsletter to follow all news about wityCMS.
-We start the next generation of wityCMS with more power, more stability, and more user-friendly.
+Please feel free to leave us your comments using the contact form on the website and subscribe to our newsletter to get the latest news about wityCMS. 
+
+If you need assistance as you go through the questions, you can contact us on www.creatiwity.net/contact or 
