@@ -39,7 +39,7 @@ Click on the button "**Add a language**" to start the configuration of a new lan
 ## Add a language
 
 ![](settings-03.png)
-To add a new language you will need to carefully fill the forms indicated in ensuring respect although you ISO 639 (standard list of languages), ISO 3166 size (standard list of countries) - [local planet](http://www.localeplanet.com/icu/).
+Respect the [ISO 639 and ISO 3166](http://www.localeplanet.com/icu/) to configure your new language.
 
 * **Name***:  Name
 * **Iso***: Iso
@@ -49,4 +49,5 @@ To add a new language you will need to carefully fill the forms indicated in ens
 * **Enabled**: Yes / No
 * **Use as default**: Yes / No
 
-When you finish, you just need to "**submit**" and your modification will be saved.
+To confirm you new language click on the button "**submit**".
+Now, you can translate all you content.
