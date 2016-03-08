@@ -28,11 +28,11 @@ If you want to add a news: Click on green button **"Add a news"**.
 ![](news-02.png)
 ### Editing:
 
-After clicking the button "Add a news" in the upper right of the wityCMS admin. You arrive on "Add a news" page.
+After clicking the button "Add a news" in the upper right of the back-office. You can write a news.
 
 ![](news-03.png)
 
-* * **Title***: Start by indicating the title of your news (it must not exceed 140 chars).
+* **Title***: Start by indicating the title of your news (it must not exceed 140 chars).
 * **UR***: you will be automatically generated URL in relation to the title you have just entered. You can if you want change this URL.
 * **Content**: This is where it all happens. Thanks to **[CKEditor](http://docs.ckeditor.com/)** you will be able to write, layout your news and add some pictures and videos as desired.
 
