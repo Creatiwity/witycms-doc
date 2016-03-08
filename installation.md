@@ -23,7 +23,7 @@ Some hosts only allow you a single database. You must then use this database (to
 
 A database is a collection of data organized and required for the operation of an application.
 
-When the application needs to use its database, it then queries the database manager (such as: *MySQL*, *MariaDB*) which will perform helpful actions in the database (add, modify or delete data, etc.). This program is optimized to efficiently handle large amounts of data.
+When the application needs to use its database, it then queries the database manager (such as: *MySQL*, *MariaDB*) which will perform helpful actions in the database (add, modify or delete data, etc.). This program is optimized to effectively large volumes of data.
 
 You will use phpMyAdmin to create and configure the wityCMS database.
 Launch another browser (or tab) and enter the local address: http: // ... / phpMyAdmin
