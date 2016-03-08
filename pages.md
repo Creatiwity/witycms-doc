@@ -4,10 +4,15 @@ This is the essential application of wityCMS. If you want to make a website with
 
 ## Pages list
 
-This list contains all created pages and gives you their "title" as it appears in the menu of your Website, the "author" of the page, the number of person who "views" this page and the date last modification. 
+The list contains all the pages created on your website. It gives you a rapid view of: 
+
+* Title
+* Author
+* Views
+* Date of the last modification 
 
 ![](pages-01.png)
-The action button allows you to edit or delete its contents (according to permissions granted by your administrator).
+The action button "**Edit**" allow you to *edit* or *delete* a page (according to permissions granted by your administrator).
 ![](pages-02.png)
 ## Create or edit your page
 
