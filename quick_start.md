@@ -1,14 +1,14 @@
 # Quick start
 
-Once you have installed wityCMS you can change some of the default settings that came with wityCMS. To do this, you will need to edit some configuration files.
+Once you have installed wityCMS you can change some of the default settings assigned. To change those settings, you will have to edit certain configuration files.
 
-## How to find settings files
+## How to find configuration files
 
-All configuration files are stored in the wityCMS / settings file, but if you need to change specific parts of wityCMS, continue reading for some common examples.
+All configuration files are stored in wityCMS /system folder, but if you need to change specific parts of wityCMS, continue reading for some common examples.
 
 ## URL 
 
-By default, the installer will try to detect if you have Apache and mod_rewrite enabled and create the .htaccess file for you. However, in some cases (mainly due to server limitations) wityCMS is unable to do for you, and you'll need to do it yourself. In this case please refer to note ... describe if necessary.
+By default, the installer will try to detect if you have *Apache* and "*mod_rewrite enabled*". It will then create the "*.htaccess*" file for you. However, in some cases mainly due to server restrictions, wityCMS might not be able to do it, and you'll need to create the "*.htaccess*" file manually.
 
 ## Language
 
