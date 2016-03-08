@@ -28,12 +28,12 @@ If you want to add news: Click on green button **"Add a news"**.
 ![](news-02.png)
 ### Editing:
 
-After clicking the button "Add a news" in the upper right of the back-office. You can write a news article.
+After clicking the button "Add a news" in the upper right of the back-office. You can write the content.
 
 ![](post-news-02.png)
 
-* **Title***: Start by indicating the title of your news *(it must not exceed 140 chars)*.
-* **URL***: The URL will be automatically generated URL with the information you fill in the title form. You can if you want change this URL.
+* **Title***: Start by indicating the news title *(it cannot exceed 140 characters)*.
+* **URL***: The URL will be automatically generated with the information you filled in the title form. If you want, you can change this URL.
 * **Content**: Thanks to **[CKEditor](http://docs.ckeditor.com/)** you are able to write, layout your news and add some pictures and videos as desired.
 
 ### Details:
