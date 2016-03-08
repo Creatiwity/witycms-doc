@@ -26,7 +26,7 @@ Click on the green button “**Add a user**”, on the top right of the back-off
 *  **Password (confirmation)**:
 *  **Email***:
 *  **First name**:
-*  **last name**:
+*  **Last name**:
 *  **Group**:
 *  **User Rights**: Regular user / Supreme Admin / Custom rights access
 
