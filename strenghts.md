@@ -1,7 +1,7 @@
-# WityCMS strenghts
+# wityCMS strengths
 
 * Easy to learn and manage.
-* Powerfull and free from bugs.
+* Powerful and free from bugs.
 * Used by a growing community.
 * Effective and able to meet diverse needs.
 * Simple and flexible - the delight of developers.
