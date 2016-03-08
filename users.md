@@ -13,7 +13,7 @@ This list contains all registered users. It gives you a rapid view of:
 
 The action button "**Edit**" allow you to *edit* or *delete* a user (according to permissions granted by your administrator).
 ![](user-01.png)
-At the right you have "**Search**" application who permit you to make a fast search when you need to find a user. 
+The bloc search at the right allows you to make a fast search when you need to find a user.
 
 ## Add a user
 
