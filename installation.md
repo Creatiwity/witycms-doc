@@ -11,7 +11,7 @@ Go to the download section of [Creatiwity](https://www.creatiwity.net) website a
 Folder structure:
 ![](folders-01.png)
 
-## Webservers configuration
+## Web Server configuration
 
 Apache server with PHP5.3+, mod_rewrite enabled and .htaccess files allowed.
 
