@@ -17,7 +17,7 @@ The bloc search at the right allows you to make a fast search when you need to f
 
 ## Add a user
 
-To create a new user, click on the "**add user**" button. A new form appears on the screen, this is where you can create your new user and edit his profile.
+Click on the green button “**Add a user**”, on the top right of the back-office to create a new user. However, by default the inscription are free for any person who come to visit your website.
 
 ![](user-02.png)
 
