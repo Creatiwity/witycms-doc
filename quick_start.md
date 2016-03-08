@@ -19,4 +19,4 @@ However, the system translation, there are two lang available :
 * **English (en_GB)**
 * **French (en_US)**
 
-If you want to add a new translation, thank you submit a translation request; make sure the folder name for the new translation follows ISO 639 / ISO 3166 (http://www.localeplanet.com/icu/).
+If you want to add a new lang, please submit a translation request and make sure the folder name for the new lang respects the standards: [ISO 639 / ISO 3166](http://www.localeplanet.com/icu/).
