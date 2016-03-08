@@ -11,7 +11,7 @@ The list contains all the members created on your team. It gives you a rapid vie
 * Order
 * Date
 
-The action button "**Edit**" allow you to *edit* or *delete* a page (according to permissions granted by your administrator).
+The action button "**Edit**" allow you to *edit* or *delete* a member (according to permissions granted by your administrator).
 
 ![](team-01.png)
 ### Order
