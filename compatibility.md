@@ -7,7 +7,7 @@ The deployment and the basics uses of wityCMS do not require specific knowledge 
 * Apache (mod_rewrite enabled)
 * Nginx (config…)
 
-The space storage required is very depending on modules, files (pictures ...), and data that you add to your site. At a minimum, you must allow at least 20 MB for storage to install wityCMS content.
+The space storage required depends on modules, files (pictures ...), and data you would like to upload on your website. At a minimum, you must allow at least 20 MB for storage to install wityCMS content.
 
 ## PHP 5.4+ and 7
 
