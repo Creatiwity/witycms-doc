@@ -8,7 +8,7 @@ To differentiate the two application "**News**" to "**Pages**", let's just say t
 
 Using "**News**" application is interesting to create and manage your site's news, key announcements etc. If you think you create an "*RSS feed*", these is the application that will be used. Interesting for those who want to subscribe to the latest news from your website for example. 
 
-News application will allow you to add single news to your website from the back-end to front-end with a text editor (CKEditor V2.0). ([CKEditor documentation](http://docs.ckeditor.com/)).
+"**News**" application will allows you to add single news to your website from the back-end to front-end with an advanced text editor ([CKEditor](http://docs.ckeditor.com/)).
 
 ## List
 ![](news-01.png)
