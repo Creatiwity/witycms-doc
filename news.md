@@ -48,13 +48,13 @@ On the right side, you notce the details about your current news:
 
 ### Categories:
 
-Categories permit to classify your news according to their content. This part is explain lower.  
+Categories enable to classify your news according to the content. This part is explained later. 
 
 ### SEO:
 
 Meta tags, Title and Link are "**html**" tag inserted in the ```<head >``` section of a web page (before the ```<body>```. 
 
-They help to provide "*guide*" for the search engines, social networks and other systems using "*metadata*". The information in these tags are not visible on your website, but appear in the source code of the page.
+They help you to provide "*guide*" for the search engines, social networks and other systems using "*metadata*". The information on those tags are not visible on your website, but it appears in the source code of the page.
 
 * **Meta title**: by default is the name of your news
 * ** Meta description**:
