@@ -52,7 +52,7 @@ This will redirect you to the installation wizard. At this stage, only remains t
 
 ### Database
 
-wityCMS needs a MySQL database to run which is available on most of the web servers. Fill in the credentials provided by your hosting company in the form.
+wityCMS needs a *MySQL* database to run. It is available in the majority of the web servers. Fill in the form with the credentials provided by your hosting company.
 
 ![](installer-03.png)
 
@@ -62,7 +62,7 @@ wityCMS needs a MySQL database to run which is available on most of the web serv
 * **Password**: 
 * **Database name***:
 
-The prefix tables field allows you to defined the prefix added at the beginning of the name of the tables. We advise you to let the value "wity" (nb: an underscore character will be automatically added after the prefix). 
+*Prefix tables* field allows you to defined the prefix added at the beginning of the name of the tables. We advise you to let the value "**wity**" (nb: an underscore character will be automatically added after the prefix). 
 
 * **Prefix for tables***: wity
 
