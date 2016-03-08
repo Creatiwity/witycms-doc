@@ -1,12 +1,23 @@
 # Front
 
-You installed a system, a web server that supports PHP, database software and wityCMS.
+You installed the following systems:
 
-So you can explore the software by adding content to it, by changing its interface, installing and developing new modules add functionality and many other things ...
+1. A web server that supports "*PHP*"
+2. A database software 
+3. wityCMS
+
+From now on, you can explore wityCMS:
+
+* adding content
+* changing the interface
+* installing modules
+* developing functionalities
+
 
 ## First Step
 
-Once you have finished installing your website you will access to it clicking on the “home” button you are redirected on the front-end app you choose during the second installation step. Which is usually the application "news".
+Once you have finished the installation of your website, you can access to it by clicking on the “**home**” button.
 
-
-![](01-witytemplate.png)
+![](installer-05.png)
+You will then be redirected to the front-end app you chose during the second installation step. It is most often  the application "**news**".
+![](post-news-04.png)
