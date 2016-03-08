@@ -66,12 +66,9 @@ They help to provide "*guide*" for the search engines, social networks and other
 
 ## Categories
 
-You can have many news and their subjects totally different, so its difficult for readers to navigate and to have quick access to the information.
-This is why, wityCMS offers the ability to classify your news in different categories according to their content.
+You can have lot of news and subjects totally different. This is why, wityCMS offers the ability to classify your news in different categories according to their content.
 
-To create a new category, click on "Categories" tab.
-This list contains all the categories created and gives you the name, shortname, parent page.
-In this list, only editing or deleting a category is available.
+This list contains all the categories and gives you the name, shortname and the parent page (if it is specify).
 
 ![](news-04.png)
 You must click on the button "add categories" to create a new one.
