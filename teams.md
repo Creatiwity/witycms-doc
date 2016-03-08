@@ -2,9 +2,17 @@
 
 The "**Team**" application allows you to create profiles members for your team. 
 
-## List
+## Members list
 
-This list contains all members created on your website. This list gives you their Name as it appears on your website, the position, the order (you can manage it), date of creation, and an action button allows you to change or delete its contents (according to permissions granted by your administrator).
+The list contains all the members created on your team. It gives you a rapid view of: 
+
+* Name
+* Position
+* Order
+* Date
+
+The action button "**Edit**" allow you to *edit* or *delete* a page (according to permissions granted by your administrator).
+
 ![](team-01.png)
 ### Order
 
