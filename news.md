@@ -1,6 +1,6 @@
 # News
 
-To differentiate the two application "**News**" to "**Pages**", let's just say that application news has only one CMS page with multiple news after each other (like a blog).
+To distinguish between the application "**News**" and "**Pages**", you can notice that the application news has only one CMS page with multiple news after each other (like a blog).
 
 "**News**" offers a dynamic side that does not have the "**Pages**". Moreover, the information is not sustainable on the screen, a new item is automatically placed above the last, shifting the presentation of your page. "**News**" are slightly more complex hierarchy that pages.
 
