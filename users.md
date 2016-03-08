@@ -58,7 +58,7 @@ Define the rule of user registration.
 
 ![](user-05.png)
 
-* Enable user account validation by an admin:
+* Enable user account validation by an admin: user account is not automatic, an admin need to validate account one by one before to validate. 
 * At registration, send email to confirm the email address:
 * Keep deleted and refused accounts in the database disabling them: 
 * Open registration:
