@@ -30,19 +30,19 @@ If you want to add a news: Click on green button **"Add a news"**.
 
 After clicking the button "Add a news" in the upper right of the back-office. You can write a news.
 
-![](news-03.png)
+![](post-news-02.png)
 
 * **Title***: Start by indicating the title of your news *(it must not exceed 140 chars)*.
 * **URL***: The URL will be automatically generated URL with the information you fill in the title form. You can if you want change this URL.
-* **Content**: This is where it all happens. Thanks to **[CKEditor](http://docs.ckeditor.com/)** you will be able to write, layout your news and add some pictures and videos as desired.
+* **Content**: Thanks to **[CKEditor](http://docs.ckeditor.com/)** you are able to write, layout your news and add some pictures and videos as desired.
 
 ### Details:
 
-On the side you will find the schedule information in your news:
+On the side, you find the details information about your current news:
 
-* **Published**: yes / no (this will allow you to write an news without disclosing it on the canvas).
-* **Date of publication***: it’s automatically filled when you creating your news. However, you can edit yourself the time of the publication as desired.
-*  **Hour of publication***: it’s automatically filled when you creating your news. However, you can edit yourself the time of the publication as desired.
+* **Published**: yes / no (this allow you to write a news without to publish it on your website).
+* **Date of publication***: it is automatically filled when you creating your news. Moreover, you can edit yourself the date of publication as desired.
+*  **Hour of publication***: it’s automatically filled when you creating your news. Moreover, you can edit yourself the time of publication as desired.
 * **Author**: you can mention the author of the news; the default author used, is the name of default account with which you are connected.
 * **Image**: You can load a main image for your news (using like header / news preview etc. That depend of the used template).
 
