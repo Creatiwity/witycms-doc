@@ -5,8 +5,8 @@
 You will now install wityCMS from its source files. 
 Go to the download section of [Creatiwity](https://www.creatiwity.net) website and download the latest version of wityCMS.
 
-Unpack the archive to any folder on your computer and note the location.
-With your FTP program (eg [FileZilla](https://filezilla-project.org/)), send to your server all the contents of the folder, keeping exactly the same structure (of folders and files). This may be at the root of your web space or in a subfolder if you wish (for example if you are hosting multiple websites under one domain name).
+1. Extract the files from the zip folder and save it on your computer (remember to note the location).
+2. With your FTP program (eg [FileZilla](https://filezilla-project.org/)), send from your computer to your server the folder, keeping exactly the same structure (folders and files).
 
 Folder structure:
 ![](folders-01.png)
