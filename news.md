@@ -28,7 +28,7 @@ If you want to add a news: Click on green button **"Add a news"**.
 ![](news-02.png)
 ### Editing:
 
-??? - > After clicking the button "Add a news" in the upper right of the wityCMS admin. You arrive on "Add a news" page.
+After clicking the button "Add a news" in the upper right of the wityCMS admin. You arrive on "Add a news" page.
 
 ![](news-03.png)
 
