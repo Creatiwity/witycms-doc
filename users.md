@@ -45,11 +45,9 @@ For each app, you can select or deselect an access right to define a particular 
 
 ## Groups
 
-User application allows you to create groups to define specific permission to assign user right.
+User application allows you to create groups to define specific permission to assign user right.By default, there are two right groups: Administrator and non-Administrator.
 
 ![](user-03.png)
-
-Allows you to add new groups of users to attach it to switch to the rights management. By default, there are two right groups: Administrator and non-Administrator.
 
 ![](user-04.png)
 
