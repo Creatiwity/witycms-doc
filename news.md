@@ -41,10 +41,10 @@ After clicking the button "Add a news" in the upper right of the back-office. Yo
 On the side, you find the details information about your current news:
 
 * **Published**: yes / no (this allow you to write a news without to publish it on your website).
-* **Date of publication***: it is automatically filled when you creating your news. Moreover, you can edit yourself the date of publication as desired.
-*  **Hour of publication***: it’s automatically filled when you creating your news. Moreover, you can edit yourself the time of publication as desired.
-* **Author**: you can mention the author of the news; the default author used, is the name of default account with which you are connected.
-* **Image**: You can load a main image for your news (using like header / news preview etc. That depend of the used template).
+* **Date of publication***: it is automatically filled when you publishing your news. Moreover, you can edit yourself the date of publication as desired.
+*  **Hour of publication***: it is automatically filled when you publishing your news. Moreover, you can edit yourself the time of publication as desired.
+* **Author**: by default the author is the name of the account with which you are log in. Moreover, you can edit yourself the author as desired.
+* **Image**: You can upload a main image for your news (use like header / news preview etc., that depends of your template).
 
 ### Categories:
 
