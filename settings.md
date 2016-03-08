@@ -1,20 +1,20 @@
 # Settings
 
-"**Settings**" application will allow you to configure the general settings of your website.
+The "**Settings**" application will allow you to configure general settings of your website.
 
 ## Settings of the site
 
 ![](settings-01.png)
 ### General
 
-*General* - it is the first configuration you done previously during the installation steps.
+*General* - it is the first configuration you did during the installation steps.
 
-* **Website's name**: just give a name at your website who define your activity.
+* **Website's name**: it is the name you need to give at your website to define your activity.
 * **Administrator's Email**: more often, it is better to give the address of the webmaster in charge of the website.
 
 ### SEO
 
-This section allows edit the elements that will affect the visibility of a website or a web page in a search engine's, when site appears in different Google searches. You can leave blank the fields below, but it is strongly advised to complete them correctly if you want to appear clearly on results.
+This section allows you to edit the elements that will affect the visibility of your website or a web page in search engines (when the website appears in different Google searches). You can leave blank the fields below, but it is strongly advised to complete them correctly if you want to appear clearly on results.
 
 * **Title**: Website title who define your activity
 * **Description (about 125 symbols)**: a short description of your activity (don't exceed 125 chars).
