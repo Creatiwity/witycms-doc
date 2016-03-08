@@ -16,7 +16,7 @@ The action button "**Edit**" allow you to *edit* or *delete* a page (according t
 ![](pages-02.png)
 ## Create or edit page
 
-After you click at the green button "**Add a page**" in the upper right of the wityCMS admin. You arrive on Add a page, this is where you can create your new page and its details.
+If you want to add a page: Click on green button **"Add a page"**.
 
 ### Editing:
 
