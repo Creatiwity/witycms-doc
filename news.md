@@ -24,7 +24,7 @@ The list contains all the news created on your website. It gives you a rapid vie
 ## Create and edit news
 
 The rapid action button "**Edit**" permit you to edit or delete the current news. 
-If you want to add a news: Click on **"Add a news"**.
+If you want to add a news: Click on green button **"Add a news"**.
 ![](news-02.png)
 ### Editing:
 
