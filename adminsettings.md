@@ -1,6 +1,6 @@
 # Admin / Settings
 
-Once you have fin ished the installation of the website you will access to the back-end (back-office) with the button “**Administration**”. You will be redirect on the identification screen where you need to fill in the form to login.
+Once you have finished the installation of the website you will access to the back-end (back-office) with the button “**Administration**”. You will be redirect on the identification screen where you need to fill in the form to login.
 
 * Identifier:
 * Password:
