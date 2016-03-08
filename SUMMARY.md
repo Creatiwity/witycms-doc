@@ -26,7 +26,7 @@
 * Expert
    * [Technical overview](technical_overview.md)
    * [WCore](wcore.md)
-   * [Creat apps](creat_apps.md)
+   * [Create apps](creat_apps.md)
    * More
        * [Helpers (php)](helpers_php.md)
        * [Librairies (js)](librairies_js.md)
