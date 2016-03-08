@@ -29,7 +29,7 @@
    * [Create apps](creat_apps.md)
    * More
        * [Helpers (php)](helpers_php.md)
-       * [Librairies (js)](librairies_js.md)
+       * [Libraries (js)](librairies_js.md)
 * Contribution
 * Appendices
    * [CKEditor](ckeditor.md)
