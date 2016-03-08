@@ -1,6 +1,6 @@
 # Users
 
-The management of user and group provides the ability to manage the access to the administration, according to the group permissions, certain menus or submenus will be unavailable.
+The "**Users**" application provides the ability to manage account for each person who register to the website according to the group permissions, certain menus or submenus will be unavailable.
 
 ## Users List
 
