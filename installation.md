@@ -76,14 +76,14 @@ Once you click on the "**Launch install**" button, wityCMS will be installed. Yo
 
 * **Nickname***:
 * **Password***:
-* **Confirmation***:
+* **Confirmation password***:
 * **Firstname**: 
 * **Lastname**:
 * **Email***:
 
-### Let's get started 
+### Let's start 
 
-Congratulation, the installation of wityCMS is completed! Please, make sure the directory /installer/ is deleted from your server.
+Congratulation, the installation of wityCMS is completed! Please, make sure the directory /**installer**/ is deleted from your server.
 
 ![](installer-05.png)
 
