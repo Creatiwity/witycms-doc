@@ -4,7 +4,13 @@ The "**Slideshow**" application will allow you manage the slider on your website
 
 ## Slides lists
 
-This list contains all created slides and gives you their title as it appears on your website, the legend, the associated image, position, date of the last modification, and an action button allows you to change or delete its contents (according to permissions granted by your administrator).
+The list contains all the slides created on your website. It gives you a rapid view of: 
+
+* Title
+* Legend
+* Image
+* Position
+* Last modification
 
 In the top left of this list, a tab prompts you to create a new slide. 
 Click on "**Add a slide**".
