@@ -52,7 +52,9 @@ Categories permit to classify your news according to their content. This part is
 
 ### SEO:
 
-Meta tags, Title and Link are html tag inserted in the ```<head >``` section of a web page (before the ```<body>``` ). They help provide guid to the search engines , social networks and other systems to categorize the news content using metadata. The information in these tags are not visible on the screen, but appear in the source code of the page.
+Meta tags, Title and Link are "**html**" tag inserted in the ```<head >``` section of a web page (before the ```<body>```. 
+
+They help provide "*guide*" to the search engines, social networks and other systems to classify the news content using "*metadata*". The information in these tags are not visible on your website, but appear in the source code of the page.
 
 * **Meta title**: 
 * ** Meta description**:
