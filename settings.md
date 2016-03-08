@@ -1,8 +1,6 @@
 # Settings
 
-We will present the official application developed by wityCMS team and offered as Open Source. It is possible that news applications are provided and developed by the other developer community.
-
-Settings application will allow you to configure the general elements of your website. You will find the items you have filled during the installation of wityCMS.
+Settings application will allow you to configure the general settings of your website.
 
 ## Configure
 
