@@ -30,18 +30,19 @@ After clicking the button "**Add a page**" in the upper right of the back-office
 
 ### Details:
 
-On the side you will find the information in your page:
+On the side, you find the details information about your current page:
 
-* **Author**: you can mention the author of the page; the default author used, is the name of default account with which you are connected.
-* **Subtitle**: 
-* **Mother page**: If you want to link a page to an other like a subpage. You can attribute a mother page.
-* **Image**: You can load a main image for your page (using like header / news preview etc. That depend of the used template).
+* **Author**: by default the author is the name of the account with which you are log in. Moreover, you can edit yourself the author as desired.
+* **Subtitle**: use for *SEO*.
+* **Image**: You can upload a main image for your page (use like header / page preview etc., that depends of your template).
 
 ### SEO:
 
-Meta tags, Title and Link are html tag inserted in the ```<head >``` section of a web page (before the ```<body>``` ). They help provide guide to the search engines , social networks and other systems to categorize the news content using metadata. The information in these tags are not visible on the screen, but appear in the source code of the page.
+Meta tags, Title and Link are "**html**" tag inserted in the ```<head >``` section of a web page (before the ```<body>```. 
 
-* **Meta title**: By default the title of your page will be increment here.
+They help to provide "*guide*" for the search engines, social networks and other systems using "*metadata*". The information in these tags are not visible on your website, but appear in the source code of the page.
+
+* **Meta title**: by default is the name of your page
 * ** Meta description**:
 
 ### Submit your page:
