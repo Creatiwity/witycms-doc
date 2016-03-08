@@ -10,6 +10,8 @@ This list contains all registered users. It gives you a rapid view of:
 * **Nickname**: use to log in 
 * **Group**: it belongs
 * **Last connection**
+
+The action button "**Edit**" allow you to *edit* or *delete* a user (according to permissions granted by your administrator).
 ![](user-01.png)
 At the right you have "**Search**" application who permit you to make a fast search when you need to find a user. 
 
