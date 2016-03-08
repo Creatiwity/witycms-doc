@@ -19,11 +19,11 @@ Apache server with *PHP5.3+*, mod_rewrite enabled and *.htaccess* files allowed.
 
 Depending on your host, you will need to create a blank database or be sure to create one. You can use a program like "*phpMyAdmin*" or the admin panel of your account.
 
-Some hosts only allow you a single database. You must then use that database (to connect it use your login and your password). Just be sure to use a prefix for tables that separate the wityCMS tables from other tables that you may use in the same database.
+Some hosts only allow you a single database. You must then use this database (to connect it use your nickname and your password). Be sure to use a prefix for tables that separate the wityCMS tables from other tables that you might use in the same database.
 
-A database is a collection of data organized and necessary for the operation of an application.
+A database is a collection of data organized and required for the operation of an application.
 
-When the application needs to use its base, it then queries the database manager (you will use MySQL, MariaDB) which itself will perform helpful actions in the database (add, modify, delete data, etc.). This program is optimized to efficiently handle large amounts of data.
+When the application needs to use its database, it then queries the database manager (such as: *MySQL*, *MariaDB*) which will perform helpful actions in the database (add, modify or delete data, etc.). This program is optimized to efficiently handle large amounts of data.
 
 You will use phpMyAdmin to create and configure the wityCMS database.
 Launch another browser (or tab) and enter the local address: http: // ... / phpMyAdmin
