@@ -71,7 +71,7 @@ You can have lot of news and subjects totally different. This is why, wityCMS of
 This list contains all the categories and gives you the name, shortname and the parent page (if it is specify).
 
 ![](news-04.png)
-You must click on the button "add categories" to create a new one.
+You must click on the green button "**Add a category**" to create a new category.
 
 ![](news-05.png)
 
