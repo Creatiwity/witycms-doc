@@ -36,5 +36,5 @@ Click on the green button “**Add a slide**”, on the top right of the back-of
 
 When you decide to "*enable slides autoplaying*", you can edit this two parameter : 
 
-* **Pause time between two slides (ms)**: the default value is 4000
-* **Transition time between two slides (ms)**: the default value is 500
+* **Pause time between two slides (ms)**: the default value is 4000 ms
+* **Transition time between two slides (ms)**: the default value is 500 ms
