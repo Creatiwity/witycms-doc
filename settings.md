@@ -14,7 +14,7 @@
 
 ### SEO
 
-SEO section allows you to edit the elements that will affect the visibility of a website or a web page in a search engine's, when site appears in different Google searches. You can leave blank the fields below, but it is strongly advised to complete them correctly if you want to appear clearly on results.
+This section allows edit the elements that will affect the visibility of a website or a web page in a search engine's, when site appears in different Google searches. You can leave blank the fields below, but it is strongly advised to complete them correctly if you want to appear clearly on results.
 
 * **Title**: Website title who define your activity
 * **Description (about 125 symbols)**: a short description of your activity (don't exceed 125 chars).
