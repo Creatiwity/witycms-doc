@@ -2,17 +2,17 @@
 
 To distinguish between the application "**News**" and "**Pages**", you can notice that the application news has only one CMS page with multiple news after each other (like a blog).
 
-"**News**" application offers a dynamic side that does not have the "**Pages**". Moreover, the information is not sustainable on the screen, a new item is automatically placed above the last one, shifting the presentation of your page. "**News**" are slightly more complex hierarchy that pages.
+"**News**" application offers a dynamic side that does not have the "**Pages**". Moreover, the information is not sustainable on the screen, another news can be placed above the last one, changing the information order of your page. "**News**" are slightly more complex hierarchically that "**Pages**".
 
-"**News**" appliclation follows the rules of publication: date of publication, text modification etc.
+"**News**" appliclation follows the rules of publications: date of publication, text modification etc.
 
-Using "**News**" application is interesting to create and manage your site's news, key announcements etc. If you think you create an "*RSS feed*", these is the application that will be used. Interesting for those who want to subscribe to the latest news from your website for example. 
+Using "**News**" application is helpful if you want to create and manage your site's news, key announcements etc. If you want to create an "*RSS feed*", this is the application to use. It will be interesting for those who want to subscribe to the latest news from of your website for example. 
 
-"**News**" application will allows you to add single news to your website from the back-end to front-end with an advanced text editor ([CKEditor](http://docs.ckeditor.com/)).
+"**News**" application will allows you to publish news on your website from the back-end to front-end with an advanced text editor ([CKEditor](http://docs.ckeditor.com/)).
 
 ## List
 ![](news-01.png)
-The list contains all the news created on your website. It gives you a rapid view of: 
+The list contains all news created on your website. It gives you an overview of: 
 
 * The title 
 * Author
@@ -23,12 +23,12 @@ The list contains all the news created on your website. It gives you a rapid vie
 
 ## Create and edit news
 
-The rapid action button "**Edit**" permit you to edit or delete the current news. 
-If you want to add a news: Click on green button **"Add a news"**.
+The action button "**Edit**" enable to edit or delete the current news. 
+If you want to add news: Click on green button **"Add a news"**.
 ![](news-02.png)
 ### Editing:
 
-After clicking the button "Add a news" in the upper right of the back-office. You can write a news.
+After clicking the button "Add a news" in the upper right of the back-office. You can write a news article.
 
 ![](post-news-02.png)
 
