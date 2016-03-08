@@ -21,7 +21,7 @@ NB: it is the same nickname and password you filled during the fourth installati
 
 3.  Submit your news
 
-You are notify that "The news **Lorem Ipsum** was successfully created"
+You are notify that "The news **Lorem Ipsum** was successfully created".
 
 ![](post-news-03.png)
 
