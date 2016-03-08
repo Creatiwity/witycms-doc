@@ -56,7 +56,7 @@ Meta tags, Title and Link are "**html**" tag inserted in the ```<head >``` secti
 
 They help provide "*guide*" to the search engines, social networks and other systems to classify the news content using "*metadata*". The information in these tags are not visible on your website, but appear in the source code of the page.
 
-* **Meta title**: 
+* **Meta title**: by default is the name of your news
 * ** Meta description**:
 
 ### Submit your news:
