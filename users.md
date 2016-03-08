@@ -54,7 +54,7 @@ User application allows you to create groups to define specific permission to as
 
 ## Configuration
 
-Setting permissions and group access levels:
+Define the rule of user registration. 
 
 ![](user-05.png)
 
