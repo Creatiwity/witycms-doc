@@ -84,8 +84,8 @@ A notification inform you "the category **Geek** was successfully created".
 ![](news-06.png)
 You can also delete a category when you want with the action button "**Delete**". 
 ![](news-07.png)
-To confirm deletion, a pop-up appear asing you "Do you really want to delete this category?".
-If you are certain clic on "**Delete**" if not clic on "**Cancer**".
+To confirm deletion, a pop-up appear asking you: "Do you really want to delete this category?".
+If you are certain, click on "**Delete**" if not click on "**Cancel**".
 ![](news-08.png)
 A notification appear to inform that the category is successfully deleted.
 ![](news-09.png)
