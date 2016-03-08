@@ -31,13 +31,14 @@ Open another tab and enter the "local" address: http: // ... / phpMyAdmin
 ## wityCMS installation
 
 Once the files are installed on your FTP server from the ***FileZilla***. You can open your browser, type the URL of the file where you saved files, for example: "http://www.nameofyourwebsite.com" if it is at the root of your FTP.
+
 This will redirect you to the installation wizard. At this stage, only remains to follow the 4 steps to install wityCMS. You can only complete the installation once the 4 steps are done and validated by clicking the button "**Launch install**".
 
 ### General
 ![](installer-01.png)
 
 * **Site name***: Specify the name you want to give to your website.
-* **Base URL***: inquire with the URL where the file name in which you * export the .ZIP. By default, this field is pre-filled.
+* **Base URL***: Inquire the URL where the file name saved export the .ZIP. By default, this field is pre-filled.
 * **Subject***: Choose the theme for your website. The field is always pre-filled with the basic theme.
 * **Language***: You must specify the language you want to give to the system. The default language is English.
 * **Time zone ***: By default, the "Time Zone" is always (UTC + 01: 00) Paris.
@@ -45,7 +46,7 @@ This will redirect you to the installation wizard. At this stage, only remains t
 ### Application
 ![](installer-02.png)
 
-* **Home application***: The Home application is the first application executed by wityCMS and that will be displayed when users connect to the root page of your website. For instance, if you want to create a blog, we advise you to select the News application.
+* **Home application***: The Home application is the first application executed by wityCMS. It will be displayed when a visitor connect to the root page of your website. For instance, if you want to create a blog, we advise you to select the "**News**" application.
 
 * **Main admin application***: The main admin application is the first application loaded when you connect to the administration. We advise you to select the application you will use most of the time (user or news for instance).
 
