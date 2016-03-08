@@ -17,7 +17,7 @@ The action button "**Edit**" allow you to *edit* or *delete* a page (according t
 ![](slideshow-01.png)
 ## Add a slide
 
-When you click on “**Add a slide**”, you are redirected to a new page, here is where you can create your new slide.
+Click on the green button “**Add a slide**”, on the top right of the back-office to create a new slide.
 
 ![](slideshow-02.png)
 
