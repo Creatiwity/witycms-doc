@@ -32,7 +32,7 @@ Click on the green button “**Add a user**”, on the top right of the back-off
 
 ### Right access table
 
-You can select or deselect an access right to define the entire access for the user.
+For each app, you can select or deselect an access right to define a particular permissions for the user.
 
 * **Contact**: Admin 
 * **News**: Writer / Category_manager / Moderator
