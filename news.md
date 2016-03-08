@@ -82,7 +82,7 @@ You must click on the green button "**Add a category**" to create a new category
 
 A notification inform you "the category **Geek** was successfully created".
 ![](news-06.png)
-You can also delete a categories when you want with the action button. 
+You can also delete a category when you want with the action button "**Delete**". 
 ![](news-07.png)
 To confirm deletion, a pop-up appear asing you "Do you really want to delete this category?".
 If you are certain clic on "**Delete**" if not clic on "**Cancer**".
