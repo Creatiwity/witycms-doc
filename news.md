@@ -48,7 +48,7 @@ On the right side, you notce the details about your current news:
 
 ### Categories:
 
-Categories enable to classify your news according to the content. This part is explained later. 
+Categories enable to classify your news according to the news content. This part is explained later. 
 
 ### SEO:
 
@@ -56,7 +56,7 @@ Meta tags, Title and Link are "**html**" tag inserted in the ```<head >``` secti
 
 They help you to provide "*guide*" for the search engines, social networks and other systems using "*metadata*". The information on those tags are not visible on your website, but it appears in the source code of the page.
 
-* **Meta title**: by default is the name of your news
+* **Meta title**: by default it is the news name
 * ** Meta description**:
 
 ### Submit your news:
@@ -66,9 +66,9 @@ They help you to provide "*guide*" for the search engines, social networks and o
 
 ## Categories
 
-You can have lot of news and subjects totally different. This is why, wityCMS offers the ability to classify your news in different categories according to their content.
+You can have several news and subjects totally different. This is how, wityCMS offers you the possibility to arrange your news in different categories according to the content.
 
-This list contains all the categories and gives you the name, shortname and the parent page (if it is specify).
+This list includes all the categories and gives you the name, shortname and the parent page (if it is specified).
 
 ![](news-04.png)
 You must click on the green button "**Add a category**" to create a new category.
