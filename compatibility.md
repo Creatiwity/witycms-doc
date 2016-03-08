@@ -1,6 +1,6 @@
 # Compatibility
 
-The deployment and the basics uses of wityCMS doesn’t require special knowledge in PHP programming. However, if you want to reach into the heart of the system to customize wityCMS deeply, you will be faced some time to rewrite PHP lines. It is important to control at least one programming language to better understand the inner workings of wityCMS and avoid wasting time if you want to make some changes.
+The deployment and the basics uses of wityCMS do not require specific knowledge in "PHP" programming. However, if you wish to reach into the heart of the system to customize wityCMS, you will have to the rewriting of some PHP lines. In this case, it is essential to master at least one programming language to better understand the inner workings of wityCMS.
 
 ## Webservers
 
