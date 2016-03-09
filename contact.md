@@ -26,9 +26,9 @@ To read a delivery email :
 ![](contact-02.jpg)
 ## Configuration 
 
-You can also configure a contact box to resend the email contact directly to a mail box.
+You can also configure a contact box to resend the email contact directly to a configure mail box.
 
 ![](contact-03.jpg)
 
-* **Sender's name**:
-* **Sender's email**:
+* **Sender's name**: sender's name who receive the mail information
+* **Sender's email**: sender's email who receive the mail information  
