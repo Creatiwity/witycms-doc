@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "customtheme"
+        "/path/to/clarity/lib/"
     ],
     "pluginsConfig": {}
 }
