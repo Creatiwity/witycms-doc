@@ -4,7 +4,7 @@ To distinguish between the application "**News**" and "**Pages**", you can notic
 
 "**News**" application offers a dynamic side that does not have the "**Pages**". Moreover, the information is not sustainable on the screen, another news can be placed above the last one, changing the information order of your page. "**News**" are slightly more complex hierarchically that "**Pages**".
 
-"**News**" appliclation follows the rules of publications: date of publication, text modification etc.
+"**News**" application follows the rules of publications: date of publication, text modification etc.
 
 Using "**News**" application is helpful if you want to create and manage your site's news, key announcements etc. If you want to create an "*RSS feed*", this is the application to use. It will be interesting for those who want to subscribe to the latest news from of your website for example. 
 
