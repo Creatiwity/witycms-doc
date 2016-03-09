@@ -1,6 +1,6 @@
 # Contact
 
-The "**contact**" application will allow to manage and receive emails send by the website contact form.
+The "**contact**" application will allow to manage and receive emails send to the website contact form.
 
 ## List
 
