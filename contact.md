@@ -8,20 +8,20 @@ The list contains all emails send since the contact form exist.
 It gives you a rapid view of: 
 
 * "From": email address of the person who sent an email
-* "Subject": title and content of the email.
-* "Date": when the email was sent.
+* "Subject": title and content
+* "Date": when the email was send.
 
 ![](contact-01.jpg)
 ## Reading pop-up
 
-To read the mail :
+To read a delivery email :
 
-* click on the message 
-* a pop-up give you all the message information:
+* Click on the message 
+* A pop-up appear with all the content:
   * Title
   * From 
   * Message
-  * Attachement 
+  * Attachment 
 
 ![](contact-02.jpg)
 ## Configuration 
