@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "/path/to/clarity/lib/"
+        "Clarity"
     ],
     "pluginsConfig": {}
 }
