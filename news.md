@@ -54,7 +54,7 @@ The "Title" and "Description" meta tags are "**html**" tags inserted in the ```<
 They help you to provide information for the search engines, social networks and other systems using "*metadata*". The information on those tags are not visible on your website, but it appears in the source code of the page.
 
 * **Meta title**: by default it is the news name
-* ** Meta description**:
+* **Meta description**: Input a short description of your news (optional). 125 characters maximum
 
 ### Submit your news
 
