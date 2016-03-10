@@ -2,7 +2,7 @@
 
 This is the essential application of wityCMS. If you want to make a website with lot of pages, the application "**Pages**" are here for. Each page created with the back-office is a web page.
 
-## Pages list
+## Pages listing
 
 The list contains all the pages created on your website. It gives you a rapid view of: 
 
