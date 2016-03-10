@@ -39,4 +39,4 @@ Edit the icon that will identify your website.
 * **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
 * **Site's Icon (128x128 px)**: Icon used in Facebook publications and iOS shortcuts. 
 
-When finished, you just need to "**submit**" and your website get the minimal configuration. 
+When finished, you just need to "**submit**" and your website get the minimal configuration.
