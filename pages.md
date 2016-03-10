@@ -20,7 +20,7 @@ The action button "**Edit**" allow you to *edit* or *delete* a page (according t
 
 If you want to add a page: Click on green button **"Add a page"**.
 
-### Editing:
+### Editing
 
 After clicking the button "**Add a page**". You can write a new page.
 
@@ -30,7 +30,7 @@ After clicking the button "**Add a page**". You can write a new page.
 * **URL***: The URL will be automatically generated with the information you fill in the title form. If you want, you can change this URL.
 * **Content**: Thanks to **[CKEditor](http://docs.ckeditor.com/)** you are able to write, layout your news and add some pictures and videos as desired.
 
-### Details:
+### Details
 
 On the side, you find the details information about your current page:
 
@@ -38,18 +38,18 @@ On the side, you find the details information about your current page:
 * **Subtitle**: use for *SEO*.
 * **Image**: You can upload a main image for your page (use like header / page preview etc., that depends of your template).
 
-### SEO:
+### SEO
 
 The "Title" and "Description" meta tags are "**html**" tags inserted in the ```<head>``` section of a web page (before the ```<body>```). 
 
 They help you to provide information for the search engines, social networks and other systems using "*metadata*". The information on those tags are not visible on your website, but it appears in the source code of the page.
 
-* **Meta title**: by default it is the news name
-* **Meta description**: Input a short description of your news (optional). 125 characters maximum
+* **Meta title**: by default it is the page title
+* **Meta description**: Input a short description of your page (optional). 125 characters maximum
 
-### Post your news
+### Post your page
 
-To finalize the edition of your news, click on "**Submit**" button. 
+To finalize the edition of your page, click on "**Submit**" button. 
 
 ## Index your page
 
@@ -61,7 +61,6 @@ Open the folder containing website sources:
 2. Name of your theme (here "***grafx***") 
 3. **Templates**
 4. Download the **index.html** 
-
 ![](pages-04.png)
 
 5. Open it with an text editor (e.g: [**Sublime Text**](https://www.sublimetext.com/))
@@ -82,5 +81,7 @@ Open the folder containing website sources:
         <em>{lang send us an email}</em></a></li>
 </ul>
 ```
+
+7. Save and upload the index.html file
 
 
