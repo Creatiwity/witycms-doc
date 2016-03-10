@@ -64,7 +64,7 @@ To finalize the edition of your news, click on "**Submit**" button.
 
 You can have several news and subjects totally different. This is how, wityCMS offers you the possibility to arrange your news in different categories according to the content.
 
-This list includes all the categories and gives you the name, shortname and the parent page (if it is specified).
+This list includes all the categories and gives you the name, shortname and the parent category (if it is specified).
 
 ![](news-04.png)
 You must click on the green button "**Add a category**" to create a new category.
