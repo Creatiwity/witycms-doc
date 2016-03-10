@@ -40,7 +40,7 @@ On the right side, you have the details about your current news:
 * **Date of publication***: automatically filled. You can also edit the date of publication.
 *  **Hour of publication***: automatically filled. You can edit the time of publication.
 * **Author**: by default the author is the name of the account with which you are logged in. You can edit the author.
-* **Image**: You can upload a main image (used like header / news preview etc., depending on your template).
+* **Image**: You can upload a main image (used like header / news preview etc., depending on your template, it cannot exceed 2 Mo).
 
 ### Categories
 
