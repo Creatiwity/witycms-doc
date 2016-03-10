@@ -21,12 +21,9 @@ Moreover you can add a news by clicking the **"Add a news"** button.
 
 ## Create and edit news
 
-The action button "**Edit**" enables to edit or delete the current news. 
-If you want to add news: Click on green button **"Add a news"**.
-![](news-02.png)
-### Editing:
+### Edition
 
-After clicking the button "Add a news" in the upper right of the back-office. You can write the content.
+After clicking the button "Add" or "Edit" a news, you can write the content:
 
 ![](post-news-02.png)
 
@@ -34,7 +31,7 @@ After clicking the button "Add a news" in the upper right of the back-office. Yo
 * **URL***: The URL will be automatically generated with the information you filled in the title form. If you want, you can change this URL.
 * **Content**: with **[CKEditor](http://docs.ckeditor.com/)** you are able to write, layout your news and add some pictures and videos as you wish.
 
-### Details:
+### Details
 
 On the right side, you notce the details about your current news:
 
