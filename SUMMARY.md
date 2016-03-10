@@ -16,7 +16,7 @@
    * [Pages](pages.md)
    * [Slideshow](slideshow.md)
    * [Team](teams.md)
-   * [Users](users.md)
+   * [User](users.md)
    * [Contact](contact.md)
    * [Newsletter](newsletter.md)
 * Themes
