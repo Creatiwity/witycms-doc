@@ -12,7 +12,9 @@ The list contains all the pages created on your website. It gives you a rapid vi
 * Date of the last modification 
 
 ![](pages-01.png)
+
 The action button "**Edit**" allow you to *edit* or *delete* a page (according to permissions granted by your administrator).
+
 ![](pages-02.png)
 ## Create or edit page
 
