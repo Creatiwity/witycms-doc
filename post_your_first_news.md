@@ -18,4 +18,4 @@ You are notify that "The news **Lorem Ipsum** was successfully created".
 
 ![](post-news-04.png)
 
-Well done! Now you can set up all your website using the same process. 
+Well done! Now you can set up all your website using the same process.
