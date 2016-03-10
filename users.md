@@ -2,7 +2,7 @@
 
 The "**Users**" application provides the ability to manage account for each person who register to the website (according to permissions granted by your administrator).
 
-## Users List
+## Users listing
 
 This list contains all registered users. It gives you a rapid view of: 
 
