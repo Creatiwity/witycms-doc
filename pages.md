@@ -65,7 +65,7 @@ Open the folder containing website sources:
 
 5. Open it with an text editor (e.g: [**Sublime Text**](https://www.sublimetext.com/))
 6. Index your page in the class "*navbar-nav*" 
-```
+```html
 <ul class="nav navbar-nav">
     <li><a href="/"><span>{lang Home}</span><br />
         <em>{lang starting page}</em></a></li>
