@@ -16,14 +16,6 @@ Your administration panel is divided into five zones:
 4. The submenu allows you to access at the different part of your application.
 5. ???
 
-#### 2. The left menu
-
-At the left, you have different tabs who gives you access to manage different part of the selected application.
-
-#### 3. The content
-
-The main part of the administration is dedicate to edit content.  
-
 ## Settings
 
 The "**Settings**" application will allow you to configure general settings of your website.
