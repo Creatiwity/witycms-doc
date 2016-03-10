@@ -1,4 +1,4 @@
-# Teams
+# Team
 
 The "**Team**" application allows you to create profiles members for your team. 
 
