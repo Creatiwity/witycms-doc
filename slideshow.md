@@ -34,7 +34,7 @@ Click on the “**Add a slide**” button to create a new slide.
 
 * **Enable slides autoplaying**: If you want to make you website more dynamic, you can enable the slides autoplaying. 
 
-When you decide to "*enable slides autoplaying*", you can edit this two parameter : 
+When you decide to "*enable slides autoplaying*", you can edit this two parameter: 
 
 * **Pause time between two slides (ms)**: the default value is 4000 ms
 * **Transition time between two slides (ms)**: the default value is 500 ms
