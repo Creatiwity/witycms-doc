@@ -2,7 +2,7 @@
 
 The "**Slideshow**" application will allow you manage the slider on your website.
 
-## Slides lists
+## Slides listing
 
 The list contains all the slides created on your website. It gives you a rapid view of: 
 
