@@ -1,4 +1,4 @@
-# Admin / Settings
+# Administration and Settings
 
 Once you have finished the installation of the website you will access to the back-end (back-office) with the button “**Administration**”. You will then be redirected to the identification screen where you need to fill in the login form.
 
