@@ -39,10 +39,9 @@ Click on the button "**Add a language**" to set up a new language.
 ## Add a language
 
 ![](settings-03.png)
-Please, respect the [ISO 639 and ISO 3166](http://www.localeplanet.com/icu/) to configure your new language.
 
 * **Name***:  Name
-* **Iso***: Iso
+* **Iso***: Please, respect the [ISO 639 and ISO 3166](http://www.localeplanet.com/icu/) to configure your new language.
 * **Code***: Code
 * **Date** (short format): %d%m%Y
 * **Date** (long format): %d/%m/%Y %H:%M
