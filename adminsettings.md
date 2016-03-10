@@ -1,11 +1,6 @@
 # Administration and Settings
 
-Once you have finished the installation of the website you will access to the back-end (back-office) with the button “**Administration**”. You will then be redirected to the identification screen where you need to fill in the login form.
-
-* Identifier:
-* Password:
-
-NB: it is the same nickname and password you filled during the fourth installation step “admin account”.
+wityCMS comes with administration panel accessible through the www.yourwebsite.com/admin URL. If needed, you will be invited to login (Identifier and password) with your admin account: 
 
 ![](connect-01.png)
 
