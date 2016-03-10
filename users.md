@@ -21,13 +21,13 @@ Click on the “**Add a user**” button,to create a new user. By default the in
 
 ![](user-02.png)
 
-*  **Nickname**: 
-*  **Password**: 
-*  **Password (confirmation)**:
-*  **Email***:
-*  **First name**:
-*  **Last name**:
-*  **Group**:
+*  **Nickname**
+*  **Password** 
+*  **Password (confirmation)**
+*  **Email***
+*  **First name**
+*  **Last name**
+*  **Group**
 *  **User Rights**: Regular user / Supreme Admin / Custom rights access
 
 ### Right access table
