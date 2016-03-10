@@ -15,7 +15,7 @@
    * [News](news.md)
    * [Pages](pages.md)
    * [Slideshow](slideshow.md)
-   * [Teams](teams.md)
+   * [Team](teams.md)
    * [Users](users.md)
    * [Contact](contact.md)
    * [Newsletter](newsletter.md)
