@@ -48,11 +48,11 @@ wityCMS needs a *MySQL* database to run. It is available in the majority of the 
 * **Database name***:
 * **Prefix for tables***: wity
 
-*Prefix tables* field allows you to defined the prefix added at the beginning of the name of the tables. We advise you to let the value "**wity**" (nb: an underscore character will be automatically added after the prefix). This prefix allows you to separate the wityCMS tables from other tables that you might use in the same database.
+*Prefix tables* field allows you to define the prefix added at the beginning of the name of the tables. We advise you to let the value "**wity**" (nb: an underscore character will be automatically added after the prefix). This prefix allows you to separate the wityCMS tables from other tables that you might use in the same database.
 
 ### Admin account
 
-The following fields will allow you create your user account. The user of this account will have full power to do modifications make changes in the administration section. Please, choose carefully your password.
+The following fields will allow you create your user account. The user of this account will have full power to make changes in the administration section. Please, choose carefully your password.
 
 Once you click on the "**Launch install**" button, wityCMS will be installed. You will be able connect to the administration panel (back office).
 
