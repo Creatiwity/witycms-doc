@@ -72,5 +72,5 @@ Congratulation, the installation of wityCMS is completed! Please, make sure the 
 ![](installer-05.png)
 
 You can either connect to your home page, or to the administration panel with the two buttons:
-* **"Home" button**: you are redirected on the front-end app you chose during the second installation step
-* **"Administration" button**: you are redirected on the back-end app you chose during the second installation step. You need to login with the information you provided during the last step of your installation. 
+* **"Home" button**: you are redirected on your website's home you chose during the second installation step.
+* **"Administration" button**: you are redirected on the back office app you chose during the second installation step. You need to login with the information you provided during the last step of your installation. 
