@@ -7,9 +7,9 @@ For each application page you want to customize you need to create a new file wi
 
 ##Applications theme
 
-By default each app have a theme but if you want to overwrite to process like this : 
+By default each app have a theme but if you want to overwrite, process like this : 
 
-### Conatct
+### Contact
 
 1. "template_name"
 2. "templates"
@@ -69,12 +69,14 @@ By default each app have a theme but if you want to overwrite to process like th
 
 The Google Fonts API will generate the necessary browser-specific CSS to use the fonts. All you need to do is add the font name to your CSS styles. For example:
 
-```font-family: 'Open Sans', sans-serif;
+```css
+font-family: 'Open Sans', sans-serif;
 ```
 
 Here's an example. Copy and paste the following HTML into a file:
 
-```<html>
+```html
+<html>
   <head>
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine">
     <style>
