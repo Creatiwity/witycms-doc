@@ -2,7 +2,7 @@
 
 The "**Team**" application allows you to create profiles members for your team. 
 
-## Members list
+## Members listing
 
 The list contains all the members created on your team. It gives you a rapid view of: 
 
