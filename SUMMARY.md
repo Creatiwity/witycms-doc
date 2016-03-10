@@ -3,7 +3,6 @@
 * [Introduction](README.md)
 * Overview
    * [CMS](cms.md)
-   * [Strengths](strenghts.md)
    * [Compatibility and prerequisites](compatibility.md)
 * Getting started
    * [Installation](installation.md)
