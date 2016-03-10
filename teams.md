@@ -21,7 +21,7 @@ By default the members of your team are ordered by ID. But if you want you can r
 
 ## Add a member
 
-Click on "**Add a member**" button to create a new member.
+Click on the "**Add a member**" button to create a new member.
 
 ![](team-02.png)
 
@@ -32,7 +32,7 @@ Click on "**Add a member**" button to create a new member.
 * **LinkedIn**: LinkedIn member page's
 * **Twitter**: Twitter member page's
 * **Image**: Photo of the member
-* **Hovering Image**: hovering photo of the member
+* **Hovering Image**: Hovering photo of the member
  
 
  
