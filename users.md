@@ -17,7 +17,7 @@ The bloc search at the right allows you to make a fast search when you need to f
 
 ## Add a user
 
-Click on the green button “**Add a user**”, on the top right of the back-office to create a new user. However, by default the inscription are free for any person who come to visit your website.
+Click on the “**Add a user**” button,to create a new user. However, by default the inscription are free for any person who come to visit your website.
 
 ![](user-02.png)
 
