@@ -20,7 +20,7 @@ If you want to add a page: Click on green button **"Add a page"**.
 
 ### Editing:
 
-After clicking the button "**Add a page**" in the upper right of the back-office. You can write a new page.
+After clicking the button "**Add a page**". You can write a new page.
 
 ![](pages-03.png)
 
