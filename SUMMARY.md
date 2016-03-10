@@ -7,10 +7,10 @@
    * [Compatibility and prerequisites](compatibility.md)
 * Getting started
    * [Installation](installation.md)
+   * Quick start
    * [Website Home](front.md)
    * [Administration and Settings](adminsettings.md)
    * [Post your first news](post_your_first_news.md)
-   * Quick start
 * Applications
    * [Settings](settings.md)
    * [News](news.md)
