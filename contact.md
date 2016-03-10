@@ -7,9 +7,9 @@ The "**contact**" application will allow to manage and receive emails send to th
 The list contains all emails send since the contact form exist.
 It gives you a rapid view of: 
 
-* "From": email address of the person who sent an email
-* "Subject": title and content
-* "Date": when the email was send.
+* "From": Email address of the person who sent an email
+* "Subject": Title and content
+* "Date": Date of expedition.
 
 ![](contact-01.jpg)
 ## Reading pop-up
