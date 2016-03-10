@@ -4,16 +4,16 @@ wityCMS is a lightweight Content Management System (CMS) in PHP, Model-View-Cont
 
 This CMS uses its own templating system, named [WTemplate](https://github.com/Creatiwity/WTemplate), developed as [a separate GitHub project](https://github.com/Creatiwity/WTemplate) but included here as a submodule.
 
-## Installation
+# Installation
 
-### Minimum requirements
+## Minimum requirements
 
 * An **Apache server** with PHP 5.3+, *mod_rewrite* enabled and .htaccess files allowed;
 * A **SQL server**, like *MySQL* or *MariaDB*, with a database available;
 * A **FTP client**, like [FileZilla](https://filezilla-project.org/), to upload the **wityCMS** files;
 * Download the latest version of **wityCMS**: [zip](https://github.com/Creatiwity/wityCMS/archive/0.5.0.zip).
 
-### Let's go
+## Let's go
 
 1. **Unzip** and **copy** wityCMS files on your web server using FileZilla.
 2. Open a navigator and **go to the URL** of your web server.
