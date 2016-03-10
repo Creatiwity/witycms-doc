@@ -9,7 +9,7 @@ Go to the download section of [Creatiwity](https://www.creatiwity.net) website a
 2. With your FTP program (eg: [FileZilla](https://filezilla-project.org/)), send from your computer to your server the folder, keeping exactly the same structure (folders and files).
 
 Folder structure:
-![](folders-01.png)
+![](01-witycms-folders.png)
 
 ## wityCMS installation
 
