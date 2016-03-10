@@ -10,7 +10,7 @@
    * [Quick start](quick_start.md)
    * [Website Home](front.md)
    * [Administration and Settings](adminsettings.md)
-   * Post your first news
+   * [Post your first news](post_your_first_news.md)
 * Applications
    * [Settings](settings.md)
    * [News](news.md)
