@@ -17,9 +17,11 @@ At the end of the navigation bar you can logout your account to the administrati
 
 2. **Application menu**
 
-
+At the left of the administration panel, you have different tabs who gives you access to manage different part of the selected application.
 
 3. Application content
+
+The main part of the administration is dedicate to edit content.  
 
 
 
