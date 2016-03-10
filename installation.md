@@ -58,12 +58,12 @@ Once you click on the "**Launch install**" button, wityCMS will be installed. Yo
 
 ![](installer-04.png)
 
-* **Nickname***:
-* **Password***:
-* **Confirmation password***:
-* **Firstname**: 
-* **Lastname**:
-* **Email***:
+* **Nickname***
+* **Password***
+* **Confirmation password***
+* **Firstname**
+* **Lastname**
+* **Email***
 
 ### Let's start 
 
