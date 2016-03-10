@@ -21,10 +21,10 @@ Click on the “**Add a slide**” button to create a new slide.
 
 ![](slideshow-02.png)
 
-* **Title***: start by indicating the title
-* **Legend**: you can add a legend for the SEO.
-* **URL**: define an URL to  
-* **Image** (PNG or JPEG)*: it cannot exceed 2 Mo.
+* **Title***: Start by indicating the title
+* **Legend**: Input a short description of your slide.
+* **URL**: Define an URL to redirect to an other page. 
+* **Image** (PNG or JPEG)*: It cannot exceed 2 Mo.
 
 ## Configuration
 
