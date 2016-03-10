@@ -8,7 +8,7 @@
 * Getting started
    * [Installation](installation.md)
    * [Quick start](quick_start.md)
-   * [Front](front.md)
+   * [Website Home](front.md)
    * [Admin/settings](adminsettings.md)
 * Applications
    * [Settings](settings.md)
