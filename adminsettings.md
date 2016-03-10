@@ -6,7 +6,7 @@ wityCMS comes with administration panel accessible through the www.yourwebsite.c
 
 ## Dashboard description
 
-When you are connected to the administration, you can identify tree main zone. 
+Your administration panel is divided on tree main zone: 
 
 ![](admin-01.png)
 
