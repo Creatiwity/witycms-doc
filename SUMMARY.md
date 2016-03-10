@@ -4,7 +4,7 @@
 * Overview
    * [CMS](cms.md)
    * [Strengths](strenghts.md)
-   * [Compatibility](compatibility.md)
+   * [Compatibility and prerequisites](compatibility.md)
 * Getting started
    * [Installation](installation.md)
    * [Quick start](quick_start.md)
