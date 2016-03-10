@@ -1,4 +1,4 @@
 # Technical overview
 
-![](wityCMS-workflow.png)
+![](wityCMS-workflow.jpg)
 
