@@ -1,6 +1,6 @@
 # CMS presentation
 
-![](Logo-wityCMS-V1-couleur.png)
+![](wityCMS-logo.png)
 
 wityCMS is an open source software -Content Management System-. It is built using the **PHP** technology. Easy to use, the software allows the website building (from a dozen to a hundred pages). Our tool is frequently used for corporate websites, promoting websites for a product, team or organization. wityCMS also edit blogs websites or article based on editorial contents, etc.
 
