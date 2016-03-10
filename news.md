@@ -15,6 +15,10 @@ The list contains all news created on your website. It gives you an overview of:
 * The number of views
 * The last modification date
 
+For each news you can edit or delete it using the action button at the end of the row. 
+Moreover you can add a news by clicking the **"Add a news"** button.
+![](news-02.png)
+
 ## Create and edit news
 
 The action button "**Edit**" enables to edit or delete the current news. 
