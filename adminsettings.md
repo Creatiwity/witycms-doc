@@ -6,14 +6,13 @@ wityCMS comes with administration panel accessible through the www.yourwebsite.c
 
 ## Dashboard description
 
-Your administration panel is divided on tree main zone: 
+Your administration panel is divided into five zones: 
 
 ![](admin-01.png)
 
-#### 1. The navigation bar
-
-The navigation bar allow you to go to your website just clicking on the name of your website (here is "**Preview**").
-
+1. The name of your website, here is "**Preview**", allow yous to go to your website.
+2. The navigation allows to access at the different application.
+3. Account information 
 You can also a navigate between the different application such as **News** "**Settings**" etc. 
 At the end of the navigation bar you can "**logout**" your account to the administration. 
 
