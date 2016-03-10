@@ -10,11 +10,11 @@ Your administration panel is divided into five zones:
 
 ![](admin-01.png)
 
-1. The name of your website, here is "**Preview**", allow yous to go to your website.
-2. The navigation allows to access at the different application.
-3. Account information 
-You can also a navigate between the different application such as **News** "**Settings**" etc. 
-At the end of the navigation bar you can "**logout**" your account to the administration. 
+1. The name of your website (here is "Preview") allows you to go to your website.
+2. The navigation allows the access to the differents applications of your administration.
+3. "**logout**" permit to disconnect your account to the administration.
+4. The submenu allows you to access at the different part of your application.
+5. 
 
 #### 2. The left menu
 
