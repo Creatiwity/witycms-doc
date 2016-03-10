@@ -83,5 +83,5 @@ You can also delete a category when you want with the action button "**Delete**"
 To confirm deletion, a pop-up appear asking you: "Do you really want to delete this category?".
 If you are certain, click on "**Delete**" if not click on "**Cancel**".
 ![](news-08.png)
-After your deletion, a notification appear to inform you that "Category successfully deleted". 
+After your deletion, a notification appears to inform you that "Category successfully deleted". 
 ![](news-09.png)
