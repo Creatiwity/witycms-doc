@@ -56,10 +56,9 @@ They help you to provide information for the search engines, social networks and
 * **Meta title**: by default it is the news name
 * **Meta description**: Input a short description of your news (optional). 125 characters maximum
 
-### Submit your news
+### Post your news
 
-* **Submit**:
-* **Cancel**:
+To finalize the edition of your news, click on "**Submit**" button. 
 
 ## Categories
 
