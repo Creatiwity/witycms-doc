@@ -10,16 +10,16 @@ Your administration panel is divided on tree main zone:
 
 ![](admin-01.png)
 
-#### 1. Navigation bar
+#### 1. The navigation bar
 
 The navigation bar allow you to go to your website just clicking on the name of your website (here is "**Preview**"). You can also a navigate between the different application such as **News** "**Settings**" etc. 
 At the end of the navigation bar you can "**logout**" your account to the administration. 
 
-#### 2. Left menu
+#### 2. The left menu
 
 At the left, you have different tabs who gives you access to manage different part of the selected application.
 
-#### 3. Content
+#### 3. The content
 
 The main part of the administration is dedicate to edit content.  
 
