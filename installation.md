@@ -54,7 +54,7 @@ wityCMS needs a *MySQL* database to run. It is available in the majority of the 
 
 The following fields will allow you create your user account. The user of this account will have full power to make changes in the administration section. Please, choose carefully your password.
 
-Once you click on the "**Launch install**" button, wityCMS will be installed. You will be able connect to the administration panel (back office).
+Once you click on the "**Launch install**" button, wityCMS will be installed. You will be able to connect to the administration panel (back office).
 
 ![](installer-04.png)
 
