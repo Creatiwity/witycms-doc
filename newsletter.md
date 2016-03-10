@@ -1,6 +1,6 @@
 # Newsletter
 
-## List
+## Email listing
 
 The "**Newsletter**" application will allow you to manage and collect emails for all your subscribers.
 
