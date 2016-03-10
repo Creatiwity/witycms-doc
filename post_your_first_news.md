@@ -9,8 +9,10 @@
 3.  Submit your news
 
 You are notify that "The news **Lorem Ipsum** was successfully created".
-![](post-news-03.png)
 
-4.  Congratulation you added a news for your website, let's see the result on your website. Click on your "**Site name**" tab (here it's: **Preview**).
+![](post-news-03.png)
+Let's see the result on your website.
+Click on your "**Site name**" tab (here it's: **Preview**).
+
 ![](post-news-04.png)
 Well done! Now you can set up all your website using the same process.
