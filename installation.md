@@ -44,8 +44,8 @@ wityCMS needs a *MySQL* database to run. It is available in the majority of the 
 * **Server***: localhost
 * **Port**: 3306
 * **User***: root
-* **Password**: 
-* **Database name***:
+* **Password**
+* **Database name***
 * **Prefix for tables***: wity
 
 *Prefix tables* field allows you to define the prefix added at the beginning of the name of the tables. We advise you to let the value "**wity**" (nb: an underscore character will be automatically added after the prefix). This prefix allows you to separate the wityCMS tables from other tables that you might use in the same database.
