@@ -11,3 +11,5 @@ When you are connected to the back-end, click on the "**News**" tab (if it is no
 ![](post-news-01.png)
 
 # Settings
+
+
