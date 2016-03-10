@@ -2,7 +2,7 @@
 
 The "**contact**" application will allow to manage and receive emails send to the website contact form.
 
-## List
+## Contact listing
 
 The list contains all emails send since the contact form exist.
 It gives you a rapid view of: 
