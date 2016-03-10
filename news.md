@@ -1,14 +1,10 @@
 # News
 
-To distinguish between the application "**News**" and "**Pages**", you can notice that the application news has only one CMS page with multiple news after each other (like a blog).
+"**News**" application lets you manage a collection of articles or posts ordered by publication date and sorted by categories.
 
-"**News**" application offers a dynamic side that does not have the "**Pages**". Moreover, the information is not sustainable on the screen, another news can be placed above the last one, changing the information order of your page. "**News**" are slightly more complex hierarchically that "**Pages**".
+Using "**News**" application is helpful if you want to create and manage your site's news, like a blog. 
 
-"**News**" application follows the rules of publications: date of publication, text modification etc.
-
-Using "**News**" application is helpful if you want to create and manage your site's news, key announcements etc. If you want to create an "*RSS feed*", this is the application to use. It will be interesting for those who want to subscribe to the latest news of your website for example. 
-
-## List
+## News listing
 ![](news-01.png)
 The list contains all news created on your website. It gives you an overview of: 
 
