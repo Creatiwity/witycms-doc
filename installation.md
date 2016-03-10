@@ -15,19 +15,6 @@ Folder structure:
 
 Apache server with *PHP5.3+*, mod_rewrite enabled and *.htaccess* files allowed.
 
-## Database install
-
-Depending on your host, you will need to create a blank database or be sure to create one. You can use a program like "*phpMyAdmin*" or the admin panel of your account.
-
-Some hosts only allow you a single database. You must then use this database (to connect it use your nickname and your password). Be sure to use a prefix for tables that separate the wityCMS tables from other tables that you might use in the same database.
-
-A database is a collection of data organized and required for the operation of an application.
-
-When the application needs to use its database, it then queries the database manager (such as: *MySQL*, *MariaDB*) which will perform helpful actions in the database (add, modify or delete data, etc.). This program is optimized to effectively large volumes of data.
-
-You will use *phpMyAdmin* to create and set up wityCMS's database.
-Open another tab and enter the "local" address: http: // ... / phpMyAdmin
-
 ## wityCMS installation
 
 Once the files are installed on your FTP server from the ***FileZilla***. You can open your browser, type the URL of the file where you saved files, for example: "http://www.nameofyourwebsite.com" if it is at the root of your FTP.
@@ -62,7 +49,7 @@ wityCMS needs a *MySQL* database to run. It is available in the majority of the 
 * **Password**: 
 * **Database name***:
 
-*Prefix tables* field allows you to defined the prefix added at the beginning of the name of the tables. We advise you to let the value "**wity**" (nb: an underscore character will be automatically added after the prefix). 
+*Prefix tables* field allows you to defined the prefix added at the beginning of the name of the tables. We advise you to let the value "**wity**" (nb: an underscore character will be automatically added after the prefix). This prefix allows you to separate the wityCMS tables from other tables that you might use in the same database.
 
 * **Prefix for tables***: wity
 
