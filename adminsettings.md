@@ -10,11 +10,11 @@ Your administration panel is divided into five zones:
 
 ![](admin-01.png)
 
-1. The website name (Preview) link to the front office. 
+1. The website name (Preview) link to the front office
 2. The application menu
-3. Logout to disconnect your account for the administration panel.
-4. The submenu to access to the different section of your application.
-5. The content area to edit your "News", "Pages" etc.
+3. Logout to disconnect your account for the administration panel
+4. The submenu to access to the different section of your application
+5. The content area to edit your "News", "Pages" etc
 
 ## Settings
 
