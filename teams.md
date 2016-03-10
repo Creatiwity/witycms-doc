@@ -21,7 +21,7 @@ By default the members of your team are ordered by ID. But if you want you can r
 
 ## Add a member
 
-Click on the green button “**Add a member**”, on the top right of the back-office to create a new member.
+Click on "**Add a member**" button to create a new member.
 
 ![](team-02.png)
 
