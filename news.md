@@ -36,8 +36,8 @@ After clicking the button "Add" or "Edit" a news, you can write the content:
 On the right side, you have the details about your current news:
 
 * **Published**: yes / no (this enables you to write news without publishing it on your website).
-* **Date of publication***: it is automatically filled in when you publish your news. You can also edit the date of publication.
-*  **Hour of publication***: it is automatically filled in when you publish your news. You can edit the time of publication.
+* **Date of publication***: automatically filled in when you publish your news. You can also edit the date of publication.
+*  **Hour of publication***: automatically filled in when you publish your news. You can edit the time of publication.
 * **Author**: by default the author is the name of the account with which you are logged in. You can edit the author.
 * **Image**: You can upload a main image(use like header / news preview etc., depending on your template).
 
