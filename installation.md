@@ -24,14 +24,14 @@ NB: the four sections must have the validated tick to enable the "**Launch insta
 
 * **Site name***: Specify the name you want to give to your website.
 * **Base URL***: Inquire the URL where the file name saved export the .ZIP. By default, this field is pre-filled.
-* **Subject***: Choose the theme for your website. The field is always pre-filled with the basic theme.
+* **Theme***: Choose the theme for your website. The field is always pre-filled with the basic theme.
 * **Language***: You must specify the language you want to give to the system. The default language is English.
-* **Time zone ***: By default, the "Time Zone" is always (UTC + 01: 00) Paris.
+* **Time zone***: By default, the "Time Zone" is always (UTC + 01: 00) Paris.
 
 ### Application
 ![](installer-02.png)
 
-* **Home application***: The Home application is the first application executed by wityCMS. It will be displayed when a visitor connect to the root page of your website. For instance, if you want to create a blog, we advise you to select the "**News**" application.
+* **Home application***: The Home application is the first application executed by wityCMS. It will be displayed when a visitor connects to the root page of your website. For instance, if you want to create a blog, we advise you to select the "**News**" application.
 
 * **Main admin application***: The main admin application is the first application loaded when you connect to the administration. We advise you to select the application you will mainly use (**user** or **news** for instance).
 
@@ -46,10 +46,9 @@ wityCMS needs a *MySQL* database to run. It is available in the majority of the 
 * **User***: root
 * **Password**: 
 * **Database name***:
+* **Prefix for tables***: wity
 
 *Prefix tables* field allows you to defined the prefix added at the beginning of the name of the tables. We advise you to let the value "**wity**" (nb: an underscore character will be automatically added after the prefix). This prefix allows you to separate the wityCMS tables from other tables that you might use in the same database.
-
-* **Prefix for tables***: wity
 
 ### Admin account
 
