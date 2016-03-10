@@ -33,6 +33,3 @@ Click on the "**Add a member**" button to create a new member.
 * **Twitter**: Twitter member page's
 * **Image**: Photo of the member
 * **Hovering Image**: Hovering photo of the member
- 
-
- 
