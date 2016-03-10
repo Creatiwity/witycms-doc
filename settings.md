@@ -26,7 +26,7 @@ You can edit the icon that will identify your website. More often, it is the log
 * **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
 * **Site's Icon (128x128 px)**: Icon used in Facebook publications and iOS shortcuts. 
 
-When you finish, you just need to "**submit**" and your modification will be saved. 
+When finished, you just need to "**submit**" and your modification will be saved. 
 
 ## Languages
 
