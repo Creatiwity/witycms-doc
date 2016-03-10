@@ -38,17 +38,16 @@ On the side, you find the details information about your current page:
 
 ### SEO:
 
-Meta tags, Title and Link are "**html**" tag inserted in the ```<head >``` section of a web page (before the ```<body>```. 
+The "Title" and "Description" meta tags are "**html**" tags inserted in the ```<head>``` section of a web page (before the ```<body>```). 
 
-They help to provide "*guide*" for the search engines, social networks and other systems using "*metadata*". The information in these tags are not visible on your website, but appear in the source code of the page.
+They help you to provide information for the search engines, social networks and other systems using "*metadata*". The information on those tags are not visible on your website, but it appears in the source code of the page.
 
-* **Meta title**: by default is the name of your page
-* ** Meta description**:
+* **Meta title**: by default it is the news name
+* **Meta description**: Input a short description of your news (optional). 125 characters maximum
 
-### Submit your page:
+### Post your news
 
-* **Submit**:
-* **Cancel**:
+To finalize the edition of your news, click on "**Submit**" button. 
 
 ## Index your page
 
