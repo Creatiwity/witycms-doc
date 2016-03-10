@@ -13,7 +13,7 @@ When you are connected to the administration, you can identify tree main zone.
 ### Navigation bar
 
 The navigation bar allow you to go to your website just clicking on the name of your website (here is "**Preview**"). You can also a navigate between the different application such as **News** "**Settings**" etc. 
-At the end of the navigation bar you can logout your account to the administration. 
+At the end of the navigation bar you can "**logout**" your account to the administration. 
 
 ### Left menu
 
