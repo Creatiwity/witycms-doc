@@ -13,9 +13,11 @@ Folder structure:
 
 ## wityCMS installation
 
-Once the files are installed on your FTP server from the ***FileZilla***. You can open your browser, type the URL of the file where you saved files, for example: "http://www.nameofyourwebsite.com" if it is at the root of your FTP.
+Once the files are copied on your FTP server with ***FileZilla***. You can open your browser, type the URL of your website: "http://www.nameofyourwebsite.com" if you uploaded the files at the root of your website.
 
-This will redirect you to the installation wizard. At this stage, only remains to follow the 4 steps to install wityCMS. You can only complete the installation once the 4 steps are done and validated by clicking the button "**Launch install**".
+This will redirect you to the installation wizard. At this stage, you just have to follow the 4 steps to install wityCMS. 
+
+NB: the four sections must have the validated tick to enable the "**Launch install**" button.
 
 ### General
 ![](installer-01.png)
