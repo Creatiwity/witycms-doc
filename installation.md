@@ -11,10 +11,6 @@ Go to the download section of [Creatiwity](https://www.creatiwity.net) website a
 Folder structure:
 ![](folders-01.png)
 
-## Web Server configuration
-
-Apache server with *PHP5.3+*, mod_rewrite enabled and *.htaccess* files allowed.
-
 ## wityCMS installation
 
 Once the files are installed on your FTP server from the ***FileZilla***. You can open your browser, type the URL of the file where you saved files, for example: "http://www.nameofyourwebsite.com" if it is at the root of your FTP.
