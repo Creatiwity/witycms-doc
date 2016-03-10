@@ -25,4 +25,25 @@ The main part of the administration is dedicate to edit content.
 
 ## Settings
 
+The "**Settings**" application will allow you to configure general settings of your website.
 
+![](settings-01.png)
+### General
+
+*General* - it is the first configuration you did during the installation steps.
+
+* **Website's name**: it is the name you need to give at your website to define your activity.
+* **Administrator's Email**: more often, it is better to give the address of the webmaster in charge of the website.
+
+### SEO
+
+Your Website title defines your activity. Add a short description of your activity (it cannot exceed 125 characters).
+
+### Icons
+
+Edit the icon that will identify your website.
+
+* **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
+* **Site's Icon (128x128 px)**: Icon used in Facebook publications and iOS shortcuts. 
+
+When finished, you just need to "**submit**" and your website is configured. 
