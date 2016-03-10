@@ -14,9 +14,9 @@ The "**Settings**" application will allow you to configure general settings of y
 
 ### SEO
 
-This section allows you to edit the elements that will affect the visibility of your website or a web page in search engines (when the website appears in different Google searches). You can leave the fields below blank. But if you want to be found efficiently on search engines, it is strongly recommended to complete the fields correctly.
+This section allows you to edit the elements that will affect the visibility of your website in search engines (such as Google). You can leave the fields below blank. But if you want to be found efficiently on search engines, it is strongly recommended to complete the fields correctly.
 
-* **Title**: Website title who define your activity
+* **Title**: Website title which defines your activity
 * **Description (about 125 symbols)**: a short description of your activity (it cannot exceed 125 characters).
 
 ### Icons
@@ -24,7 +24,7 @@ This section allows you to edit the elements that will affect the visibility of 
 You can edit the icon that will identify your website. More often, it is the logo of your company or a graphic that represents the activity of your website.
 
 * **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
-* **Site's Icon (32x32 px)**:
+* **Site's Icon (128x128 px)**: Icon used in Facebook publications and iOS shortcuts. 
 
 When you finish, you just need to "**submit**" and your modification will be saved. 
 
