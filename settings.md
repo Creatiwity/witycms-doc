@@ -48,5 +48,5 @@ Click on the button "**Add a language**" to set up a new language.
 * **Enabled**: Yes / No
 * **Use as default**: Yes / No
 
-To confirm you new language click on the button "**submit**".
+To confirm you new language click on the button "**Submit**".
 Now, you can translate all your content in the language you just added.
