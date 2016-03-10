@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * Overview
-   * [Presentation](cms.md)
+   * [CMS presentation](cms.md)
    * [Compatibility and prerequisites](compatibility.md)
 * Getting started
    * [Installation](installation.md)
