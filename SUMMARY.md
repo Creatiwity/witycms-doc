@@ -9,7 +9,7 @@
    * [Installation](installation.md)
    * [Quick start](quick_start.md)
    * [Website Home](front.md)
-   * [Admin/settings](adminsettings.md)
+   * [Administration and Settings](adminsettings.md)
 * Applications
    * [Settings](settings.md)
    * [News](news.md)
