@@ -7,5 +7,4 @@ Your website home is divided into different space.
 * The main block who display your website content according to your navigation location
 * At the right you have the identification zone who allow you to connect you to the website
 
-
 ![](post-news-04.png)
