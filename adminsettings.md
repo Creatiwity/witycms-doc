@@ -10,16 +10,16 @@ When you are connected to the administration, you can identify tree main zone.
 
 ![](admin-01.png)
 
-#### Navigation bar
+#### 1. Navigation bar
 
 The navigation bar allow you to go to your website just clicking on the name of your website (here is "**Preview**"). You can also a navigate between the different application such as **News** "**Settings**" etc. 
 At the end of the navigation bar you can "**logout**" your account to the administration. 
 
-#### Left menu
+#### 2. Left menu
 
 At the left, you have different tabs who gives you access to manage different part of the selected application.
 
-#### Content
+#### 3. Content
 
 The main part of the administration is dedicate to edit content.  
 
