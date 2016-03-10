@@ -13,3 +13,15 @@ This manual was created for guiding you in your first steps with wityCMS.  We st
 Please feel free to leave us your comments using the contact form on the website and subscribe to our newsletter to get the latest news about wityCMS. 
 
 If you need assistance as you go through the questions, you can contact us on [Creatiwity](www.creatiwity.net/contact) or [GitHub](https://github.com/Creatiwity/wityCMS).
+
+# wityCMS strengths
+
+* Easy to learn and manage
+* Powerful
+* Used by a growing community
+* Effective and able to meet diverse needs
+* Simple and flexible - the delight of developers
+* Multilingual set up
+* It provides operational freedom for user used to in HTML, CSS and PHP
+
+You can count on an efficient and flexible solution.
