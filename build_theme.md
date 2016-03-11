@@ -60,9 +60,7 @@ An example how to introduce your index.html :
 
 ### CSS Style
 
-CSS folder will allow you to apply different "*html*" style element. They allow you to define any style property as the border , background color, typeface, the space between letters, etc. Through this method, all pages that reference the external style sheet will inherit all definitions.
-
-
+"**CSS**" folder will allow you to apply different "*html*" style element. They allow you to define any style property as the border , background color, typeface, the space between letters, etc. Through this method, all pages that reference the external style sheet will inherit all definitions.
 
 **Font**
 
@@ -90,7 +88,7 @@ Here's an example. Copy and paste the following HTML into a file:
 
 ### Images 
 
-* **img**: The folder contain all the asset you need to custom your theme like the logo, etc.
+"**Img**" folder contain all the asset you need to custom your theme like the logo, etc.
 
 
 
