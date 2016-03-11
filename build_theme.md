@@ -12,7 +12,7 @@ It's mandatory you have the templates folder with the index.hmtl to define your 
 
 Templates folder contain all the"*.html*" index you need for the different theme page of your website.
 
-For example:
+An example how to create your index.html :
 
 ```html
 <body>
