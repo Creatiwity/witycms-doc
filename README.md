@@ -2,7 +2,6 @@
 
 wityCMS is a lightweight Content Management System (CMS) in PHP, Model-View-Controller oriented.
 
-This CMS uses its own templating system, named [WTemplate](https://github.com/Creatiwity/WTemplate), developed as [a separate GitHub project](https://github.com/Creatiwity/WTemplate) but included here as a submodule.
 
 # Installation
 
