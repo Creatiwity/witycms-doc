@@ -10,5 +10,5 @@ To find out how name your "**.html**" file select the app file (e.g: News) locat
 
 ![](02-folders-theme-news.png)
 
-Once you know how to name the file (e.g: News -> listing.html), you can create a new file located in **.../theme/"nametheme"/templates/"nameapp"**. Now you can drop your "listing.html" who overwrite that one content in the app folder.
+Once you know how to name the file (e.g: News -> "listing.html"), you can create a new file located in **.../theme/"nametheme"/templates/"nameapp"**. Now you can drop your "listing.html" who overwrite that one content in the app folder.
 
