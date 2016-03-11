@@ -6,12 +6,6 @@ This CMS uses its own templating system, named [WTemplate](https://github.com/Cr
 
 # Installation
 
-## Minimum requirements
-
-* An **Apache server** with PHP 5.3+, *mod_rewrite* enabled and .htaccess files allowed;
-* A **SQL server**, like *MySQL* or *MariaDB*, with a database available;
-* A **FTP client**, like [FileZilla](https://filezilla-project.org/), to upload the **wityCMS** files;
-* Download the latest version of **wityCMS**: [zip](https://github.com/Creatiwity/wityCMS/archive/0.5.0.zip).
 
 ## Let's go
 
