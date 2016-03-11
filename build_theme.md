@@ -12,93 +12,44 @@ It's mandatory you have the templates folder with the index.hmtl to define your 
 
 Templates folder contain all the"*.html*" index you need for the different theme page of your website.
 
-An example how to create your index.html :
+An example how to introduce your index.html :
 
 ```html
+<html lang="{$wity_lang}">
+<head>
+    <title>{$wity_page_title}</title>
+    <meta charset="utf-8" />
+    <meta name="description" content="{$wity_page_description}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content="wityCMS 0.5" />
+    <meta name="robots" content="index,follow" />
+    {if !empty({$wity_site_favicon})}<link rel="icon" type="image/x-icon" href="{$wity_site_favicon}" />{/if}
+    {if !empty({$wity_site_icon})}<link rel="apple-touch-icon" href="{$wity_site_icon}" />{/if}
+
+    <meta property="og:title" content="{$wity_site_title}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{$wity_base_url}">
+    <meta property="og:image" content="{$wity_site_icon}">
+    <meta property="og:site_name" content="{$wity_site_title}">
+    <meta property="og:description" content="{$wity_page_description}">
+
+    <!-- Bootstrap -->
+    <link href="/libraries/bootstrap-3.3.6/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/themes/grafx/css/style.css?v=1.1.0" rel="stylesheet" title="Grafx" />
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script src="/libraries/IE-compatibility/html5shiv.min.js"></script>
+        <script src="/libraries/IE-compatibility/respond.min.js"></script>
+    <![endif]-->
+    
+        <script type="text/javascript">
+        var require = {
+            deps: ['bootstrap']
+        };
+    </script>
+</head>
 <body>
-    <div class="container">
-        <header class="theme-header">
-            <img src="/themes/grafx/img/logo.png" alt="logo" />
-            <div class="inner">
-                <p class="site-name">{$wity_site_title}</p>
-            </div>
-            <div class="clear"></div>
-        </header>
-
-        <nav class="navbar" role="navigation">
-            <div class="container-fluid">
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                        <span class="sr-only">{lang Toggle navigation}</span>
-                    </button>
-
-                <div class="collapse navbar-collapse">
-                    <ul class="nav navbar-nav">
-                        <li><a href="/"><span>{lang Home}</span><br />
-                            <em>{lang starting page}</em></a></li>
-                        <li><a href="/about"><span>{lang About}</span><br />
-                            <em>{lang the company}</em></a></li>
-                        <li><a href="/services"><span>{lang Services}</span><br />
-                            <em>{lang our skills}</em></a></li>
-                        <li><a href="/portfolio"><span>{lang Portfolio}</span><br />
-                            <em>{lang our works}</em></a></li>
-                        <li><a href="/team"><span>{lang Team}</span><br />
-                            <em>{lang our members}</em></a></li>
-                        <li><a href="/news"><span>{lang News}</span><br />
-                            <em>{lang latest posts}</em></a></li>
-                        <li><a href="/contact"><span>{lang Contact}</span><br />
-                            <em>{lang send us an email}</em></a></li>
-                    </ul>
-
-                    <form class="navbar-form navbar-right" role="search" action="/search" method="get">
-                        <div class="form-group">
-                            <input type="text" name="query" class="form-control" placeholder="{lang Search the website}" size="30" />
-                        </div>
-                        <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
-                    </form>
-                </div><!-- /.navbar-collapse -->
-            </div>
-        </nav>
-
-        <div class="row">
-            <div id="column-content" class="col-md-8">
-                <div class="block">
-                    {$notes}
-                    {$include}
-                </div>
-            </div>
-
-            <div id="column-blocks" class="col-md-4">
-                {if !{$wity_user}}
-                <aside id="grafx-user" class="block block-user">
-                    <p class="text-center buttons">
-                        <a class="button-register" href="#grafx-register" data-toggle="collapse" data-parent="#grafx-user">{lang Sign up} <img src="/themes/grafx/img/sign-in.png" alt="Sign in" /></a>
-                        <a class="button-login" href="#grafx-login" data-toggle="collapse" data-parent="#grafx-user"><img src="/themes/grafx/img/login.png" alt="Login" /> {lang Login}</a>
-                    </p>
-                    <div class="panel">
-                        <div id="grafx-register" class="register collapse">
-                            {retrieve_view user/register}
-                        </div>
-                        <div id="grafx-login" class="login collapse">
-                            {retrieve_view user/login}
-                        </div>
-                    </div>
-                </aside>
-                {else}
-                <aside class="block block-user text-center">
-                    <p>{lang welcome_user|{$wity_user_nickname}}</p>
-                    <p><a href="/user/logout/">{lang Logout}</a>{if !empty({$wity_user_access})} - <a href="/admin/">{lang Administration}</a>{/if}</p>
-                </aside>
-                {/if}
-            </div>
-        </div>
-
-        <footer class="text-center">
-            <p>{$wity_site_title}&copy; 2016<br />
-                {lang All rights reserved.}</p>
-        </footer>
-    </div>
-</body>
 ```
 
 ## Best practice 
