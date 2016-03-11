@@ -25,7 +25,7 @@
    * [Template override](custom_template.md)
 * Expert
    * [Architecture and Workflow](technical_overview.md)
-   * [Create apps](creat_apps.md)
+   * [Applications](creat_apps.md)
    * More
        * [Helpers (php)](helpers_php.md)
        * [Libraries (js)](librairies_js.md)
