@@ -25,7 +25,6 @@
    * [Template override](custom_template.md)
 * Expert
    * [Technical overview](technical_overview.md)
-   * [WCore](wcore.md)
    * [Create apps](creat_apps.md)
    * More
        * [Helpers (php)](helpers_php.md)
