@@ -6,6 +6,8 @@ Theming in wityCMS is easy; all you need is some basic knowledge of HTML, CSS, a
 
 ## Theme
 
+First you need to define a name for your theme.
+
 
 
 ## Nom du theme = nom du dossier
