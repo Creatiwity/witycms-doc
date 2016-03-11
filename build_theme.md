@@ -90,7 +90,15 @@ Here's an example. Copy and paste the following HTML into a file:
 
 "**Img**" folder contain all the asset you need to custom your theme. For example, this is where you can modify the logo of "grafx" theme with your logo written the same way as "logo.png" or changing the name to the index.html. 
 
-
+```html
+<header class="theme-header">
+    <img src="/themes/grafx/img/logo.png" alt="logo" />
+    <div class="inner">
+        <p class="site-name">{$wity_site_title}</p>
+    </div>
+    <div class="clear"></div>
+</header>
+```
 
 
 ## Internationalize your theme
