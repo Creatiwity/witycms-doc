@@ -43,13 +43,17 @@ An example how to introduce your index.html :
         <script src="/libraries/IE-compatibility/respond.min.js"></script>
     <![endif]-->
     
-        <script type="text/javascript">
+    <script type="text/javascript">
         var require = {
             deps: ['bootstrap']
         };
     </script>
 </head>
 <body>
+  {$notes}
+  {$include}
+</body>
+</html>
 ```
 
 ## Best practice 
