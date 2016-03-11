@@ -1,4 +1,4 @@
-# File Structure
+# Structure
 
 wityCMS has a very simple files structure. You can have as many files and folders as you want in your theme, as long as a few required theme files are present.
 
