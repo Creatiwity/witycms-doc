@@ -21,7 +21,7 @@
    * [Newsletter](newsletter.md)
 * Theme
    * [Overview](introduction.md)
-   * [Build a theme](file_structure.md)
+   * [Build a theme](build_theme.md/build_theme.md)
    * [Template override](custom_template.md)
 * Expert
    * [Architecture and Workflow](technical_overview.md)
