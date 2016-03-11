@@ -45,7 +45,7 @@ For each app, you can select or deselect an access right to define a particular 
 
 ## Groups
 
-User application allows you to create groups, to define specific profil permission.
+User application allows you to create groups, to define specific profile permission.
 
 ![](user-03.png)
 Give a name, and define the associated right you want for the group. 
