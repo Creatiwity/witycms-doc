@@ -28,8 +28,8 @@ Click on the "**Add a member**" button to create a new member.
 * **Name**: More often it is fill with the "*First Name*" and "*last name*" but you can also give a nickname
 * **Position**: Fill with the member position in your organization or team
 * **Description**: This field is actually not use in the front page. It's just here for the SEO
-* **Email**: member email's
+* **Email**: Member email's
 * **LinkedIn**: LinkedIn member page's
 * **Twitter**: Twitter member page's
-* **Image**: Photo of the member
-* **Hovering Image**: Hovering photo of the member
+* **Image**: An image who as representative of the member
+* **Hovering Image**: The second image appear when you hovering it.
