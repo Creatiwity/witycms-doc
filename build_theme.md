@@ -4,15 +4,14 @@ wityCMS has a very simple files structure. You can have as many files and folder
 
 The best point of reference is usually the default theme bundled with your wityCMS installation, since it’s always kept up to date, and it’s a fairly minimal theme. Just duplicate the folder, remove the CSS, and adjust markup as needed.
 
-![](02-witycms-folders-theme.png)
-
 ## Required theme files
 
-If you don't have these files, your theme won't work properly, or just won't show up at all. It's mandatory you have these files. 
+It's mandatory you have the templates folder with the index.hmtl.
+If you don't have these files, your theme won't work properly, or just won't show up at all.  
 
 ![](02-folders-template.png)
 
-* **templates/index.html**: The folder contain all the"*HTML*" index you need for the different theme page of your website.
+Templates folder contain all the"*HTML*" index you need for the different theme page of your website.
 
 ```html
 <body>
@@ -100,8 +99,6 @@ If you don't have these files, your theme won't work properly, or just won't sho
     </div>
 </body>
 ```
-
-Balise content
 
 ## Best practice 
 
