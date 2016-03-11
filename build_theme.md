@@ -113,5 +113,4 @@ Here a example for translation english to french for "grafx" theme.
 <lang value="fr">
 	<item id="Toggle navigation">Ouvrir la navigation</item>
 </lang>
-
 ```
