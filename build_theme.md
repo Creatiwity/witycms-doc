@@ -88,7 +88,8 @@ Here's an example. Copy and paste the following HTML into a file:
 
 ### Images 
 
-"**Img**" folder contain all the asset you need to custom your theme like the logo, etc.
+"**Img**" folder contain all the asset you need to custom your theme. For example, this is where you can modify the logo of "grafx" theme with your logo written the same way as "logo.png" or changing the name to the index.html. 
+
 
 
 
