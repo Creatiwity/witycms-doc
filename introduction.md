@@ -6,7 +6,22 @@ Theming in wityCMS is easy; all you need is some basic knowledge of HTML, CSS, a
 
 ## Theme
 
-First you need to define a name for your theme.
+1. First you need to define a name for your theme.
+2. Go to: .../system/config/default/config.default.php to edit the theme name (This file defines the main configuration values for wityCMS).
+
+```php
+$config = array(
+  'base'             => 'https://www.mysite.com',
+  'name'             => 'wityCMS',
+  'page_title'       => 'wityCMS',
+  'page_description' => '',
+  'theme'            => 'grafx',
+  'timezone'         => 'Europe/Paris',
+  'email'            => 'contact@mysite.com',
+  'debug'            => true
+);
+?>
+```
 
 
 
