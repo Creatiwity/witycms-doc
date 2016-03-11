@@ -2,11 +2,7 @@
 
 wityCMS has a very simple files structure. You can have as many files and folders as you want in your theme, as long as a few required theme files are present.
 
-## Getting started
-
 The best point of reference is usually the default theme bundled with your wityCMS installation, since it’s always kept up to date, and it’s a fairly minimal theme. Just duplicate the folder, remove the CSS, and adjust markup as needed.
-
-Alternatively, you can check out some themes made by the community, or create your own from scratch. It‘s up to you.
 
 ![](02-witycms-folders-theme.png)
 
