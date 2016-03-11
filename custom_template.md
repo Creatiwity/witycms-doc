@@ -2,9 +2,9 @@
 
 For each application page you want to customize you need to create a new file with this specification : 
 
-By default each app have a theme but if you want to overwrite, process like this : 
+By default each app has a theme but if you want to overwrite, you need to create your new .html file who define your news guideline.
 
-## News
+To find out how name your .html file select  
 
 1. "template_name"
 2. "templates"
