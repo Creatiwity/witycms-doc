@@ -14,7 +14,10 @@ Alternatively, you can check out some themes made by the community, or create yo
 
 If you don't have these files, your theme won't work properly, or just won't show up at all. It's mandatory you have these files.
 
+* **templates**:The folder contain all the"*HTML*" index you need for the different theme page of your website.
+
+## Best practice 
+
 * **css**: The folder will allow to apply different "*HTML*" style element. They allow you to define any style property as the border , background color, typeface, the space between letters, etc. Through this method, all pages that reference the external style sheet will inherit all definitions.
 * **img**: The folder contain all the asset you need to custom your theme like the logo, etc.
 * **lang**: The folder contain all the translation you need to switch you theme between different languages.
-* **templates**:The folder contain all the"*HTML*" index you need for the different theme page of your website.
