@@ -22,7 +22,7 @@
 * Themes
    * [Overview](introduction.md)
    * [Build a theme](file_structure.md)
-   * [Custom template](custom_template.md)
+   * [Template override](custom_template.md)
 * Expert
    * [Technical overview](technical_overview.md)
    * [WCore](wcore.md)
