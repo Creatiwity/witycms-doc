@@ -11,7 +11,7 @@ If you don't have these files, your theme won't work properly, or just won't sho
 
 ![](02-folders-template.png)
 
-Templates folder contain all the"*HTML*" index you need for the different theme page of your website.
+Templates folder contain all the"*.html*" index you need for the different theme page of your website.
 
 ```html
 <body>
