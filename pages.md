@@ -83,5 +83,3 @@ Open the folder containing website sources:
 ```
 
 7. Save and upload the index.html file
-
-
