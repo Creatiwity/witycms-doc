@@ -16,7 +16,7 @@ We strive to provide an accurate, understandable and user friendly documentation
 
 Please feel free to leave us your comments using the contact form on the website and subscribe to our newsletter to get the latest news about wityCMS. 
 
-If you need assistance as you go through the questions, you can contact us on [Creatiwity](www.creatiwity.net/contact) or [GitHub](https://github.com/Creatiwity/wityCMS).
+If you need assistance as you go through the questions, you can contact us on [Creatiwity](https://creatiwity.net/contact) or at [witycms@creatiwity.net](mailto:witycms@creatiwity.net) or [GitHub](https://github.com/Creatiwity/wityCMS).
 
 # Installer
 
