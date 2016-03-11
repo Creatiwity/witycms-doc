@@ -6,12 +6,13 @@ The best point of reference is usually the default theme bundled with your wityC
 
 ## Required theme files
 
-It's mandatory you have the templates folder with the index.hmtl.
-If you don't have these files, your theme won't work properly, or just won't show up at all.  
+It's mandatory you have the templates folder with the index.hmtl to define your theme. If you don't have these files, your theme won't work properly, or just won't show up at all.  
 
 ![](02-folders-template.png)
 
 Templates folder contain all the"*.html*" index you need for the different theme page of your website.
+
+For exemple:
 
 ```html
 <body>
