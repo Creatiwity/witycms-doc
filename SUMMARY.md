@@ -27,7 +27,7 @@
    * [Architecture and Workflow](technical_overview.md)
    * [Applications](creat_apps.md)
    * More
-       * [Helpers (php)](helpers_php.md)
+       * [Helpers (PHP)](helpers_php.md)
        * [Libraries (js)](librairies_js.md)
 * [Contribution](contribution.md)
 * Appendices
