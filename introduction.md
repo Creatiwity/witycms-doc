@@ -6,7 +6,7 @@ Theming in wityCMS is easy; all you need is some basic knowledge of HTML, CSS, a
 
 ## Theme definition
 
-All wityCMS theme are contents in a same folder "**themes**". When you want to create a new theme it is important to create a new folder in the name of your "theme name" (e.g:grafx), in the right path .../themes.
+All wityCMS theme are contents in a same folder "**themes**". When you want to create a new theme it is important to create a new folder in the name of your "theme name" (e.g: grafx), in the right path .../themes.
  
 
 1. First you need to define a name for your theme.
