@@ -31,4 +31,4 @@ You can also configure a contact box to resend the email contact directly to a c
 ![](contact-03.jpg)
 
 * **Sender's name**: sender's name who receive the mail information
-* **Sender's email**: sender's email who receive the mail information  
+* **Sender's email**: sender's email who receive the mail information
