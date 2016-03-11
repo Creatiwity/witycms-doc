@@ -4,7 +4,7 @@ For each application page you want to customize you need to create a new file wi
 
 By default each app have a theme but if you want to overwrite, process like this : 
 
-### News
+## News
 
 1. "template_name"
 2. "templates"
