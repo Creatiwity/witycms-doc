@@ -19,5 +19,10 @@ Please feel free to leave us your comments using the contact form on the website
 If you need assistance as you go through the questions, you can contact us on [Creatiwity](www.creatiwity.net/contact) or [GitHub](https://github.com/Creatiwity/wityCMS).
 
 # Installer
----
+
+![](installer-01.png)
+# Workflow
+
+![](wityCMS-workflow.jpg)
+
 
