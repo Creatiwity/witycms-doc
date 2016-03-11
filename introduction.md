@@ -10,7 +10,7 @@ All wityCMS theme are contents in a same folder "**themes**". When you want to c
 
 ![](02-witycms-folders-theme.png)
 
-You also need to edit the file who defines the main configuration values for wityCMS: "config.default.php" with your theme name. This file is located in .../system/config/default. 
+You also need to edit the file who defines the main configuration values for wityCMS: "config.default.php". Replace "grafx" by your theme name. This file is located in .../system/config/default. 
 
 ```php
 $config = array(
