@@ -100,7 +100,35 @@ Here's an example. Copy and paste the following HTML into a file:
 </header>
 ```
 
-
 ## Internationalize your theme
 
-* **lang**: The folder contain all the translation you need to switch you theme between different languages.
+"**Lang**" folder contain all the translation of your theme. If you want to define different language for your theme, it is mandatory to create for each language an doc ".xml" to define all the translation.
+
+Here a example for translation english to french for "grafx" theme.
+
+```xml
+<?xml version="1.0" encoding="utf-8" ?>
+<lang value="fr">
+	<item id="Toggle navigation">Ouvrir la navigation</item>
+	<item id="Home">Accueil</item>
+	<item id="starting page">page d'accueil</item>
+	<item id="About">A propos</item>
+	<item id="the company">la société</item>
+	<item id="Services">Services</item>
+	<item id="our skills">nos compétences</item>
+	<item id="Portfolio">Portfolio</item>
+	<item id="our works">nos réalisations</item>
+	<item id="Blog">Blog</item>
+	<item id="latest posts">derniers articles</item>
+	<item id="Contact">Contact</item>
+	<item id="send us an email">nous écrire</item>
+	<item id="Search the website">Recherche</item>
+	<item id="Sign up">Inscription</item>
+	<item id="Login">Connexion</item>
+	<item id="welcome_user">Bienvenue %s !</item>
+	<item id="Logout">Déconnexion</item>
+	<item id="Administration">Administration</item>
+	<item id="All rights reserved.">Tous droits réservés.</item>
+</lang>
+
+```
