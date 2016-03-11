@@ -16,26 +16,3 @@ By default each app have a theme but if you want to overwrite, process like this
 3. "news"
 4. Create your file **listing.html**
 
-## Font
-
-The Google Fonts API will generate the necessary browser-specific CSS to use the fonts. All you need to do is add the font name to your CSS styles. For example:
-
-```css
-font-family: 'Open Sans', sans-serif;
-```
-
-Here's an example. Copy and paste the following HTML into a file:
-
-```html
-<html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Tangerine">
-    <style>
-      body {
-        font-family: 'Tangerine', serif;
-        font-size: 48px;
-      }
-    </style>
-  </head>
-</html>
-```
