@@ -24,7 +24,7 @@
    * [Build a theme](file_structure.md)
    * [Template override](custom_template.md)
 * Expert
-   * [Technical overview](technical_overview.md)
+   * [Architecture and Workflow](technical_overview.md)
    * [Create apps](creat_apps.md)
    * More
        * [Helpers (php)](helpers_php.md)
