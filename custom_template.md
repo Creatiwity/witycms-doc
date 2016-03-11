@@ -5,7 +5,7 @@ If you want to modify the theme you need to respect all the restriction imposed 
 
 For each application page you want to customize you need to create a new file with this specification : 
 
-##Applications theme
+## Overriding application template
 
 By default each app have a theme but if you want to overwrite, process like this : 
 
