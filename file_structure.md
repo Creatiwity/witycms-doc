@@ -17,6 +17,7 @@ If you don't have these files, your theme won't work properly, or just won't sho
 * **templates/index.html**: The folder contain all the"*HTML*" index you need for the different theme page of your website.
 
 EXEMPLE
+Balise content
 
 ## Best practice 
 
