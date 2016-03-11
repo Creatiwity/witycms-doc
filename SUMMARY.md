@@ -19,7 +19,7 @@
    * [User](users.md)
    * [Contact](contact.md)
    * [Newsletter](newsletter.md)
-* Themes
+* Theme
    * [Overview](introduction.md)
    * [Build a theme](file_structure.md)
    * [Template override](custom_template.md)
