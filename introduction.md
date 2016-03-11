@@ -7,9 +7,21 @@ Theming in wityCMS is easy; all you need is some basic knowledge of HTML, CSS, a
 ## Theme definition
 
 All wityCMS theme are contents in a same folder "**themes**". When you want to create a new theme it is important to create a new folder in the name of your "theme name" (e.g: "grafx"), in the right path .../themes.
- 
-
-1. First you need to define a name for your theme.
-2. Create a new folder with your theme name in .../themes/"theme name"
 
 ![](02-witycms-folders-theme.png)
+
+You also need to edit the file who defines the main configuration values for wityCMS: "config.default.php" with your theme name. This file is located in .../system/config/default. 
+
+```php
+$config = array(
+  'base'             => 'https://www.mysite.com',
+  'name'             => 'wityCMS',
+  'page_title'       => 'wityCMS',
+  'page_description' => '',
+  'theme'            => 'grafx',
+  'timezone'         => 'Europe/Paris',
+  'email'            => 'contact@mysite.com',
+  'debug'            => true
+);
+?>
+```
