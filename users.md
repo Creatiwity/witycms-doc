@@ -21,14 +21,14 @@ Click on the "**Add a user**" button,to create a new user. By default the inscri
 
 ![](user-02.png)
 
-*  **Nickname**
-*  **Password** 
-*  **Password (confirmation)**
-*  **Email***
-*  **First name**
-*  **Last name**
-*  **Group**
-*  **User Rights**: Regular user / Supreme Admin / Custom rights access
+*  **Nickname**: used to be identify to the website.
+*  **Password**: used to be identify to the website. 
+*  **Password (confirmation)**: to be sure reenter the previous password correctly. 
+*  **Email***: if the user need to recover his personal code (nickname and password).
+*  **First name**: (optional).
+*  **Last name**: (optional).
+*  **Group**: if you want define a group for specific rights acces.
+*  **User Rights**: Regular user / Supreme Admin / Custom rights access.
 
 ### Right access table
 
