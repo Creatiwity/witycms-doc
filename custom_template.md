@@ -9,61 +9,12 @@ For each application page you want to customize you need to create a new file wi
 
 By default each app have a theme but if you want to overwrite, process like this : 
 
-### Contact
-
-1. "template_name"
-2. "templates"
-3. "contact"
-4. Create your file **form.html**
-
 ### News
 
 1. "template_name"
 2. "templates"
 3. "news"
 4. Create your file **listing.html**
-
-### Newsletter
-
-1. "template_name"
-2. "templates"
-3. "newsletter"
-4. Create you file **add.html**
-
-### Pages
-
-1. "template_name"
-2. "templates"
-3. "pages"
-4. Create you file **display.html**
-
-### Search
-
-1. "template_name"
-2. "templates"
-3. "search"
-4. Create your file **form.html**
-
-### Slideshow
-
-1. "template_name"
-2. "templates"
-3. "slideshow"
-4. Create your file **block.html**
-
-### Team
-
-1. "template_name"
-2. "templates"
-3. "team"
-4. Create your file **members.html**
-
-### User
-
-1. "template_name"
-2. "templates"
-3. "user"
-4. Create your files **register.html** // **password_lost.html** // **connexion_form.html** // **reset_password.html**
 
 ## Font
 
