@@ -6,7 +6,7 @@ By default each app has a theme but if you want to overwrite, you need to create
 
 ![](02-folders-theme-app.png)
 
-To find out how name your .html file select the app file (e.g: News) located in **.../app/news/front/templates/"listing.html"**.
+To find out how name your "**.html**" file select the app file (e.g: News) located in **.../app/news/front/templates/"listing.html"**.
 
 ![](02-folders-theme-news.png)
 
