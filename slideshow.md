@@ -36,5 +36,5 @@ Click on the “**Add a slide**” button to create a new slide.
 
 When you decide to "*enable slides autoplaying*", you can edit this two parameter: 
 
-* **Pause time between two slides (ms)**: the default value is 4000 ms
-* **Transition time between two slides (ms)**: the default value is 500 ms
+* **Pause time between two slides (ms)**: the default value is 4000 ms.
+* **Transition time between two slides (ms)**: the default value is 500 ms.
