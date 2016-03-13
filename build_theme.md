@@ -90,7 +90,7 @@ Here's an example. Copy and paste the following HTML into a file:
 
 ### Images 
 
-"**Img**" folder contain all the asset you need to custom your theme. For example, this is where you can modify the logo of "grafx" theme with your logo written the same way as "logo.png" or changing the name to the index.html. 
+**img** folder contain all the assets you need to customize your theme. For example, you can replace the logo of the default "grafx" theme by your logo (keep the same filename if you want to avoid editing the index.html file too). 
 
 ```html
 <header class="theme-header">
