@@ -25,10 +25,10 @@ A **FTP client**, such as [FileZilla](https://filezilla-project.org/), is requir
 
 ## Browsers
 
-The compatibility of the wityCMS administration is compatible with all major browsers on the market:
+wityCMS is compatible with all major browsers on the market:
 
 * Firefox
 * Chrome
-* IE7 + (IE6 is not supported)
+* IE7+ (IE6 is not supported)
 * Safari
 * Opera
