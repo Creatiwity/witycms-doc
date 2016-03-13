@@ -104,9 +104,9 @@ Here's an example. Copy and paste the following HTML into a file:
 
 ## Internationalize your theme
 
-"**Lang**" folder contain all the translation of your theme. If you want to define different language for your theme, it is mandatory to create for each language an doc ".xml" to define all the translation.
+**lang** folder contains all the translations of your theme. If you want to define different languages for your theme, it is mandatory to create for each language a doc `.xml` to define all the translation.
 
-Here a example for translation english to french for "grafx" theme.
+Here is an example for translation from english to french for the **grafx** theme.
 
 ```xml
 <?xml version="1.0" encoding="utf-8" ?>
