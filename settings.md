@@ -1,6 +1,6 @@
 # Settings
 
-The "**Settings**" application will allow you to configure general settings of your website.
+The **Settings** application will allow you to configure general settings of your website.
 
 ## Settings of the site
 
