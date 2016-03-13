@@ -62,7 +62,7 @@ An example how to start your index.html :
 
 ### CSS Style
 
-"**CSS**" folder will allow you to apply different "*html*" style element. They allow you to define any style property as the border , background color, typeface, the space between letters, etc. Through this method, all pages that reference the external style sheet will inherit all definitions.
+**CSS** folder will allow you to apply different **`HTML`** style element. They allow you to define any style property as the border , background color, typeface, the space between letters, etc. Through this method, all pages that reference the external style sheet will inherit all definitions.
 
 **Font**
 
