@@ -29,7 +29,7 @@
    * More
        * [Helpers (PHP)](helpers_php.md)
        * [Libraries (JavaScript)](librairies_js.md)
-* [Contribution](contribution.md)
+* [Contributing](contribution.md)
 * Appendices
    * [CKEditor](ckeditor.md)
    * [Bootstrap](bootstrap.md)
