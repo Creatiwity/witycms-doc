@@ -56,7 +56,7 @@ An example how to start your index.html :
 </html>
 ```
 
-include permet de dire ou est ce que le contenu du site va s'afficher. 
+`{$include}` is the main include point where the loaded application will be output.
 
 ## Standards files
 
