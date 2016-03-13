@@ -4,13 +4,13 @@ wityCMS is a lightweight Content Management System (CMS) in PHP, Model-View-Cont
 
 This manual was created for guiding you in your first steps with wityCMS.
 
-1. Overview
-2. Getting started
-3. Applications
-4. Theme
-5. Expert
-6. Contribution
-7. Appendices
+1. [Overview](cms.md)
+2. [Getting started](installation.md)
+3. [Applications](settings.md)
+4. [Theme](introduction.md)
+5. [Expert](technical_overview.md)
+6. [Contribution](contribution.md)
+7. [Appendices](ckeditor.md)
 
 We strive to provide an accurate, understandable and user friendly documentation. Your feedback are highly appreciated and will help us to improve our ability to serve you.
 
