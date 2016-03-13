@@ -22,7 +22,7 @@
 * Theme
    * [Overview](introduction.md)
    * [Building a theme](build_theme.md)
-   * [Template override](custom_template.md)
+   * [Template overriding](custom_template.md)
 * Expert
    * [Architecture and Workflow](technical_overview.md)
    * [Applications](creat_apps.md)
