@@ -2,8 +2,6 @@
 
 The deployment and the basics uses of wityCMS do not require specific knowledge in **`PHP`** programming. However, if you wish to reach into the heart of the system to customize wityCMS, you will have to know how to write **`PHP`**. In this case, it is essential to master at least one programming language to better understand the inner workings of wityCMS.
 
-> Download the latest version of **wityCMS**: [zip](https://github.com/Creatiwity/wityCMS/archive/0.5.0.zip). 
-
 ## Webservers
 
 * Apache (mod_rewrite enabled)
