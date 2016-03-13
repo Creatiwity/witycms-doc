@@ -10,5 +10,5 @@ To find out how to name your **`HTML`** file select the app file (e.g: News) loc
 
 ![](02-folders-theme-news.png)
 
-Once you know how to name the file (e.g: News -> `listing.html`), you can create a new file located in `/theme/theme_name/templates/news`. Now you can drop your `listing.html` to overwride the one contained in the `apps` folder.
+Once you know how to name the file (e.g: News -> `listing.html`), you can create a new file located in `/theme/theme_name/templates/news`. Now you can drop your `listing.html` to override the one contained in the `apps` folder.
 
