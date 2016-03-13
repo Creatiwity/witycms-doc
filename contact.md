@@ -1,15 +1,15 @@
 # Contact
 
-The "**contact**" application will allow to manage and receive emails send to the website contact form.
+The **contact** application allows you to manage and receive emails send thanks to the website contact form.
 
 ## Contact listing
 
-The list contains all emails send since the contact form exist.
+The list contains all emails sent since the contact form exist.
 It gives you a rapid view of: 
 
 * "From": Email address of the person who sent an email
 * "Subject": Title and content
-* "Date": Date of expedition.
+* "Date": Sending date.
 
 ![](contact-01.jpg)
 ## Reading pop-up
