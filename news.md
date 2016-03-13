@@ -1,8 +1,8 @@
 # News
 
-"**News**" application lets you manage a collection of articles or posts ordered by publication date and sorted by categories.
+**News** application lets you manage a collection of articles or posts ordered by publication date and sorted by categories.
 
-Using "**News**" application is helpful if you want to create and manage your site's news, like a blog. 
+Using **News** application is helpful if you want to create and manage your site's news, like a blog. 
 
 ## News listing
 ![](news-01.png)
@@ -16,7 +16,7 @@ The list contains all news created on your website. It gives you an overview of:
 * The last modification date
 
 For each news you can edit or delete it using the action button at the end of the row. 
-Moreover you can add a news by clicking the **"Add a news"** button.
+Moreover you can add a news by clicking the **Add a news** button.
 
 ![](news-02.png)
 
@@ -24,7 +24,7 @@ Moreover you can add a news by clicking the **"Add a news"** button.
 
 ### Edition
 
-After clicking the button "Add" or "Edit" a news, you can write the content:
+After clicking the button **Add** or **Edit** a news, you can write the content:
 
 ![](post-news-02.png)
 
@@ -39,33 +39,33 @@ On the right side, you have the details about your current news:
 * **Published**: yes / no (this enables you to write news without publishing it on your website).
 * **Date of publication***: automatically filled. You can also edit the date of publication.
 *  **Hour of publication***: automatically filled. You can edit the time of publication.
-* **Author**: by default the author is the name of the account with which you are logged in. You can edit the author.
-* **Image**: You can upload a main image (used like header / news preview etc., depending on your template, it cannot exceed 2 Mo).
+* **Author**: by default the author is the name of the account with which you are logged in. You can chnage the author.
+* **Image**: You can upload a main image (used like header / news preview etc., depending on your template, it cannot exceed 2 MB).
 
 ### Categories
 
 Categories enable to classify your news according to the news content. 
 
-The configuration of categories is explained later. 
+The configuration of categories will be explained later. 
 
 ### SEO
 
-The "Title" and "Description" meta tags are "**html**" tags inserted in the ```<head>``` section of a web page (before the ```<body>```). 
+The `Title` and `Description` meta tags are **`HTML`** tags inserted in the `<head>` section of a web page (before the `<body>`). 
 
-They help you to provide information for the search engines, social networks and other systems using "*metadata*". The information on those tags are not visible on your website, but it appears in the source code of the page.
+They help you to provide information for the search engines, social networks and other systems using *metadata*. The information on those tags are not visible on your website, but it appears in the source code of the page.
 
 * **Meta title**: by default it is the news name
-* **Meta description**: Input a short description of your news (optional). 125 characters maximum
+* **Meta description**: Input a short description of your news (optional). 125 characters maximum.
 
 ### Post your news
 
-To finalize the edition of your news, click on "**Submit**" button. 
+To finalize the edition of your news, click on **Submit** button. 
 
 ## Categories
 
-You can have several news and subjects totally different. This is how, wityCMS offers you the possibility to arrange your news in different categories according to the content.
+wityCMS offers you the possibility to sort your news in different categories according to the content.
 
-This list includes all the categories and gives you the name, shortname and the parent category (if it is specified).
+This list includes all the categories and gives you the name, shortname and the parent category, if any.
 
 ![](news-04.png)
 You must click on the green button "**Add a category**" to create a new category.
