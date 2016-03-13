@@ -1,6 +1,6 @@
 # Overview
 
-All wityCMS theme are contents in a same folder "**themes**". When you want to create a new theme it is important to create a new folder in the name of your "theme name" (e.g: "grafx"), in the right path .../themes.
+All wityCMS themes are contained in the folder **themes**.
 
 ![](02-witycms-folders-theme.png)
 
