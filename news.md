@@ -68,7 +68,7 @@ wityCMS offers you the possibility to sort your news in different categories acc
 This list includes all the categories and gives you the name, shortname and the parent category, if any.
 
 ![](news-04.png)
-You must click on the green button "**Add a category**" to create a new category.
+You must click on the green button **Add a category** to create a new category.
 
 ![](news-05.png)
 
@@ -77,12 +77,12 @@ You must click on the green button "**Add a category**" to create a new category
 * **Parent**: specify if it is a sub category (e.g: Game)
 * **Actions**: *create* or *abandon*
 
-A notification inform you "the category **Geek** was successfully created".
+A notification inform you that *The category **Geek** was successfully created*.
 ![](news-06.png)
-You can also delete a category when you want with the action button "**Delete**". 
+You can also delete a category when you want with the action button **Delete**. 
 ![](news-07.png)
-To confirm deletion, a pop-up appear asking you: "Do you really want to delete this category?".
-If you are certain, click on "**Delete**" if not click on "**Cancel**".
+To confirm deletion, a pop-up appear asking you: *Do you really want to delete this category?*.
+If you are certain, click on **Delete** if not click on **Cancel**.
 ![](news-08.png)
-After your deletion, a notification appears to inform you that "Category successfully deleted". 
+After your deletion, a notification appears to inform you that the *Category [was] successfully deleted*. 
 ![](news-09.png)
