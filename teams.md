@@ -1,6 +1,6 @@
 # Team
 
-The "**Team**" application allows you to create profiles members for your team. 
+The **Team** application allows you to create profiles members for your team. 
 
 ## Members listing
 
@@ -11,7 +11,7 @@ The list contains all the members created on your team. It gives you a rapid vie
 * Order
 * Date
 
-The action button "**Edit**" allow you to *edit* or *delete* a member (according to permissions granted by your administrator).
+The action button **Edit** allows you to *edit* or *delete* a member (according to permissions granted by your administrator).
 
 ![](team-01.png)
 ### Order
@@ -21,11 +21,11 @@ By default the members of your team are ordered by ID. But if you want you can r
 
 ## Add a member
 
-Click on the "**Add a member**" button to create a new member.
+Click on the **Add a member** button to create a new member.
 
 ![](team-02.png)
 
-* **Name**: More often it is fill with the "*First Name*" and "*last name*" but you can also give a nickname.
+* **Name**: More often it is fill with the *First Name* and *last name* but you can also give a nickname.
 * **Position**: Fill with the member position in your organization or team.
 * **Description**: This field is actually not use in the front page. It's just here for SEO.
 * **Email**: Member email's.
