@@ -5,25 +5,25 @@
 You will now install wityCMS from its source files. 
 Go to the download section of [Creatiwity](https://www.creatiwity.net) website and download the latest version of wityCMS.
 
-1. Extract the files from the zip folder and save it on your computer (remember to note the location).
-2. With your FTP program (eg: [FileZilla](https://filezilla-project.org/)), send from your computer to your server the folder, keeping exactly the same structure (folders and files).
+1. Extract the files from the zip folder and save it on your computer (remember the location).
+2. With your FTP software (eg: [FileZilla](https://filezilla-project.org/)), upload the previously extracted folder to your server.
 
 Folder structure:
 ![](01-witycms-folders.png)
 
 ## wityCMS installation
 
-Once the files are copied on your FTP server with ***FileZilla***. You can open your browser, type the URL of your website: "http://www.nameofyourwebsite.com" if you uploaded the files at the root of your website.
+Once the upload finished, open your browser and type the URL of your website (eg: http://www.nameofyourwebsite.com if you uploaded the files at the root of your website).
 
 This will redirect you to the installation wizard. At this stage, you just have to follow the 4 steps to install wityCMS. 
 
-NB: the four sections must have the validated tick to enable the "**Launch install**" button.
+NB: the four sections must have the validated tick to enable the **Launch install** button.
 
 ### General
 ![](installer-01.png)
 
 * **Site name***: Specify the name you want to give to your website.
-* **Base URL***: Inquire the URL where the file name saved export the .ZIP. By default, this field is pre-filled.
+* **Base URL***: Specify the website's URL. By default, this field is pre-filled.
 * **Theme***: Choose the theme for your website. The field is always pre-filled with the basic theme.
 * **Language***: You must specify the language you want to give to the system. The default language is English.
 * **Time zone***: By default, the "Time Zone" is always (UTC + 01: 00) Paris.
@@ -31,19 +31,19 @@ NB: the four sections must have the validated tick to enable the "**Launch insta
 ### Application
 ![](installer-02.png)
 
-* **Home application***: The Home application is the first application executed by wityCMS. It will be displayed when a visitor connects to the root page of your website. For instance, if you want to create a blog, we advise you to select the "**News**" application.
+* **Home application***: The Home application is the first application executed by wityCMS. It will be displayed when a visitor connects to the root page of your website. For instance, if you want to create a blog, we advise you to select the **News** application.
 
-* **Main admin application***: The main admin application is the first application loaded when you connect to the administration. We advise you to select the application you will mainly use (**user** or **news** for instance).
+* **Main admin application***: The main admin application is the first application loaded when you open the administration. We advise you to select the application you will mainly use (**user** or **news** for instance).
 
 ### Database
 
-wityCMS needs a *MySQL* database to run. It is available in the majority of the web servers. Fill in the form with the credentials provided by your hosting company.
+wityCMS needs a **`MySQL`** database to run. Hosting providers often provide one. Fill in the form with the credentials provided by your hosting company.
 
 ![](installer-03.png)
 
-* **Server***: localhost
-* **Port**: 3306
-* **User***: root
+* **Server***: localhost by default
+* **Port**: 3306 by default
+* **User***
 * **Password**
 * **Database name***
 * **Prefix for tables***: wity
@@ -52,9 +52,9 @@ wityCMS needs a *MySQL* database to run. It is available in the majority of the 
 
 ### Admin account
 
-The following fields will allow you create your user account. The user of this account will have full power to make changes in the administration section. Please, choose carefully your password.
+The following fields will allow you create your user account. This account will have full priviledges to make changes in the administration section. Please, choose very carefully your password.
 
-Once you click on the "**Launch install**" button, wityCMS will be installed. You will be able to connect to the administration panel (back office).
+Clicking on the **Launch install** button will finish the installation. You will be able to connect to the administration panel (back office).
 
 ![](installer-04.png)
 
@@ -67,10 +67,10 @@ Once you click on the "**Launch install**" button, wityCMS will be installed. Yo
 
 ### Let's start 
 
-Congratulation, the installation of wityCMS is completed! Please, make sure the directory /**installer**/ is deleted from your server.
+Congratulations, the installation of wityCMS is over! Please, make sure the directory `/installer/` is deleted from your server.
 
 ![](installer-05.png)
 
 You can either connect to your home page, or to the administration panel with the two buttons:
-* **"Home" button**: you are redirected on your website's home you chose during the second installation step.
-* **"Administration" button**: you are redirected on the back office. You need to login with the information you provided during the last step of your installation.
+* **Home button**: you are redirected on your website's home you chose during the second installation step.
+* **Administration button**: you are redirected on the back office. You need to login with the information you provided during the last step of your installation.
