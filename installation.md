@@ -3,7 +3,7 @@
 ## Download wityCMS
 
 You will now install wityCMS from its source files. 
-Go to the download section of [Creatiwity](https://www.creatiwity.net) website and download the latest version of wityCMS.
+Go to the download section of [Creatiwity](https://github.com/Creatiwity/wityCMS/releases/download/0.5.0/wityCMS-0.5.0.zip) website and download the latest version of wityCMS.
 
 1. Extract the files from the zip folder and save it on your computer (remember the location).
 2. With your FTP software (eg: [FileZilla](https://filezilla-project.org/)), upload the previously extracted folder to your server.
