@@ -12,6 +12,6 @@ You are a professional web developer or a technician? You will also be seduced b
 
 * Easy to learn and manage
 * Effective and able to build different kind of websites such as blog, corporate and promoting websites.
-* Developers can count on an efficient and flexible solution, with its inter-application communication
-* Used by a growing community ([examples](https://www.creatiwity.net/witycms/example)) 
-* Multilingual set up
+* Developers can count on an efficient and flexible solution, with its inter-application communication.
+* Used by a growing community ([References](https://creatiwity.net/dev/creatiwity-site/witycms#references)). 
+* Multilingual set up.
