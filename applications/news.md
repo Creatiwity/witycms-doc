@@ -2,23 +2,23 @@
 
 ***News*** application lets you manage a collection of articles or posts ordered by publication date and sorted by categories.
 
-Using ***News*** application is helpful if you want to create and manage your site's news, like a blog. 
+Using ***News*** application is helpful if you want to create and manage your site's news, like a blog.
 
 ## News listing
-![](images/news-01.png)
-The list contains all news created on your website. It gives you an overview of: 
+![](../images/news-01.png)
+The list contains all news created on your website. It gives you an overview of:
 
-* The title 
+* The title
 * Author
 * Category it belongs
 * State of publication
 * The number of views
 * The last modification date
 
-For each news you can edit or delete it using the action button at the end of the row. 
+For each news you can edit or delete it using the action button at the end of the row.
 Moreover you can add a news by clicking the **Add a news** button.
 
-![](images/news-02.png)
+![](../images/news-02.png)
 
 ## Create and edit news
 
@@ -26,7 +26,7 @@ Moreover you can add a news by clicking the **Add a news** button.
 
 After clicking the button **Add** or **Edit** a news, you can write the content:
 
-![](images/post-news-02.png)
+![](../images/post-news-02.png)
 
 * **Title***: Start by indicating the news title *(it cannot exceed 140 characters)*.
 * **URL***: The URL will be automatically generated with the information you filled in the title form. If you want, you can change this URL.
@@ -44,13 +44,13 @@ On the right side, you have the details about your current news:
 
 ### Categories
 
-Categories enable to classify your news according to the news content. 
+Categories enable to classify your news according to the news content.
 
-The configuration of categories will be explained later. 
+The configuration of categories will be explained later.
 
 ### SEO
 
-The `Title` and `Description` meta tags are **`HTML`** tags inserted in the `<head>` section of a web page (before the `<body>`). 
+The `Title` and `Description` meta tags are **`HTML`** tags inserted in the `<head>` section of a web page (before the `<body>`).
 
 They help you to provide information for the search engines, social networks and other systems using *metadata*. The information on those tags are not visible on your website, but it appears in the source code of the page.
 
@@ -59,7 +59,7 @@ They help you to provide information for the search engines, social networks and
 
 ### Post your news
 
-To finalize the edition of your news, click on **Submit** button. 
+To finalize the edition of your news, click on **Submit** button.
 
 ## Categories
 
@@ -67,10 +67,10 @@ wityCMS offers you the possibility to sort your news in different categories acc
 
 This list includes all the categories and gives you the name, shortname and the parent category, if any.
 
-![](images/news-04.png)
+![](../images/news-04.png)
 You must click on the green button **Add a category** to create a new category.
 
-![](images/news-05.png)
+![](../images/news-05.png)
 
 * **Name**: fill with the name of your category (e.g: Geek)
 * **Shortname**: specify a "shortname" if you want (e.g: geek)
@@ -78,11 +78,11 @@ You must click on the green button **Add a category** to create a new category.
 * **Actions**: *create* or *abandon*
 
 A notification inform you that *The category **Geek** was successfully created*.
-![](images/news-06.png)
-You can also delete a category when you want with the action button **Delete**. 
-![](images/news-07.png)
+![](../images/news-06.png)
+You can also delete a category when you want with the action button **Delete**.
+![](../images/news-07.png)
 To confirm deletion, a pop-up appear asking you: *Do you really want to delete this category?*.
 If you are certain, click on **Delete** if not click on **Cancel**.
-![](images/news-08.png)
-After your deletion, a notification appears to inform you that the *Category [was] successfully deleted*. 
-![](images/news-09.png)
+![](../images/news-08.png)
+After your deletion, a notification appears to inform you that the *Category [was] successfully deleted*.
+![](../images/news-09.png)

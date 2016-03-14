@@ -1,14 +1,14 @@
 # Administration and Settings
 
-wityCMS comes with an administration panel accessible through the `www.sitename.com/admin` URL. If needed, you will be invited to login (Identifier and password) with your admin account: 
+wityCMS comes with an administration panel accessible through the `www.sitename.com/admin` URL. If needed, you will be invited to login (Identifier and password) with your admin account:
 
-![](images/connect-01.png)
+![](../images/connect-01.png)
 
 ## Dashboard description
 
-Your administration panel is divided into five areas: 
+Your administration panel is divided into five areas:
 
-![](images/admin-01.png)
+![](../images/admin-01.png)
 
 1. The website name which is also a link to the front office
 2. The application selector
@@ -20,7 +20,7 @@ Your administration panel is divided into five areas:
 
 The ***Settings*** application will allow you to configure general settings of your website.
 
-![](images/settings-01.png)
+![](../images/settings-01.png)
 ### General
 
 *General* - it is the first configuration you did during the installation steps.
@@ -39,6 +39,6 @@ Your Website title defines your activity. Add a short description of your activi
 Edit the icon that will identify your website.
 
 * **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
-* **Site's Icon (128x128 px)**: Icon used in Facebook publications and iOS shortcuts. 
+* **Site's Icon (128x128 px)**: Icon used in Facebook publications and iOS shortcuts.
 
 When finished, you just need to **submit** and your website get the minimal configuration.

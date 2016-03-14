@@ -4,22 +4,22 @@ The ***User*** application let you manage your website's registration process an
 
 ## User listing
 
-This list contains all registered users. It gives you a rapid view of: 
+This list contains all registered users. It gives you a rapid view of:
 
 * **ID**
-* **Nickname**: used to log in 
+* **Nickname**: used to log in
 * **Group**
 * **Last connection**
 
 The action button **Edit** allow you to *edit* or *delete* a user (according to permissions granted by your administrator).
-![](images/user-01.png)
+![](../images/user-01.png)
 The bloc search at the right allows you to make a fast search when you need to find a user.
 
 ## Add a user
 
 Click on the **Add a user** button,to create a new user. By default the registration are opened to any person who visits your website.
 
-![](images/user-02.png)
+![](../images/user-02.png)
 
 *  **Nickname**
 *  **Password**
@@ -34,7 +34,7 @@ Click on the **Add a user** button,to create a new user. By default the registra
 
 For each app, you can toggle a given access right.
 
-* **Contact**: Admin 
+* **Contact**: Admin
 * **News**: Writer / Category_manager / Moderator
 * **Newsletter**: Admin
 * **Page**: Admin / Writer / Moderator
@@ -47,18 +47,18 @@ For each app, you can toggle a given access right.
 
 User application allows you to create groups, to define specific profile permission.
 
-![](images/user-03.png)
-Give a name, and define the associated right you want for the group. 
-![](images/user-04.png)
+![](../images/user-03.png)
+Give a name, and define the associated right you want for the group.
+![](../images/user-04.png)
 
 ## Configuration
 
-Manage the registration process. 
+Manage the registration process.
 
-![](images/user-05.png)
+![](../images/user-05.png)
 
-* **Enable user account validation by an admin**: user account validation is not automatic, an admin need to validate account one by one. 
-* **At registration, send email to confirm the email address**: an email is automatically sent to confirm the email address before creating an account. 
+* **Enable user account validation by an admin**: user account validation is not automatic, an admin need to validate account one by one.
+* **At registration, send email to confirm the email address**: an email is automatically sent to confirm the email address before creating an account.
 * **Keep deleted and refused accounts in the database disabling them**: the database keep all accounts created, even after deletion.
 * **Open registration**: people have access to the registration form from the front office.
 * **Send a user account summary by mail**: send a summary of the subscription to the user after account creation.

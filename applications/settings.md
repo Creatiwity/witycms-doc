@@ -4,7 +4,7 @@ The ***Settings*** application will allow you to configure general settings of y
 
 ## Settings of the site
 
-![](images/settings-01.png)
+![](../images/settings-01.png)
 ### General
 
 *General* - it is the first configuration you did during the installation steps.
@@ -26,21 +26,21 @@ This section allows you to edit the elements that will affect the visibility of 
 You can edit the icon that will identify your website. More often, it is the logo of your company or a graphic that represents the activity of your website.
 
 * **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
-* **Site's Icon (128x128 px)**: Icon used in Facebook publications and iOS shortcuts. 
+* **Site's Icon (128x128 px)**: Icon used in Facebook publications and iOS shortcuts.
 
 When finished, you just need to **submit** and your modification will be saved.
 
 ## Languages
 
-![](images/settings-02.png)
-wityCMS is a multilingual software for content editing. 
+![](../images/settings-02.png)
+wityCMS is a multilingual software for content editing.
 In this section, you can add new languages and define which one is the default language.
 
 Click on the button **Add a language** to set up a new language.
 
 ## Add a language
 
-![](images/settings-03.png)
+![](../images/settings-03.png)
 
 * **Name***:  Name
 * **Iso***: Please, respect the [ISO 639 and ISO 3166](http://www.localeplanet.com/icu/) to configure your new language.

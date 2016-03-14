@@ -4,18 +4,18 @@ This is the essential application of wityCMS. If you want to make a website with
 
 ## Pages listing
 
-The list contains all the pages created on your website. It gives you a rapid view of: 
+The list contains all the pages created on your website. It gives you a rapid view of:
 
 * Title
 * Author
 * Views
-* Date of the last modification 
+* Date of the last modification
 
-![](images/pages-01.png)
+![](../images/pages-01.png)
 
 The action button **Edit** allows you to *edit* or *delete* a page (according to permissions granted by your administrator).
 
-![](images/pages-02.png)
+![](../images/pages-02.png)
 ## Create or edit page
 
 If you want to add a page: Click on green button **Add a page**.
@@ -24,7 +24,7 @@ If you want to add a page: Click on green button **Add a page**.
 
 After clicking the button **Add a page**. You can write a new page.
 
-![](images/pages-03.png)
+![](../images/pages-03.png)
 
 * **Title***: Start by indicating the title of your page (less is better).
 * **URL***: The URL will be automatically generated with the information you fill in the title form. If you want, you can change this URL.
@@ -40,7 +40,7 @@ On the side, you find the details information about your current page:
 
 ### SEO
 
-The "Title" and "Description" meta tags are **`html`** tags inserted in the `<head>` section of a web page (before the `<body>`). 
+The "Title" and "Description" meta tags are **`html`** tags inserted in the `<head>` section of a web page (before the `<body>`).
 
 They help you to provide information for the search engines, social networks and other systems using "*metadata*". The information on those tags are not visible on your website, but it appears in the source code of the page.
 
@@ -49,22 +49,22 @@ They help you to provide information for the search engines, social networks and
 
 ### Post your page
 
-To finalize the edition of your page, click on the **Submit** button. 
+To finalize the edition of your page, click on the **Submit** button.
 
 ## Index your page
 
-To index your page in the *navbar* (navigation bar / menu), you need to open your FTP client (e.g: [FileZilla](https://filezilla-project.org)). 
+To index your page in the *navbar* (navigation bar / menu), you need to open your FTP client (e.g: [FileZilla](https://filezilla-project.org)).
 
 Open the folder containing website sources:
 
 1. **Themes** folder
-2. Name of your theme (here **grafx**) 
+2. Name of your theme (here **grafx**)
 3. **Templates**
-4. Download the **index.html** 
-![](images/pages-04.png)
+4. Download the **index.html**
+![](../images/pages-04.png)
 
 5. Open it with a text editor (e.g: [**Sublime Text**](https://www.sublimetext.com/))
-6. Add your page as you can see below between `<li>` and `</li>` 
+6. Add your page as you can see below between `<li>` and `</li>`
 ```html
 <ul class="nav navbar-nav">
     <li><a href="/"><span>{lang Home}</span><br />

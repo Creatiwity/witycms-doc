@@ -2,25 +2,25 @@
 
 ## Download wityCMS
 
-You will now install wityCMS from its source files. 
+You will now install wityCMS from its source files.
 Go to the download section of [Creatiwity](https://github.com/Creatiwity/wityCMS/releases/download/0.5.0/wityCMS-0.5.0.zip) website and download the latest version of wityCMS.
 
 1. Extract the files from the zip folder and save it on your computer (remember the location).
 2. With your FTP software (eg: [FileZilla](https://filezilla-project.org/)), upload the previously extracted folder to your server.
 
 Folder structure:
-![](images/01-witycms-folders.png)
+![](../images/01-witycms-folders.png)
 
 ## wityCMS installation
 
 Once the upload finished, open your browser and type the URL of your website (eg: http://www.sitename.com if you uploaded the files at the root of your website).
 
-This will redirect you to the installation wizard. At this stage, you just have to follow the 4 steps to install wityCMS. 
+This will redirect you to the installation wizard. At this stage, you just have to follow the 4 steps to install wityCMS.
 
 NB: the four sections must have the validated tick to enable the **Launch install** button.
 
 ### General
-![](images/installer-01.png)
+![](../images/installer-01.png)
 
 * **Site name***: Specify the name you want to give to your website.
 * **Base URL***: Specify the website's URL. By default, this field is pre-filled.
@@ -29,7 +29,7 @@ NB: the four sections must have the validated tick to enable the **Launch instal
 * **Time zone***: By default, the Time Zone is always (UTC + 01: 00) Paris.
 
 ### Application
-![](images/installer-02.png)
+![](../images/installer-02.png)
 
 * **Home application***: The Home application is the first application executed by wityCMS. It will be displayed when a visitor connects to the root page of your website. For instance, if you want to create a blog, we advise you to select the ***News*** application.
 
@@ -39,7 +39,7 @@ NB: the four sections must have the validated tick to enable the **Launch instal
 
 wityCMS needs a **`MySQL`** database to run. Hosting providers often provide one. Fill in the form with the credentials provided by your hosting company.
 
-![](images/installer-03.png)
+![](../images/installer-03.png)
 
 * **Server***: localhost by default
 * **Port**: 3306 by default
@@ -56,7 +56,7 @@ The following fields will allow you create your user account. This account will 
 
 Clicking on the **Launch install** button will finish the installation. You will be able to connect to the administration panel (back office).
 
-![](images/installer-04.png)
+![](../images/installer-04.png)
 
 * **Nickname***
 * **Password***
@@ -65,11 +65,11 @@ Clicking on the **Launch install** button will finish the installation. You will
 * **Lastname**
 * **Email***
 
-### Let's start 
+### Let's start
 
 Congratulations, the installation of wityCMS is over! Please, make sure the directory `/installer/` is deleted from your server.
 
-![](images/installer-05.png)
+![](../images/installer-05.png)
 
 You can either connect to your home page, or to the administration panel with the two buttons:
 * **Home button**: you are redirected on your website's home you chose during the second installation step.
