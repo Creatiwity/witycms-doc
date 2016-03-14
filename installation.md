@@ -26,14 +26,14 @@ NB: the four sections must have the validated tick to enable the **Launch instal
 * **Base URL***: Specify the website's URL. By default, this field is pre-filled.
 * **Theme***: Choose the theme for your website. The field is always pre-filled with the basic theme.
 * **Language***: You must specify the language you want to give to the system. The default language is English.
-* **Time zone***: By default, the "Time Zone" is always (UTC + 01: 00) Paris.
+* **Time zone***: By default, the Time Zone is always (UTC + 01: 00) Paris.
 
 ### Application
 ![](installer-02.png)
 
-* **Home application***: The Home application is the first application executed by wityCMS. It will be displayed when a visitor connects to the root page of your website. For instance, if you want to create a blog, we advise you to select the **News** application.
+* **Home application***: The Home application is the first application executed by wityCMS. It will be displayed when a visitor connects to the root page of your website. For instance, if you want to create a blog, we advise you to select the ***News*** application.
 
-* **Main admin application***: The main admin application is the first application loaded when you open the administration. We advise you to select the application you will mainly use (**user** or **news** for instance).
+* **Main admin application***: The main admin application is the first application loaded when you open the administration. We advise you to select the application you will mainly use (***user*** or ***news*** for instance).
 
 ### Database
 
