@@ -7,7 +7,7 @@ The **User** application let you manage your website's registration process and 
 This list contains all registered users. It gives you a rapid view of: 
 
 * **ID**
-* **Nickname**: uses to log in 
+* **Nickname**: used to log in 
 * **Group**
 * **Last connection**
 
