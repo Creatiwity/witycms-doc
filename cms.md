@@ -11,11 +11,7 @@ You are a professional web developer or a technician? You will also be seduced b
 # wityCMS strengths
 
 * Easy to learn and manage
-* Powerful inter-application communication
+* Effective and able to build different kind of websites such as blog, corporate and promoting websites.
+* Developers can count on an efficient and flexible solution, with its inter-application communication
 * Used by a growing community
-* Effective and able to meet diverse needs
-* Simple and flexible - the delight of developers
 * Multilingual set up
-* It provides operational freedom for user used to in HTML, CSS and PHP
-
-You can count on an efficient and flexible solution.
