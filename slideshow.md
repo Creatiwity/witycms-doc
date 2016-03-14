@@ -1,6 +1,6 @@
 # Slideshow
 
-The **Slideshow** application will allow you manage the slider on your website.
+The ***Slideshow*** application will allow you manage the slider on your website.
 
 ## Slides listing
 
