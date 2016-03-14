@@ -14,12 +14,12 @@ The list contains all the slides created on your website. It gives you a rapid v
 
 The action button **Edit** allows you to *edit* or *delete* a page (according to permissions granted by your administrator).
 
-![](../images/slideshow-01.png)
+![](../images/slideshow-listing.png)
 ## Add a slide
 
 Click on the **Add a slide** button to create a new slide.
 
-![](../images/slideshow-02.png)
+![](../images/slideshow-add.png)
 
 * **Title***: Start by indicating the title
 * **Legend**: Input a short description of your slide.
@@ -30,7 +30,7 @@ Click on the **Add a slide** button to create a new slide.
 
 **Configuration** tab, allows you to configure your slider.
 
-![](../images/slideshow-03.png)
+![](../images/slideshow-configuration.png)
 
 * **Enable slides autoplaying**: Enable automatic slide changes.
 

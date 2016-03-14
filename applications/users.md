@@ -12,14 +12,14 @@ This list contains all registered users. It gives you a rapid view of:
 * **Last connection**
 
 The action button **Edit** allow you to *edit* or *delete* a user (according to permissions granted by your administrator).
-![](../images/user-01.png)
+![](../images/user-listing.png)
 The bloc search at the right allows you to make a fast search when you need to find a user.
 
 ## Add a user
 
 Click on the **Add a user** button,to create a new user. By default the registration are opened to any person who visits your website.
 
-![](../images/user-02.png)
+![](../images/user-add.png)
 
 *  **Nickname**
 *  **Password**
@@ -47,15 +47,15 @@ For each app, you can toggle a given access right.
 
 User application allows you to create groups, to define specific profile permission.
 
-![](../images/user-03.png)
+![](../images/user-groups.png)
 Give a name, and define the associated right you want for the group.
-![](../images/user-04.png)
+![](../images/user-groups-add.png)
 
 ## Configuration
 
 Manage the registration process.
 
-![](../images/user-05.png)
+![](../images/user-configuration.png)
 
 * **Enable user account validation by an admin**: user account validation is not automatic, an admin need to validate account one by one.
 * **At registration, send email to confirm the email address**: an email is automatically sent to confirm the email address before creating an account.

@@ -22,7 +22,7 @@ If you need assistance as you go through the questions, you can contact us on [C
 
 # Installer
 
-![](images/installer-01.png)
+![](images/installer-general.png)
 # Workflow
 
 ![](images/wityCMS-workflow.jpg)

@@ -2,7 +2,7 @@
 
 All wityCMS themes are contained in the folder **themes**.
 
-![](../images/02-witycms-folders-theme.png)
+![](../images/themes-folders.png)
 
 The current theme is defined in the main configuration file : `system/config/config.php`. Just replace "*grafx*" by your theme name.
 

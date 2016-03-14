@@ -5,7 +5,7 @@
 Using ***News*** application is helpful if you want to create and manage your site's news, like a blog.
 
 ## News listing
-![](../images/news-01.png)
+![](../images/news-listing.png)
 The list contains all news created on your website. It gives you an overview of:
 
 * The title
@@ -18,7 +18,7 @@ The list contains all news created on your website. It gives you an overview of:
 For each news you can edit or delete it using the action button at the end of the row.
 Moreover you can add a news by clicking the **Add a news** button.
 
-![](../images/news-02.png)
+![](../images/news-button.png)
 
 ## Create and edit news
 
@@ -26,7 +26,7 @@ Moreover you can add a news by clicking the **Add a news** button.
 
 After clicking the button **Add** or **Edit** a news, you can write the content:
 
-![](../images/post-news-02.png)
+![](../images/news-listing-empty.png)
 
 * **Title***: Start by indicating the news title *(it cannot exceed 140 characters)*.
 * **URL***: The URL will be automatically generated with the information you filled in the title form. If you want, you can change this URL.
@@ -67,10 +67,10 @@ wityCMS offers you the possibility to sort your news in different categories acc
 
 This list includes all the categories and gives you the name, shortname and the parent category, if any.
 
-![](../images/news-04.png)
+![](../images/news-categories.png)
 You must click on the green button **Add a category** to create a new category.
 
-![](../images/news-05.png)
+![](../images/news-categories-add.png)
 
 * **Name**: fill with the name of your category (e.g: Geek)
 * **Shortname**: specify a "shortname" if you want (e.g: geek)
@@ -78,11 +78,11 @@ You must click on the green button **Add a category** to create a new category.
 * **Actions**: *create* or *abandon*
 
 A notification inform you that *The category **Geek** was successfully created*.
-![](../images/news-06.png)
+![](../images/news-categories-add-success.png)
 You can also delete a category when you want with the action button **Delete**.
-![](../images/news-07.png)
+![](../images/news-categories-buttons.png)
 To confirm deletion, a pop-up appear asking you: *Do you really want to delete this category?*.
 If you are certain, click on **Delete** if not click on **Cancel**.
-![](../images/news-08.png)
+![](../images/news-delete-confirm.png)
 After your deletion, a notification appears to inform you that the *Category [was] successfully deleted*.
-![](../images/news-09.png)
+![](../images/news-delete-success.png)
