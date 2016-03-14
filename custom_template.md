@@ -1,6 +1,6 @@
 # Overriding application template
 
-For each application page you want to customize you need to create a new file with this specification : 
+For each application ***Page*** you want to customize you need to create a new file with this specification : 
 
 By default each action of each app has a template, but if you want to overwrite one of them, you'll need to create a new **`HTML`** file.
 
