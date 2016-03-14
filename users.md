@@ -1,6 +1,6 @@
 # User
 
-The **User** application let you manage your website's registration process and all the user accounts.
+The ***User*** application let you manage your website's registration process and all the user accounts.
 
 ## User listing
 
