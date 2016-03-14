@@ -1,6 +1,6 @@
 # Pages
 
-This is the essential application of wityCMS. If you want to make a website with a lot of pages, the application **Pages** is the solution. Each page created in this application is a full web page.
+This is the essential application of wityCMS. If you want to make a website with a lot of pages, the application ***Pages*** is the solution. Each page created in this application is a full web page.
 
 ## Pages listing
 
@@ -40,7 +40,7 @@ On the side, you find the details information about your current page:
 
 ### SEO
 
-The "Title" and "Description" meta tags are "**html**" tags inserted in the ```<head>``` section of a web page (before the ```<body>```). 
+The "Title" and "Description" meta tags are **`html`** tags inserted in the `<head>` section of a web page (before the `<body>`). 
 
 They help you to provide information for the search engines, social networks and other systems using "*metadata*". The information on those tags are not visible on your website, but it appears in the source code of the page.
 
@@ -58,7 +58,7 @@ To index your page in the *navbar* (navigation bar / menu), you need to open you
 Open the folder containing website sources:
 
 1. **Themes** folder
-2. Name of your theme (here ***grafx***) 
+2. Name of your theme (here **grafx**) 
 3. **Templates**
 4. Download the **index.html** 
 ![](pages-04.png)
