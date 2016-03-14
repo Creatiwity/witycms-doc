@@ -1,5 +1,5 @@
 # Librairies (JavaScript)
-Libraries are JavaScript libraries only located in the /libraries/ directory of wityCMS.
+Libraries are JavaScript libraries only located in the `/libraries/` directory of wityCMS.
 
 ## Add a library
 1. Create a folder with the name of the library (such as /libraries/testlib/)
@@ -9,7 +9,7 @@ Libraries are JavaScript libraries only located in the /libraries/ directory of 
 ```
 
 ## Use a library in a template
-wityCMS uses requireJS to manage JS libraries.
+wityCMS uses `requireJS` to manage JS libraries.
 
 To load a library, it must be declared in the view.php of an application:
 ```php
