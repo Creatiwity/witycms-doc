@@ -4,7 +4,7 @@
     ],
     "pluginsConfig": {
         "versions": {
-            "type": "tags",
+            "type": "branches",
             "includeFilepath": false
         }
     }
