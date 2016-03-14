@@ -1,7 +1,7 @@
 # Architecture and Workflow
 The next slide describes the workflow of the v0.5:
 
-![](wityCMS-workflow.jpg)
+![](images/wityCMS-workflow.jpg)
 
 All wityCMS kernel is located in the folder `system/WCore`.
 

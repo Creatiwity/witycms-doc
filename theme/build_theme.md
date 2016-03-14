@@ -8,7 +8,7 @@ The best point of reference is usually the default theme bundled with your wityC
 
 It's mandatory you have the templates folder with the `index.html` to define your theme. If you don't have these files, your theme won't work properly, or just won't show up at all.  
 
-![](02-folders-template.png)
+![](images/02-folders-template.png)
 
 Templates folder contain all the **`.html`** index you need for the different theme page of your website.
 
@@ -42,7 +42,7 @@ An example how to start your **index.html** :
         <script src="/libraries/IE-compatibility/html5shiv.min.js"></script>
         <script src="/libraries/IE-compatibility/respond.min.js"></script>
     <![endif]-->
-    
+
     <script type="text/javascript">
         var require = {
             deps: ['bootstrap']
@@ -88,9 +88,9 @@ Here's an example. Copy and paste the following **`HTML`** into a file:
 </html>
 ```
 
-### Images 
+### Images
 
-**img** folder contain all the assets you need to customize your theme. For example, you can replace the logo of the default "**grafx**" theme by your logo (keep the same filename if you want to avoid editing the **index.html** file too). 
+**img** folder contain all the assets you need to customize your theme. For example, you can replace the logo of the default "**grafx**" theme by your logo (keep the same filename if you want to avoid editing the **index.html** file too).
 
 ```html
 <header class="theme-header">

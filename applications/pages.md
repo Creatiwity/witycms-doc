@@ -11,11 +11,11 @@ The list contains all the pages created on your website. It gives you a rapid vi
 * Views
 * Date of the last modification 
 
-![](pages-01.png)
+![](images/pages-01.png)
 
 The action button **Edit** allows you to *edit* or *delete* a page (according to permissions granted by your administrator).
 
-![](pages-02.png)
+![](images/pages-02.png)
 ## Create or edit page
 
 If you want to add a page: Click on green button **Add a page**.
@@ -24,7 +24,7 @@ If you want to add a page: Click on green button **Add a page**.
 
 After clicking the button **Add a page**. You can write a new page.
 
-![](pages-03.png)
+![](images/pages-03.png)
 
 * **Title***: Start by indicating the title of your page (less is better).
 * **URL***: The URL will be automatically generated with the information you fill in the title form. If you want, you can change this URL.
@@ -61,7 +61,7 @@ Open the folder containing website sources:
 2. Name of your theme (here **grafx**) 
 3. **Templates**
 4. Download the **index.html** 
-![](pages-04.png)
+![](images/pages-04.png)
 
 5. Open it with a text editor (e.g: [**Sublime Text**](https://www.sublimetext.com/))
 6. Add your page as you can see below between `<li>` and `</li>` 

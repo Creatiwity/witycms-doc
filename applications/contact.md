@@ -11,7 +11,7 @@ It gives you a rapid view of:
 * **Subject**: Title and content
 * **Date**: Sending date.
 
-![](contact-01.jpg)
+![](images/contact-01.jpg)
 ## Reading pop-up
 
 To read a delivery email :
@@ -23,12 +23,12 @@ To read a delivery email :
   * Message
   * Attachment 
 
-![](contact-02.jpg)
+![](images/contact-02.jpg)
 ## Configuration 
 
 You can also configure a contact box to resend the email contact directly to a configure mail box.
 
-![](contact-03.jpg)
+![](images/contact-03.jpg)
 
 * **Sender's name**: sender's name who receive the mail information
 * **Sender's email**: sender's email who receive the mail information

@@ -4,7 +4,7 @@ The ***Settings*** application will allow you to configure general settings of y
 
 ## Settings of the site
 
-![](settings-01.png)
+![](images/settings-01.png)
 ### General
 
 *General* - it is the first configuration you did during the installation steps.
@@ -32,7 +32,7 @@ When finished, you just need to **submit** and your modification will be saved.
 
 ## Languages
 
-![](settings-02.png)
+![](images/settings-02.png)
 wityCMS is a multilingual software for content editing. 
 In this section, you can add new languages and define which one is the default language.
 
@@ -40,7 +40,7 @@ Click on the button **Add a language** to set up a new language.
 
 ## Add a language
 
-![](settings-03.png)
+![](images/settings-03.png)
 
 * **Name***:  Name
 * **Iso***: Please, respect the [ISO 639 and ISO 3166](http://www.localeplanet.com/icu/) to configure your new language.
