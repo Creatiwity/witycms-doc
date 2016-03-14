@@ -11,6 +11,7 @@ Each of the admin and the front can contain different kind of files:
 - view.php: this file prepares the template files to be rendered by assigning variables into them
 
 ## Manifest
+
 The manifest is a XML file that describes the whole application and the actions accessible in the app (the URLs) both for the admin and for the front.
 
 Here is a sample file for the news application:
