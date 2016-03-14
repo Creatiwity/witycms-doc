@@ -11,7 +11,7 @@ This list contains all registered users. It gives you a rapid view of:
 * **Group**
 * **Last connection**
 
-The action button **Edit** allow you to *edit* or *delete* a user (according to permissions granted by your administrator).
+The action button **Edit** allows you to *edit* or *delete* a user (according to permissions granted by your administrator).
 ![](../images/user-listing.png)
 The bloc search at the right allows you to make a fast search when you need to find a user.
 
