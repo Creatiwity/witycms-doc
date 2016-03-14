@@ -1,6 +1,4 @@
 {
-    "plugins": [
-        "versioning"
-    ],
+    "plugins": [],
     "pluginsConfig": {}
 }
