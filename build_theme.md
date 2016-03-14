@@ -10,9 +10,9 @@ It's mandatory you have the templates folder with the `index.html` to define you
 
 ![](02-folders-template.png)
 
-Templates folder contain all the *.html* index you need for the different theme page of your website.
+Templates folder contain all the **`.html`** index you need for the different theme page of your website.
 
-An example how to start your index.html :
+An example how to start your **index.html** :
 
 ```html
 <html lang="{$wity_lang}">
@@ -72,7 +72,7 @@ The Google Fonts API will generate the necessary browser-specific CSS to use the
 font-family: 'Open Sans', sans-serif;
 ```
 
-Here's an example. Copy and paste the following HTML into a file:
+Here's an example. Copy and paste the following **`HTML`** into a file:
 
 ```html
 <html>
@@ -90,7 +90,7 @@ Here's an example. Copy and paste the following HTML into a file:
 
 ### Images 
 
-**img** folder contain all the assets you need to customize your theme. For example, you can replace the logo of the default "grafx" theme by your logo (keep the same filename if you want to avoid editing the index.html file too). 
+**img** folder contain all the assets you need to customize your theme. For example, you can replace the logo of the default "**grafx**" theme by your logo (keep the same filename if you want to avoid editing the **index.html** file too). 
 
 ```html
 <header class="theme-header">
