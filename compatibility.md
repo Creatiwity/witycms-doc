@@ -9,7 +9,7 @@ The deployment and the basics uses of wityCMS do not require specific knowledge 
 
 ## PHP 5.4+ or 7
 
-The installation of wityCMS requires a **`PHP`** environment with minimal version of **`PHP 5.4+`** or **`PHP 7`**.
+The installation of wityCMS requires a **`PHP`** environment with minimal version of PHP 5.4+ or PHP 7.
 
 ## MySQL 5.5
 
