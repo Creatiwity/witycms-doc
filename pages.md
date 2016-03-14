@@ -82,4 +82,4 @@ Open the folder containing website sources:
 </ul>
 ```
 
-7. Save and upload the index.html file to replace it.
+7. Save and upload the **index.html** file to replace it.
