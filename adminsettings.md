@@ -1,6 +1,6 @@
 # Administration and Settings
 
-wityCMS comes with an administration panel accessible through the `www.yourwebsite.com/admin` URL. If needed, you will be invited to login (Identifier and password) with your admin account: 
+wityCMS comes with an administration panel accessible through the `www.sitename.com/admin` URL. If needed, you will be invited to login (Identifier and password) with your admin account: 
 
 ![](connect-01.png)
 
@@ -14,11 +14,11 @@ Your administration panel is divided into five areas:
 2. The application selector
 3. A logout button to disconnect your account
 4. The application menu to access to the different sections of your application
-5. The content area to edit your **News**, **Pages** etc
+5. The content area to edit your news, pages etc.
 
 ## Settings
 
-The **Settings** application will allow you to configure general settings of your website.
+The ***Settings*** application will allow you to configure general settings of your website.
 
 ![](settings-01.png)
 ### General
