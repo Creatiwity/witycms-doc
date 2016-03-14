@@ -1,8 +1,8 @@
 # News
 
-**News** application lets you manage a collection of articles or posts ordered by publication date and sorted by categories.
+***News*** application lets you manage a collection of articles or posts ordered by publication date and sorted by categories.
 
-Using **News** application is helpful if you want to create and manage your site's news, like a blog. 
+Using ***News*** application is helpful if you want to create and manage your site's news, like a blog. 
 
 ## News listing
 ![](news-01.png)
