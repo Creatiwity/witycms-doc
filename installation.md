@@ -13,7 +13,7 @@ Folder structure:
 
 ## wityCMS installation
 
-Once the upload finished, open your browser and type the URL of your website (eg: http://www.nameofyourwebsite.com if you uploaded the files at the root of your website).
+Once the upload finished, open your browser and type the URL of your website (eg: http://www.sitename.com if you uploaded the files at the root of your website).
 
 This will redirect you to the installation wizard. At this stage, you just have to follow the 4 steps to install wityCMS. 
 
