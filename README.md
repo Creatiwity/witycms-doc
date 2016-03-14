@@ -1,6 +1,6 @@
 ![](wityCMS-logo.png)
 
-wityCMS is a lightweight Content Management System (CMS) in PHP, Model-View-Controller oriented.
+wityCMS is a lightweight Content Management System (CMS) in **`PHP`**, Model-View-Controller oriented.
 
 This manual was created for guiding you in your first steps with wityCMS.
 
