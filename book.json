@@ -1,11 +1,15 @@
 {
     "plugins": [
-        "versions"
+        "versions",
+        "ga"
     ],
     "pluginsConfig": {
         "versions": {
             "type": "branches",
             "includeFilepath": false
+        },
+        "ga": {
+            "token": "UA-57229349-1"
         }
     }
 }
