@@ -77,5 +77,5 @@ wityCMS allows you to translate easily all your content of your website.
 ![](../images/settings-translate.png)
 Click on the button **Edit** to update the language of your **applications** and **themes**.
 
-### Modification
+### Edition
 ![](../images/settings-translate-detail.png)
