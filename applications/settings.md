@@ -14,12 +14,18 @@ The ***Settings*** application will allow you to configure general settings of y
 
 Both fields will be used in the `from` field of the mails sent by the website, like in the contact form.
 
-### SEO
+## SEO
+
+![](../images/settings-seo.png)
+### General
 
 This section allows you to edit the elements that will affect the visibility of your website in search engines (such as Google). You can leave the fields below blank, but if you want to be found efficiently on search engines, it is strongly recommended to complete the fields correctly.
 
 * **Title**: Website title which defines your activity.
 * **Description (about 125 symbols)**: a short description of your activity (it cannot exceed 125 characters).
+
+### OpenGraph (Facebook)
+
 
 ### Icons
 
@@ -38,7 +44,7 @@ In this section, you can add new languages and define which one is the default l
 
 Click on the button **Add a language** to set up a new language.
 
-## Add a language
+### Add a language
 
 ![](../images/settings-languages-add.png)
 
