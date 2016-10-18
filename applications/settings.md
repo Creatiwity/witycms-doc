@@ -19,8 +19,6 @@ The ***Settings*** application will allow you to configure general settings of y
 
 ### Default applications
 
-You can edit the icon that will identify your website. More often, it is the logo of your company or a graphic that represents the activity of your website.
-
 * **Default application**: The default application is the first application executed by wityCMS. It will be displayed when a visitor connects to the root page of your website. For instance, if you want to create a blog, we advise you to select the ***News*** application.
 
 * **Default application in admin**: The main admin application is the first application loaded when you open the administration. We advise you to select the application you will mainly use (***user*** or ***news*** for instance).
@@ -29,14 +27,16 @@ You can edit the icon that will identify your website. More often, it is the log
 
 ![](../images/settings-seo.png)
 ### General
-
 This section allows you to edit the elements that will affect the visibility of your website in search engines (such as Google). You can leave the fields below blank, but if you want to be found efficiently on search engines, it is strongly recommended to complete the fields correctly.
 
 * **Title**: Website title which defines your activity.
 * **Description (about 125 symbols)**: a short description of your activity (it cannot exceed 125 characters).
 
 ### OpenGraph (Facebook)
+This section allows you to edit the elements that will affect the visibility of your website in search engines (such as Google). You can leave the fields below blank, but if you want to be found efficiently on search engines, it is strongly recommended to complete the fields correctly.
 
+* **Title**: Website title which defines your activity.
+* **Description (about 125 symbols)**: a short description of your activity (it cannot exceed 125 characters).
 
 ## Contact details
 ![](../images/settings-contact-details.png)
