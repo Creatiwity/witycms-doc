@@ -51,15 +51,14 @@ The following fields will allow you edit the coordinates details of your website
 * **Phone**
 
 ## Languages
-
-![](../images/settings-languages.png)
 wityCMS is a multilingual software for content editing.
+![](../images/settings-languages.png)
 In this section, you can add new languages and define which one is the default language.
 
 Click on the button **Add a language** to set up a new language.
 
 ### Add a language
-
+It is easy to add a new language on wityCMS, you just need to fill properly the following fields.
 ![](../images/settings-languages-add.png)
 
 * **Name***:  Name
@@ -74,6 +73,7 @@ To confirm the creation of your new language click on the button **Submit**.
 Now, you can translate all your contents in the language you've just added.
 
 ## Translate
+wityCMS allows you to translate easily all your content of your 
 ![](../images/settings-translate.png)
 ### Modification
 ![](../images/settings-translate-detail.png)
