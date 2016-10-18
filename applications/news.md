@@ -5,7 +5,7 @@
 Using ***News*** application is helpful if you want to create and manage your site's news, like a blog.
 
 ## News listing
-![](../images/news-listing.png)
+![](../images/news-listing-empty.png)
 The list contains all news created on your website. It gives you an overview of:
 
 * The title
@@ -26,7 +26,7 @@ Moreover you can add a news by clicking the **Add a news** button.
 
 After clicking the button **Add** or **Edit** a news, you can write the content:
 
-![](../images/news-listing-empty.png)
+![](../images/news-listing.png)
 
 * **Title***: Start by indicating the news title *(it cannot exceed 140 characters)*.
 * **URL***: The URL will be automatically generated with the information you filled in the title form. If you want, you can change this URL.
