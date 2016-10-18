@@ -10,9 +10,21 @@ The ***Settings*** application will allow you to configure general settings of y
 *General* - it is the first configuration you did during the installation steps.
 
 * **Website's name**: it is the name you need to give at your website to define your activity.
-* **Administrator's Email**: more often, it is better to give the address of the webmaster in charge of the website.
 
 Both fields will be used in the `from` field of the mails sent by the website, like in the contact form.
+
+### Icons
+
+You can edit the icon that will identify your website. More often, it is the logo of your company or a graphic that represents the activity of your website.
+
+* **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
+* **Site's Icon (128x128 px)**: Icon used in Facebook publications and iOS shortcuts.
+
+When finished, you just need to **submit** and your modification will be saved.
+
+### Default application
+
+
 
 ## SEO
 
@@ -27,14 +39,12 @@ This section allows you to edit the elements that will affect the visibility of 
 ### OpenGraph (Facebook)
 
 
-### Icons
+## Contact details
+![](../images/settings-contact-details.png)
 
-You can edit the icon that will identify your website. More often, it is the logo of your company or a graphic that represents the activity of your website.
+* **Administrator's Email**: more often, it is better to give the address of the webmaster in charge of the website.
 
-* **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
-* **Site's Icon (128x128 px)**: Icon used in Facebook publications and iOS shortcuts.
 
-When finished, you just need to **submit** and your modification will be saved.
 
 ## Languages
 
