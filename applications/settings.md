@@ -39,9 +39,13 @@ The OpenGraph protocol is a short description to precise information on its page
 * **Description**: a short description of your activity.
 * **Image**: More often, it is the logo of your company or a graphic that represents the activity of your website.
 
-## Contact details
+## Coordinates
 ![](../images/settings-contact-details.png)
+This section allows you to edit all the coordinates information of your website, location, email and phone.
 
+* **Address** :
+* **Zip code**:
+* **City**:
 * **Administrator's Email**: more often, it is better to give the address of the webmaster in charge of the website.
 
 ## Languages
