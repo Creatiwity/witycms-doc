@@ -21,8 +21,9 @@ The ***Settings*** application will allow you to configure general settings of y
 
 You can edit the icon that will identify your website. More often, it is the logo of your company or a graphic that represents the activity of your website.
 
-* **Default application**: it is the name you need to give at your website to define your activity.
-* **Default application in admin**: it is the Uniform Resource Locator who give acces to your website. By default, this field is pre-filled.
+* **Default application**: The default application is the first application executed by wityCMS. It will be displayed when a visitor connects to the root page of your website. For instance, if you want to create a blog, we advise you to select the ***News*** application.
+
+* **Default application in admin**: The main admin application is the first application loaded when you open the administration. We advise you to select the application you will mainly use (***user*** or ***news*** for instance).
 
 ## SEO
 
