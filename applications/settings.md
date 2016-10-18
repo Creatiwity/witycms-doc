@@ -8,6 +8,8 @@ The ***Settings*** application will allow you to configure general settings of y
 *General* - it is the first configuration you did during the installation steps.
 
 * **Website's name**: it is the name you need to give at your website to define your activity.
+* **website's base URL**: it is the Uniform Resource Locator who give acces to your website.
+* 
 
 Both fields will be used in the `from` field of the mails sent by the website, like in the contact form.
 
