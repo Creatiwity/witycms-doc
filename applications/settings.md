@@ -44,8 +44,6 @@ This section allows you to edit the elements that will affect the visibility of 
 
 * **Administrator's Email**: more often, it is better to give the address of the webmaster in charge of the website.
 
-
-
 ## Languages
 
 ![](../images/settings-languages.png)
@@ -68,3 +66,7 @@ Click on the button **Add a language** to set up a new language.
 
 To confirm the creation of your new language click on the button **Submit**.
 Now, you can translate all your contents in the language you've just added.
+
+## Translate
+
+![](../images/settings-translate.png)
