@@ -60,6 +60,7 @@ Click on the button **Add a language** to set up a new language.
 ### Add a language
 It is easy to add a new language on wityCMS, you just need to fill properly the following fields.
 ![](../images/settings-languages-add.png)
+
 * **Name***:  Name
 * **Iso***: Please, respect the [ISO 639 and ISO 3166](http://www.localeplanet.com/icu/) to configure your new language.
 * **Code***: Code
