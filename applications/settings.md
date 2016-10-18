@@ -7,9 +7,6 @@ The ***Settings*** application will allow you to configure general settings of y
 ### General
 *General* - it is the main configuration of your website.
 
-### General
-*General* - it is the main configuration of your website.
-
 * **Website's name**: it is the name you need to give at your website to define your activity.
 * **website's base URL**: it is the Uniform Resource Locator who give acces to your website. By default, this field is pre-filled.
 * **Time zone***: By default, the Time Zone is always (UTC + 01: 00) Paris.
