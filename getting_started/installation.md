@@ -8,7 +8,7 @@ Go to the download section of [Creatiwity](https://github.com/Creatiwity/wityCMS
 1. Extract the files from the zip folder and save it on your computer (remember the location).
 2. With your FTP software (eg: [FileZilla](https://filezilla-project.org/)), upload the previously extracted folder to your server. 
 
-/!\ do not forget to upload the hidden file **.htaccess** to your server.
+**/!\ do not forget to upload the hidden file **"*.htaccess*"** to your server.**
 
 Folder structure:
 ![](../images/files-structure.png)
