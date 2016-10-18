@@ -77,4 +77,5 @@ wityCMS allows you to translate easily all your content of your website.
 Click on the button **Edit** to update the language of your **applications** and **themes**.
 
 ### Edition
+When you decide to edit the language you have many tabs that language to configure. 
 ![](../images/settings-translate-detail.png)
