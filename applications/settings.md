@@ -46,8 +46,9 @@ This section allows you to edit all the coordinates information of your website,
 * **Address** :
 * **Zip code**:
 * **City**:
+* **State**:
 * **Administrator's Email**: more often, it is better to give the address of the webmaster in charge of the website.
-
+* **Phone**: 
 ## Languages
 
 ![](../images/settings-languages.png)
