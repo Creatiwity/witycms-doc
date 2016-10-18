@@ -26,10 +26,10 @@ The ***Settings*** application will allow you to configure general settings of y
 * **Time zone***: By default, the Time Zone is always (UTC + 01: 00) Paris.
 * **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts. More often, it is the logo of your company or a graphic that represents the activity of your website.
 * **Default Theme**: Choose the theme for your website. The field is always pre-filled with the basic theme "grafx".
-* **Google Analytics**: identifiant du compte google analytics
-* **Version**: version du site (utile pour recharger les ressource css / javascripte
-* **Debug mode**: afficher ou non les erreurs
-* **Anti flood mode**: empecher le renvoyer deux fois le formulaire
+* **Google Analytics**: Fill with your google analytics ID.
+* **Version**: Version number of your website (useful to recharge the CSS / JavaScript in the browser resource).
+* **Debug mode**: Display or not the errors.
+* **Anti flood mode**: prevent to return the form many times.
 
 ### Default applications
 
