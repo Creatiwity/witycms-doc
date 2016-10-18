@@ -41,14 +41,14 @@ The OpenGraph protocol is a short description to precise information on its page
 
 ## Coordinates
 ![](../images/settings-contact-details.png)
-This section allows you to edit all the coordinates information of your website, location, email and phone.
+The following fields will allow you edit the coordinates details of your website, location, email and phone.
 
-* **Address** :
-* **Zip code**:
-* **City**:
-* **State**:
+* **Address**
+* **Zip code**
+* **City**
+* **State**
 * **Administrator's Email**: more often, it is better to give the address of the webmaster in charge of the website.
-* **Phone**:
+* **Phone**
 
 ## Languages
 
