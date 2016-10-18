@@ -5,26 +5,24 @@ The ***Settings*** application will allow you to configure general settings of y
 ## Settings of the site
 ![](../images/settings-configure.png)
 ### General
-*General* - it is the first configuration you did during the installation steps.
+*General* - it is the main configuration of your website.
 
 * **Website's name**: it is the name you need to give at your website to define your activity.
-* **website's base URL**: it is the Uniform Resource Locator who give acces to your website.
-* 
+* **website's base URL**: it is the Uniform Resource Locator who give acces to your website. By default, this field is pre-filled.
+* **Time zone***: By default, the Time Zone is always (UTC + 01: 00) Paris.
+* **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts. More often, it is the logo of your company or a graphic that represents the activity of your website.
+* **Default Theme**: Choose the theme for your website. The field is always pre-filled with the basic theme "grafx".
+* **Google Analytics**: 
+* **Version**: 
+* **Debug mode**:
+* **Anti flood mode**:
 
-Both fields will be used in the `from` field of the mails sent by the website, like in the contact form.
-
-### Icons
+### Default applications
 
 You can edit the icon that will identify your website. More often, it is the logo of your company or a graphic that represents the activity of your website.
 
-* **favicon (.ico)**: The favicon used in the address bar, bookmarks, tabs, or other shortcuts.
-* **Site's Icon (128x128 px)**: Icon used in Facebook publications and iOS shortcuts.
-
-When finished, you just need to **submit** and your modification will be saved.
-
-### Default application
-
-
+* **Default application**: it is the name you need to give at your website to define your activity.
+* **Default application in admin**: it is the Uniform Resource Locator who give acces to your website. By default, this field is pre-filled.
 
 ## SEO
 
