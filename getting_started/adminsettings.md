@@ -1,13 +1,10 @@
 # Administration and Settings
 
 wityCMS comes with an administration panel accessible through the `www.sitename.com/admin` URL. If needed, you will be invited to login (Identifier and password) with your admin account:
-
 ![](../images/login-form.png)
-
 ## Dashboard description
 
 Your administration panel is divided into five areas:
-
 ![](../images/admin-parts.png)
 
 1. The website name which is also a link to the front office
