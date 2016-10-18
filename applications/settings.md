@@ -5,7 +5,6 @@ The ***Settings*** application will allow you to configure general settings of y
 ## Settings of the site
 ![](../images/settings-configure.png)
 ### General
-
 *General* - it is the first configuration you did during the installation steps.
 
 * **Website's name**: it is the name you need to give at your website to define your activity.
