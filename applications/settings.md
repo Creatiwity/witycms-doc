@@ -68,5 +68,6 @@ To confirm the creation of your new language click on the button **Submit**.
 Now, you can translate all your contents in the language you've just added.
 
 ## Translate
-
 ![](../images/settings-translate.png)
+### Modification
+![](../images/settings-translate-detail.png)
