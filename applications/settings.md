@@ -33,10 +33,11 @@ This section allows you to edit the elements that will affect the visibility of 
 * **Description (about 125 symbols)**: a short description of your activity (it cannot exceed 125 characters).
 
 ### OpenGraph (Facebook)
-This section allows you to edit the elements that will affect the visibility of your website in search engines (such as Google). You can leave the fields below blank, but if you want to be found efficiently on search engines, it is strongly recommended to complete the fields correctly.
+The OpenGraph protocol is a short description to precise information on its pages. This information will allow social networks to better display a link to your website.
 
 * **Title**: Website title which defines your activity.
-* **Description (about 125 symbols)**: a short description of your activity (it cannot exceed 125 characters).
+* **Description**: a short description of your activity.
+* **Image**: More often, it is the logo of your company or a graphic that represents the activity of your website.
 
 ## Contact details
 ![](../images/settings-contact-details.png)
