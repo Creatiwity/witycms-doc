@@ -1,6 +1,6 @@
 ![](images/wityCMS-logo.png)
 
-> Last updated on October 18th, 2016 wityCMS V0.6.0
+> Last updated on October 19th, 2016 wityCMS V0.6.0
 
 wityCMS is a lightweight Content Management System (CMS) in **`PHP`**, Model-View-Controller oriented.
 
