@@ -25,4 +25,4 @@ If you need assistance as you go through the questions, you can contact us on [C
 ![](images/installer-general.png)
 # Workflow
 
-![](images/wityCMS-workflow.jpg)
+![](images/wityCMS-workflow.png)
