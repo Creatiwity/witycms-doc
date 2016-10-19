@@ -6,11 +6,12 @@ You will now install wityCMS from its source files.
 Go to the download section of [Creatiwity](https://github.com/Creatiwity/wityCMS/releases/download/0.5.0/wityCMS-0.5.0.zip) website and download the latest version of wityCMS.
 
 1. Extract the files from the zip folder and save it on your computer (remember the location).
-2. With your FTP software (eg: [FileZilla](https://filezilla-project.org/)), upload the previously extracted folder to your server.
+2. With your FTP software (eg: [FileZilla](https://filezilla-project.org/)), upload the previously extracted folder to your server. 
+
+**/!\ Do not forget to upload the hidden file **"*.htaccess*"** to your server. /!\**
 
 Folder structure:
 ![](../images/files-structure.png)
-
 ## wityCMS installation
 
 Once the upload finished, open your browser and type the URL of your website (eg: http://www.sitename.com if you uploaded the files at the root of your website).
@@ -38,7 +39,6 @@ NB: the four sections must have the validated tick to enable the **Launch instal
 ### Database
 
 wityCMS needs a **`MySQL`** database to run. Hosting providers often provide one. Fill in the form with the credentials provided by your hosting company.
-
 ![](../images/installer-database.png)
 
 * **Server***: localhost by default
@@ -55,7 +55,6 @@ wityCMS needs a **`MySQL`** database to run. Hosting providers often provide one
 The following fields will allow you create your user account. This account will have full priviledges to make changes in the administration section. Please, choose very carefully your password.
 
 Clicking on the **Launch install** button will finish the installation. You will be able to connect to the administration panel (back office).
-
 ![](../images/installer-account.png)
 
 * **Nickname***
@@ -70,7 +69,6 @@ Clicking on the **Launch install** button will finish the installation. You will
 Congratulations, the installation of wityCMS is over! Please, make sure the directory `/installer/` is deleted from your server.
 
 ![](../images/installer-congratulations.png)
-
 You can either connect to your home page, or to the administration panel with the two buttons:
 * **Home button**: you are redirected on your website's home you chose during the second installation step.
 * **Administration button**: you are redirected on the back office. You need to login with the information you provided during the last step of your installation.
