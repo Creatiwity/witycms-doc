@@ -72,10 +72,10 @@ To confirm the creation of your new language click on the button **Submit**.
 Now, you can translate all your contents in the language you've just added.
 
 ## Translate
-wityCMS allows you to translate easily all your content of your website.
+wityCMS allows you to easily translate all your content of your website.
 ![](../images/settings-translate.png)
 Click on the button **Edit** to update the language of your **applications** and **themes**.
 
 ### Edition
-When you decide to edit the language you have many tabs that language to configure. 
+When you decide to edit the language you have as many tabs as configured languages in wityCMS. 
 ![](../images/settings-translate-detail.png)
