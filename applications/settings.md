@@ -15,7 +15,7 @@ The ***Settings*** application will allow you to configure general settings of y
 * **Google Analytics**: Fill with your google analytics ID.
 * **Version**: Version number of your website (useful to recharge the CSS / JavaScript in the browser resource).
 * **Debug mode**: Display or not the errors.
-* **Anti flood mode**: prevent to return the form many times
+* **Anti flood mode**: Prevent user from resubmitting a form more than one time.
 
 ### Default applications
 
